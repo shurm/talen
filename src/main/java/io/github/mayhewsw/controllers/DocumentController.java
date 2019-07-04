@@ -324,7 +324,7 @@ public class DocumentController {
             LineIO.append(sd.logfile, msg);
         } catch (IOException e) {
             logger.error("Cannot log to: " + sd.logfile);
-            e.printStackTrace();
+           // e.printStackTrace();
         }
     }
 
@@ -356,9 +356,11 @@ public class DocumentController {
             TreeMap<String, TextAnnotation> tas = sd.tas;
             TextAnnotation taToSave = tas.get(taid);
 
-            //System.out.println(foldertype);
-            //System.out.println(outpath);
-            //System.out.println(taToSave);
+            System.out.println("foldertype is "+foldertype);
+            System.out.println("outpath is "+outpath);
+            System.out.println("taToSave is "+taToSave);
+            
+           // taToSave.
             IO.save(foldertype, outpath, taToSave);
 
             //String config = sd.prop.getProperty("nerconfig");
