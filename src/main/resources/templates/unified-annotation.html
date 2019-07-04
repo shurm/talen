@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+<html xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" xmlns:th="http://www.thymeleaf.org" layout:decorate="~{base}">
+<head>
+    <title>Unified Annotation</title>
+	            <style>
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+			.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body>
+    
+    
+    
+    <div layout:fragment="content">
+
+        
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div th:utext="${html}" id="htmlcontainer"></div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group position-fixed">
+                        <a id="savebutton" class="btn btn-outline-dark" href="#" role="button"><i class="fa fa-floppy-o" aria-hidden="true"></i> Save</a>
+                        <!--<a id="dictbutton" class="btn btn-outline-dark" href="#" data-toggle="button" th:classappend="${session.dict.isEmpty()} ? disabled : nothing" role="button"><i class="fa fa-book" aria-hidden="true"></i> Toggle Dict.</a>-->
+                        
+                        <!--<a id="dictbutton" class="btn btn-outline-dark" href="#" data-toggle="button" th:classappend="${session.showdefs != null && session.showdefs ? 'active' : ''}" role="button"><i class="fa fa-book" aria-hidden="true"></i> Toggle Dict.</a>-->
+
+                        <div class="spacer"></div>
+
+						
+                        Options:
+
+                        <div class="form-check">
+                            <div class="pretty p-icon">
+                                <input id="dictbutton" type="checkbox" th:checked="${session.showdefs != null && session.showdefs}" />
+                                <div class="state p-default">
+                                    <i class="icon fa fa-check"></i>
+                                    <label>Show dictionary</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-check">
+                            <div class="pretty p-icon">
+                                <input id="romanbutton" type="checkbox" th:checked="${session.showroman != null && session.showroman}" />
+                                <div class="state p-default">
+                                    <i class="icon fa fa-check"></i>
+                                    <label>Show romanization</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-check">
+                            <div class="pretty p-icon">
+                                <input id="copybutton" type="checkbox" th:checked="${session.allowcopy != null && session.allowcopy}" />
+                                <div class="state p-default">
+                                    <i class="icon fa fa-check"></i>
+                                    <label>Allow copying</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="spacer"></div>
+                        <div th:if="${grouptype} != null">
+                            <span th:each="label : ${labels}">
+                                <button th:id="'addlabel-' + ${label}"
+                                th:class="${label} + ' btn btn-sm'"
+                                th:classappend="${grouptype} == ${label} ? bestlabel : ignorelabel"
+                                th:text="${label}"></button>
+                            </span>
+                            <div class="spacer"></div>
+                        </div>
+                        <!--  -->
+                        
+                        <input type="text" name="keyword" class="form-control input-sm" placeholder="Search...">
+                        
+                        <div class="spacer"></div>
+
+                        <div th:if="${previd != null || nextid != null}" class="btn-group" role="group" aria-label="Next and previous">
+                            <a th:if="${previd} != -1" th:href="@{/document/annotation(taid=${previd})}" href="#" class="btn btn-outline-secondary saveclass" role="button"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous</a>
+                            <a th:if="${nextid} != -1" th:href="@{/document/annotation(taid=${nextid})}" href="#" class="btn btn-outline-secondary saveclass" role="button">Next <i class="fa fa-chevron-right" aria-hidden="true"></i></span></a>
+                        </div>
+                        
+                        
+                        <div class="spacer"></div>
+                        
+                        <div id="infobox"></div>
+                        
+                        <div class="spacer"></div>
+                        
+                        <a style="color:gray" id="back2top" href="#top">Back to top</a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <script src="#" th:src="@{/js/annotate.js}"></script>
+
+
+            
+            <template id="buttons">
+                <div id = "popup-container" class="container-fluid">
+                    
+                    <div th:each="label,iterStat : ${labels}" th:if="${iterStat.index % 2 == 0}" class="form-group">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <button type="button" th:id="${labels[iterStat.index]}" class="btn pointer btn-light labelbutton" th:classappend="${labels[iterStat.index]}" th:field="${labels[iterStat.index]}" th:value="${labels[iterStat.index]}" th:text="${labels[iterStat.index]}"></button>
+                            </div>
+                            <div class="col-md-6" th:if="${iterStat.index+1} &lt; ${labels.size()}">
+                                <button type="button" th:id="${labels[iterStat.index+1]}" class="btn pointer btn-light labelbutton" th:classappend="${labels[iterStat.index+1]}" th:field="${labels[iterStat.index+1]}" th:value="${labels[iterStat.index+1]}" th:text="${labels[iterStat.index+1]}"></button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!--<div class="form-group">-->
+                        <!--<div class="row">-->
+                            <!--<div class="col-md-4">-->
+                                <!--<button type="button" id="O" class="btn pointer btn-outline-secondary" value="O">No label</button>-->
+                                <!--</div>-->
+                                <!--</div>-->
+                                <!--</div>-->
+                                
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="input-group mb-3">
+                                            <input type="text" id="definput" class="form-control labelbutton enter" placeholder="Definition" aria-label="Definition" aria-describedby="basic-addon2">
+                                            <div class="input-group-append">
+                                                <button class="btn btn-outline-secondary labelbutton" role="button" id="submitdict" type="button">Submit</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								
+                               
+                            </div>
+
+								<script>
+								
+								var popup_container = document.getElementById("popup-container");
+								var google_link = document.getElementById("google-search-link");
+								var header_text = google_link.getAttribute('highlighted-text'); //
+								
+								var menu_links = '';
+								if(candgenMap.has(header_text))
+								{														
+									var values = candgenMap.get(header_text);
+									values.forEach(function(element) 
+									{ 
+										var link = '"https://www.geonames.org/'+element+'"';
+										menu_links+='<a class='+'"edl-menu-link labelbutton"'+'href='+link +'>'+element+'</a>';
+									});
+
+									console.log("values");
+									console.log(values);
+
+									
+									var edl_html= ''+
+									'<div class="row">'+
+										'<div class="col-md-6"> '+
+											'<div class="dropdown">'+
+												'<button class="btn btn-primary dropdown-toggle dropbtn">EDL<span class="caret"></span></button> '+
+												'<div  id ="dropdown-menu1" class="dropdown-content">'+menu_links+'</div>'+
+											'</div>'+
+										'</div> '+
+										'<div class="col-md-6"> '+
+											'<a id='+'"edl-url-link"'+'class='+'"labelbutton"'+' ></a>'+
+										'</div>'+
+									'</div>';
+									
+									popup_container.innerHTML+=edl_html;
+								}
+								
+							</script>
+							            
+										 <script>
+											// this runs when you click on a single button.
+											$('.edl-menu-link').click( 
+												function(e) 
+												{
+													e.preventDefault(); 
+													var clickable_link  = document.getElementById('edl-url-link');
+													var t = e.target; 
+													//alert(e.target.innerHTML);
+													clickable_link.setAttribute("href", t.getAttribute("href"));
+													clickable_link.innerHTML = t.innerHTML;
+													return false; 
+												} 
+											);
+											
+										</script>
+                        </template>
+                        
+                    </div>
+                </div>
+               
+            </body>
+
+            </html>

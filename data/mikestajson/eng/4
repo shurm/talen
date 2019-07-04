@@ -1,0 +1,28 @@
+{
+    "corpusId": "",
+    "id": "4",
+    "sentences": {
+        "generator": "txt2tajson.py",
+        "score": 1.0,
+        "sentenceEndPositions": [
+            13
+        ]
+    },
+    "text": "A prequel to Game of Thrones has begun filming in an unknown location.",
+    "tokens": [
+        "A",
+        "prequel",
+        "to",
+        "Game",
+        "of",
+        "Thrones",
+        "has",
+        "begun",
+        "filming",
+        "in",
+        "an",
+        "unknown",
+        "location."
+    ],
+    "views": []
+}

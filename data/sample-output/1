@@ -1,0 +1,35 @@
+{
+    "corpusId": "",
+    "id": "1",
+    "sentences": {
+        "generator": "txt2tajson.py",
+        "score": 1.0,
+        "sentenceEndPositions": [
+            20
+        ]
+    },
+    "text": "Washington is a nice place to visit. The National mall is in Washington. The city is named after George Washington.",
+    "tokens": [
+        "Washington",
+        "is",
+        "a",
+        "nice",
+        "place",
+        "to",
+        "visit.",
+        "The",
+        "National",
+        "mall",
+        "is",
+        "in",
+        "Washington.",
+        "The",
+        "city",
+        "is",
+        "named",
+        "after",
+        "George",
+        "Washington."
+    ],
+    "views": []
+}

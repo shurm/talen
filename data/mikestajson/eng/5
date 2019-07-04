@@ -1,0 +1,22 @@
+{
+    "corpusId": "",
+    "id": "5",
+    "sentences": {
+        "generator": "txt2tajson.py",
+        "score": 1.0,
+        "sentenceEndPositions": [
+            7
+        ]
+    },
+    "text": "My neighbor, Miss Watson has five dogs.",
+    "tokens": [
+        "My",
+        "neighbor,",
+        "Miss",
+        "Watson",
+        "has",
+        "five",
+        "dogs."
+    ],
+    "views": []
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" xmlns:th="http://www.thymeleaf.org" layout:decorate="~{base}">
+<head>
+    <title>Unified Annotation</title>
+</head>
+<body>
+
+<div layout:fragment="navlinks">
+    <ul class="navbar-nav" id="pagesbar">
+        <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="/document/annotation">All annotations</a></li>
+        <!--<li><a href="/document/dict">Dictionary</a></li>-->
+    </ul>
+</div>
+
+<div layout:fragment="content">
+<div class="container">
+
+    <div>
+
+        <div class="row">
+
+            <div class="col-md-2"></div>
+            <div class="col-md-6">
+
+                <ul class="nav nav-tabs" role="tablist">
+                    <li role="presentation" class="nav-item"><a href="#lookup" class="nav-link active" aria-controls="lookup" role="tab" data-toggle="tab">Lookup</a></li>
+                    <li class="nav-item" role="presentation"><a href="#browse" class="nav-link" aria-controls="browse" role="tab" data-toggle="tab">Browse</a></li>
+                </ul>
+
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <!-- This set of sentences is all unannotated -->
+                    <div role="tabpanel" class="tab-pane active" id="lookup">
+                        <div class="spacer"></div>
+
+                        <h4 style="margin-bottom: 20px"><span th:text="${'Dictionary: ' + session.dict.getName()}"></span><small th:text="${' Num entries: ' + session.dict.keySet().size()}"></small> </h4>
+
+
+                        <div class="input-group mb-3">
+                            <input type="text" placeholder="Enter word" class="form-control input-lg enter" id="searchfield"></input>
+                            <div class="input-group-append">
+                                <button id="searchbutton" class="btn btn-outline-secondary">Look up</button>
+                            </div>
+                        </div>
+
+
+
+                        <div class="panel panel-default" id="defpanel">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Definition</h3>
+                            </div>
+                            <div class="panel-body" id="def">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div role="tabpanel" class="tab-pane" id="browse">
+                        <div class="spacer"></div>
+
+                        <table class="table table-hover">
+                            <thead class="thead-dark">
+                            <tr>
+                                <th>Key</th>
+                                <th>Definition</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr th:each="key : ${entries}">
+                                <td th:text="${key.getFirst()}"></td>
+                                <td th:text="${key.getSecond()}"></td>
+                            </tr>
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+</div>
+
+
+<script th:inline="javascript">
+    /*<![CDATA[*/
+    $(document).ready(function() {
+        $( "#defpanel" ).hide( );
+
+//        $("#ratio").val("0.9");
+
+        console.log("doc ready...");
+
+        function search() {
+            console.log("being called...");
+            var word = $("#searchfield").val();
+            console.log(word);
+
+            $("#defpanel").show();
+
+            $.ajax({
+                method: "GET",
+                url: "/dict/lookup",
+                data: {word: word}
+            }).done(function (msg) {
+                console.log("successful lookup:" + msg);
+
+                $("#def").html(msg);
+            });
+        }
+
+
+        $(".enter").keydown(function (event) {
+            var keypressed = event.keyCode || event.which;
+            if (keypressed == 13) {
+                search();
+            }
+        });
+
+        $("#searchbutton").on("click", search);
+
+    });
+    /*]]>*/
+</script>
+
+</html>

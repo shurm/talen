@@ -1,0 +1,34 @@
+{
+    "corpusId": "",
+    "id": "2",
+    "sentences": {
+        "generator": "txt2tajson.py",
+        "score": 1.0,
+        "sentenceEndPositions": [
+            19
+        ]
+    },
+    "text": "North Korea announced Monday morning Korean time that it had detonated another underground nuclear explosion, its second since 2006.",
+    "tokens": [
+        "North",
+        "Korea",
+        "announced",
+        "Monday",
+        "morning",
+        "Korean",
+        "time",
+        "that",
+        "it",
+        "had",
+        "detonated",
+        "another",
+        "underground",
+        "nuclear",
+        "explosion,",
+        "its",
+        "second",
+        "since",
+        "2006."
+    ],
+    "views": []
+}

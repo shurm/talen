@@ -1,0 +1,26 @@
+{
+    "corpusId": "",
+    "id": "3",
+    "sentences": {
+        "generator": "txt2tajson.py",
+        "score": 1.0,
+        "sentenceEndPositions": [
+            11
+        ]
+    },
+    "text": "A record 885 people climbed Mount Everest in May this year.",
+    "tokens": [
+        "A",
+        "record",
+        "885",
+        "people",
+        "climbed",
+        "Mount",
+        "Everest",
+        "in",
+        "May",
+        "this",
+        "year."
+    ],
+    "views": []
+}

@@ -1,0 +1,4 @@
+name	mike 
+folderpath	data/mikestajson/eng/
+format	tajson
+labels	PER ORG LOC GPE
