@@ -38,7 +38,7 @@
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 </style>
 </head>
-<body>
+	<body>
     
     
     
@@ -175,12 +175,12 @@
 								var header_text = google_link.getAttribute('highlighted-text'); //
 								
 								var menu_links = '';
-								if(candgenMap.has(header_text))
+								if(typeof(candgenMap)!='undefined' && candgenMap.has(header_text))
 								{														
 									var values = candgenMap.get(header_text);
 									values.forEach(function(element) 
 									{ 
-										var link = '"https://www.geonames.org/'+element+'"';
+										var link = '"'+element+'"';
 										menu_links+='<a class='+'"edl-menu-link labelbutton"'+'href='+link +'>'+element+'</a>';
 									});
 
@@ -206,27 +206,27 @@
 								
 							</script>
 							            
-										 <script>
-											// this runs when you click on a single button.
-											$('.edl-menu-link').click( 
-												function(e) 
-												{
-													e.preventDefault(); 
-													var clickable_link  = document.getElementById('edl-url-link');
-													var t = e.target; 
-													//alert(e.target.innerHTML);
-													clickable_link.setAttribute("href", t.getAttribute("href"));
-													clickable_link.innerHTML = t.innerHTML;
-													return false; 
-												} 
-											);
-											
-										</script>
+							 <script>
+								// this runs when the user clicks on an element in the edl dropdown.
+								$('.edl-menu-link').click( 
+									function(e) 
+									{
+										e.preventDefault(); 
+										var clickable_link  = document.getElementById('edl-url-link');
+										var t = e.target; 
+										//alert(e.target.innerHTML);
+										clickable_link.setAttribute("href", t.getAttribute("href"));
+										clickable_link.innerHTML = t.innerHTML;
+										return false; 
+									} 
+								);
+								
+							</script>
                         </template>
                         
                     </div>
-                </div>
+		</div>
                
-            </body>
+	</body>
 
-            </html>
+</html>

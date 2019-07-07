@@ -316,15 +316,19 @@ public class HtmlGenerator {
         	    	   for(int a=0;a<originalLabels.size() && a<limit;a++)
         	    	   {
         	    		   String label = originalLabels.get(a);
-        	    		   System.out.println("label is "+label);
+        	    		   //System.out.println("label is "+label);
         	    		   List<String> array = mySplit(label);
-        	    		   System.out.println("array is "+array);
+  //      	    		   System.out.println("array is "+array);
         	    		   String url = array.get(0);
+        	    		   if(array.size()>2)
+        	    			   url = array.get(2);
+        	    		   else
+        	    			   url = "https://www.geonames.org/"+url;
         	    		   System.out.println("url is "+url);
         	    		   sortedList.add(url);
         	    		   
         	    	   }
-        	    	   System.out.println("sortedList is "+sortedList);
+        	    	  // System.out.println("sortedList is "+sortedList);
         	    	   candgenMap.put(key, sortedList);
         	       }
         	       
@@ -352,21 +356,7 @@ public class HtmlGenerator {
     		 		+ "console.log(\"testing\");</script>";
     		 
     		 htmltemplate+=mikeHTMLTemp;
-        	 /*
-<script>
- var arr = [
-        	            { key: 'foo', val: ["test","test2"] },
-        	            { key: 'hello', val: 'world' }
-        	        ];
 
-        	        var result = arr.reduce(function(map, obj) {
-        	            map[obj.key] = obj.val;
-        	            return map;
-        	        }, {});
-
-        	        console.log(result['foo']);
- </script>
-        	        */
         }
         String out = String.format(htmltemplate, id, id, html) + "\n";
 
@@ -393,6 +383,7 @@ public class HtmlGenerator {
 		returnValue.add(str.substring(b, str.length()));
 		return returnValue;
 	}
+	
     // function to sort hashmap by values 
     public static List<String> sortByValue(Map<String, Double> hm) 
     { 
