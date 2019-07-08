@@ -21,6 +21,22 @@ $(document).ready(function() {
         highlightrange();
     }
 
+	// 
+    function getEntityString(){
+        if(range.start != -1 && range.end != -1) {
+            
+            var i = range.start; 
+
+            var el = document.getElementById("tok-" + range.id + "-" + i);
+                
+			var txt = el.getAttribute("entity");
+            
+            return txt.trim();
+        }else{
+            return "";
+        }
+    }
+	
     // This retrieves the text within a range. If the range
     // is empty, then it returns the empty string.
     function gettextinrange(usetext){
@@ -141,8 +157,8 @@ $(document).ready(function() {
                 return out;
             },
             title: function () {
-                var text = gettextinrange(true);
-                var link = "<a id = 'google-search-link' class='search' highlighted-text='"+text+"' href=\"https://www.google.com/search?q=" + gettextinrange(true) + "\" target=\"_blank\">Google</a>"
+                var text = getEntityString();
+                var link = "<a id = 'google-search-link' class='search' highlighted-text='"+text+"' href=\"https://www.google.com/search?q=" + text + "\" target=\"_blank\">Google</a>"
                 return text + " (" + link + ")";
             },
             html: true,
@@ -234,9 +250,9 @@ $(document).ready(function() {
             $("[id^=tok]").popover('hide');
             showtopstats();
             event.preventDefault();
-            var span = event.currentTarget;
+            //var span = event.currentTarget;
 
-            removelabel(span);
+            //removelabel(span);
         });
 
     }

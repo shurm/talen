@@ -186,32 +186,8 @@ public class HtmlGenerator {
 
         }
 
-        // add spans to every word that is not a constituent.
-        for (int t = 0; t < text.length; t++) {
-            String def = null;
-            if (dict != null && dict.containsKey(nonroman_text[t])) {
-                def = dict.get(nonroman_text[t]).get(0);
-            }
-
-            String tokid = String.format("tok-%s-%s", id, t);
-
-
-            // The orig attribute is used in the dictionary.
-            if (showdefs && def != null) {
-                text[t] = "<span class='token pointer def' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + def + "</span>";
-            } else {
-                // FIXME: this will only work for single word queries.
-                if (query.length() > 0 && text[t].startsWith(query)) {
-                    text[t] = "<span class='token pointer emph' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + text[t] + "</span>";
-                } else {
-                    text[t] = "<span class='token pointer' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + text[t] + "</span>";
-                }
-            }
-        }
-        System.out.println(ta.getAvailableViews());
-        System.out.println("ner is "+ner);
-        System.out.println(ner.getConstituents());
-        System.out.println(ner.getRelations());
+        String[] text2 = Arrays.copyOf(text, text.length);
+        
         List<Constituent> sentner;
         List<Constituent> sentnersugg;
         int startoffset;
@@ -224,6 +200,62 @@ public class HtmlGenerator {
             sentnersugg = ner.getConstituentsCoveringSpan(sentspan.getFirst(), sentspan.getSecond());
             startoffset = sentspan.getFirst();
         }
+       
+        String [] entities = new String[text.length]; 
+        for (Constituent c : sentner) 
+        {
+
+            int start = c.getStartSpan() - startoffset;
+            int end = c.getEndSpan() - startoffset;
+
+            StringBuilder entityString = new StringBuilder();;
+            for(int i = start;i<end;i++)
+            {
+            	entityString.append(text[i]);
+            	entityString.append(" ");
+            }
+            entityString.deleteCharAt(entityString.length()-1);
+            
+            for(int i = start;i<end;i++)
+            {
+            	entities[i] = entityString.toString();
+            }
+        }
+        
+       
+        
+        // add spans to every word that is not a constituent.
+        for (int t = 0; t < text.length; t++) {
+            String def = null;
+            if (dict != null && dict.containsKey(nonroman_text[t])) {
+                def = dict.get(nonroman_text[t]).get(0);
+            }
+
+            String tokid = String.format("tok-%s-%s", id, t);
+            String entityString = "entity='"+" "+"'";
+            if(entities[t]==null)
+            	tokid="";
+            else
+            	entityString = "entity='"+entities[t]+"'";
+            	
+            
+            // The orig attribute is used in the dictionary.
+            if (showdefs && def != null) {
+                text[t] = "<span "+entityString+" class='token pointer def' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + def + "</span>";
+            } else {
+                // FIXME: this will only work for single word queries.
+                if (query.length() > 0 && text[t].startsWith(query)) {
+                    text[t] = "<span "+entityString+" class='token pointer emph' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + text[t] + "</span>";
+                } else {
+                    text[t] = "<span "+entityString+" class='token pointer' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + text[t] + "</span>";
+                }
+            }
+        }
+        System.out.println(ta.getAvailableViews());
+        System.out.println("ner is "+ner);
+        System.out.println(ner.getConstituents());
+        System.out.println(ner.getRelations());
+
 
         for (Constituent c : sentner) {
 

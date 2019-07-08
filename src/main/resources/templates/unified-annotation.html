@@ -1,43 +1,43 @@
 <!DOCTYPE HTML>
 <html xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" xmlns:th="http://www.thymeleaf.org" layout:decorate="~{base}">
-<head>
-    <title>Unified Annotation</title>
-	            <style>
+	<head>
+		<title>Unified Annotation</title>
 
+		<style>
 
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
+			.dropdown {
+			  position: relative;
+			  display: inline-block;
+			}
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f1f1f1;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
+			.dropdown-content {
+			  display: none;
+			  position: absolute;
+			  background-color: #f1f1f1;
+			  min-width: 160px;
+			  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+			  z-index: 1;
+			}
 
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
+			.dropdown-content a {
+			  color: black;
+			  padding: 12px 16px;
+			  text-decoration: none;
+			  display: block;
+			}
 
-.dropdown-content a:hover {background-color: #ddd;}
-
-.dropdown:hover .dropdown-content {display: block;}
-
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
 			.dropdown-content a:hover {background-color: #ddd;}
 
-.dropdown:hover .dropdown-content {display: block;}
+			.dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
-</style>
-</head>
+			.dropdown:hover .dropbtn {background-color: #3e8e41;}
+						.dropdown-content a:hover {background-color: #ddd;}
+
+			.dropdown:hover .dropdown-content {display: block;}
+
+			.dropdown:hover .dropbtn {background-color: #3e8e41;}
+		</style>
+	</head>
 	<body>
     
     
@@ -131,102 +131,50 @@
 
 
             
-            <template id="buttons">
-                <div id = "popup-container" class="container-fluid">
-                    
-                    <div th:each="label,iterStat : ${labels}" th:if="${iterStat.index % 2 == 0}" class="form-group">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <button type="button" th:id="${labels[iterStat.index]}" class="btn pointer btn-light labelbutton" th:classappend="${labels[iterStat.index]}" th:field="${labels[iterStat.index]}" th:value="${labels[iterStat.index]}" th:text="${labels[iterStat.index]}"></button>
-                            </div>
-                            <div class="col-md-6" th:if="${iterStat.index+1} &lt; ${labels.size()}">
-                                <button type="button" th:id="${labels[iterStat.index+1]}" class="btn pointer btn-light labelbutton" th:classappend="${labels[iterStat.index+1]}" th:field="${labels[iterStat.index+1]}" th:value="${labels[iterStat.index+1]}" th:text="${labels[iterStat.index+1]}"></button>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!--<div class="form-group">-->
-                        <!--<div class="row">-->
-                            <!--<div class="col-md-4">-->
-                                <!--<button type="button" id="O" class="btn pointer btn-outline-secondary" value="O">No label</button>-->
-                                <!--</div>-->
-                                <!--</div>-->
-                                <!--</div>-->
-                                
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="input-group mb-3">
-                                            <input type="text" id="definput" class="form-control labelbutton enter" placeholder="Definition" aria-label="Definition" aria-describedby="basic-addon2">
-                                            <div class="input-group-append">
-                                                <button class="btn btn-outline-secondary labelbutton" role="button" id="submitdict" type="button">Submit</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-								
-								
-                               
-                            </div>
+			<template id="buttons">
+				<div id = "popup-container" class="container-fluid">
+					
+					<table class="table table-striped">
+						<thead>
+							<tr>
+								<th>EDL Links</th>
+							</tr>
+						</thead>
+						<tbody id = "edl-menu-table">
+							
+						</tbody>
+					</table>
 
-								<script>
+						<script>
 								
-								var popup_container = document.getElementById("popup-container");
-								var google_link = document.getElementById("google-search-link");
-								var header_text = google_link.getAttribute('highlighted-text'); //
-								
-								var menu_links = '';
-								if(typeof(candgenMap)!='undefined' && candgenMap.has(header_text))
-								{														
-									var values = candgenMap.get(header_text);
-									values.forEach(function(element) 
-									{ 
-										var link = '"'+element+'"';
-										menu_links+='<a class='+'"edl-menu-link labelbutton"'+'href='+link +'>'+element+'</a>';
-									});
+							var popup_container = document.getElementById("edl-menu-table");
+							var google_link = document.getElementById("google-search-link");
+							var header_text = google_link.getAttribute('highlighted-text'); //
+							
+							var menu_links = '';
+							if(typeof(candgenMap)!='undefined' && candgenMap.has(header_text))
+							{														
+								var values = candgenMap.get(header_text);
+								values.forEach(function(element) 
+								{ 
+									var link = '"'+element+'"';
+									menu_links+='<tr><td> <a class='+'"edl-menu-link labelbutton"'+'href='+link +'>'+element+'</a></tr></td>';
+								});
 
-									console.log("values");
-									console.log(values);
 
-									
-									var edl_html= ''+
-									'<div class="row">'+
-										'<div class="col-md-6"> '+
-											'<div class="dropdown">'+
-												'<button class="btn btn-primary dropdown-toggle dropbtn">EDL<span class="caret"></span></button> '+
-												'<div  id ="dropdown-menu1" class="dropdown-content">'+menu_links+'</div>'+
-											'</div>'+
-										'</div> '+
-										'<div class="col-md-6"> '+
-											'<a id='+'"edl-url-link"'+'class='+'"labelbutton"'+' ></a>'+
-										'</div>'+
-									'</div>';
-									
-									popup_container.innerHTML+=edl_html;
-								}
+								var edl_html= menu_links;
+
+								popup_container.innerHTML+=edl_html;
+							}
 								
-							</script>
-							            
-							 <script>
-								// this runs when the user clicks on an element in the edl dropdown.
-								$('.edl-menu-link').click( 
-									function(e) 
-									{
-										e.preventDefault(); 
-										var clickable_link  = document.getElementById('edl-url-link');
-										var t = e.target; 
-										//alert(e.target.innerHTML);
-										clickable_link.setAttribute("href", t.getAttribute("href"));
-										clickable_link.innerHTML = t.innerHTML;
-										return false; 
-									} 
-								);
-								
-							</script>
-                        </template>
+						</script>
+						
+					</div>
+					
+				</template>
                         
-                    </div>
-		</div>
-               
+			</div>
+		</div>  
 	</body>
 
 </html>
