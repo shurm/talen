@@ -376,8 +376,18 @@ public class DocumentController {
 				 {
 				
 				 	String key = c.getSurfaceForm();
+				 	
+				 	//replaces the original label with the one the user selected
+				 	String oldLabel = c.getLabel();
 				 	String newLabel = keysAndLabels.get(key);
-				 	Constituent clone = c.cloneForNewViewWithDestinationLabel(c.getViewName(), newLabel);
+				 	Map<String,Double> labelScores = c.getLabelsToScores();
+				 	Double highestScore = labelScores.get(oldLabel);
+				 	Double lowerScore = labelScores.get(newLabel);
+				 	labelScores.put(newLabel, highestScore);
+				 	labelScores.put(oldLabel, lowerScore);
+				 	
+				 	Constituent clone = new Constituent(labelScores, c.getViewName(), c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
+				 	
 				 	candgenView.removeConstituent(c);
 				 	candgenView.addConstituent(clone);
 				}
@@ -703,10 +713,28 @@ public class DocumentController {
             return "redirect:document/annotation";
         }
 
+        /*
+        // Load all annotated files so far.
+        String dataname = sd.dataname;
+        Properties props = sd.datasets.get(dataname);
+        String folderpath = props.getProperty("folderpath");
+        String username = sd.username;
+
+        String outfolder = folderpath.replaceAll("/$","") + "-annotation-" + username + "/";
+        //logger.info("taid is null man ");
+        logger.info("Now looking in user annotation folder: " + outfolder);
+
+        File f = new File(outfolder);
+        */
+        
         logwrite(String.format("Viewing page with taid: %s", taid), hs);
         
         TextAnnotation ta = tas.get(taid);
-
+//System.out.println(ta.toString());
+//System.out.println(ta.getText());
+//System.out.println(ta.getView("CANDGEN").getConstituents().get(0).getLabel());
+//System.out.println(ta.getView("CANDGEN").getConstituents().get(1).getLabel());
+//System.out.println(ta.get);
         model.addAttribute("ta", ta);
         
         View ner = ta.getView(ViewNames.NER_CONLL);
