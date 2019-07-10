@@ -12,6 +12,8 @@ import io.github.mayhewsw.Dictionary;
 import io.github.mayhewsw.utils.HtmlGenerator;
 import io.github.mayhewsw.utils.IO;
 import io.github.mayhewsw.utils.Utils;
+import io.github.mayhewsw.utils.Utils.CandgenValue;
+
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.Tokenizer;
@@ -331,9 +333,12 @@ public class DocumentController {
 
     @RequestMapping(value = "/save", method=RequestMethod.POST)
     @ResponseBody
-    public HashMap<String, Double> save(@RequestParam(value="sentids[]", required=true) String[] sentids, HttpSession hs) throws Exception {
+    public HashMap<String, Double> save(@RequestParam(value="sentids[]", required=true) String[] sentids, 
+    		@RequestParam(value="candgenString", required=true) String candgenString,
+    		HttpSession hs) throws Exception {
 
         SessionData sd = new SessionData(hs);
+
 
         // write out to
         String username = sd.username;
@@ -356,31 +361,27 @@ public class DocumentController {
             TreeMap<String, TextAnnotation> tas = sd.tas;
             TextAnnotation taToSave = tas.get(taid);
 
-            System.out.println("foldertype is "+foldertype);
-            System.out.println("outpath is "+outpath);
-            System.out.println("taToSave is "+taToSave);
+            //System.out.println("foldertype is "+foldertype);
+            //System.out.println("outpath is "+outpath);
+            //System.out.println("taToSave is "+taToSave);
             
-            List<Constituent> sentner = taToSave.getView("CANDGEN").getConstituents();
-       	
-       	 for (Constituent c : sentner)
-       	 {
-
-       		 /*
-       	        //print out candgen values
-       	        System.out.println("c.getLabel() is "+c.getLabel());
-       	       
-       	        System.out.println("CANDGEN is "+c2.getLabel());
-       	        System.out.println("CANDGEN2 is "+c2.toSExpression());
-       	        System.out.println("CANDGEN5 is "+c2.getNumberOfTokens());
-       	        System.out.println("CANDGEN6 is "+c2.getTokenizedSurfaceForm());
-       	        System.out.println("CANDGEN3 is "+c2.getSurfaceForm());
-       	        System.out.println("CANDGEN7 is "+c2.getAttributeKeys());
-       	     */
-       		 	String key = c.getSurfaceForm();
-       		 	Map<String,Double> scores = c.getLabelsToScores();
-       	    	System.out.println("scores is "+scores);
-       	       
-            }
+            if(taToSave.hasView("CANDGEN"))
+    		{
+            	View candgenView = taToSave.getView("CANDGEN");
+				List<Constituent> sentner = candgenView.getConstituents();
+				//System.out.println("candgenString is "+candgenString);
+				
+				Map<String, String> keysAndLabels = buildCandgenKeyAndLabelsMap(candgenString);
+				 for (Constituent c : sentner)
+				 {
+				
+				 	String key = c.getSurfaceForm();
+				 	String newLabel = keysAndLabels.get(key);
+				 	Constituent clone = c.cloneForNewViewWithDestinationLabel(c.getViewName(), newLabel);
+				 	candgenView.removeConstituent(c);
+				 	candgenView.addConstituent(clone);
+				}
+    		}
            // taToSave.
             IO.save(foldertype, outpath, taToSave);
 
@@ -548,7 +549,7 @@ public class DocumentController {
             annotatedfiles.addAll(Arrays.asList(f.list()));
         }
 
-        System.out.println(annotatedfiles);
+        //System.out.println(annotatedfiles);
 
         TreeMap<String, TextAnnotation> newtas = filterTA(query, sd);
 
@@ -711,15 +712,15 @@ public class DocumentController {
         View ner = ta.getView(ViewNames.NER_CONLL);
         View sents = ta.getView(ViewNames.SENTENCE);
         
-        System.out.println("ta is "+ta);
-        System.out.println(sd.dict);
-        System.out.println(sd.showdefs);
-        System.out.println(sd.showroman);
+        //System.out.println("ta is "+ta);
+        //System.out.println(sd.dict);
+        //System.out.println(sd.showdefs);
+        //System.out.println(sd.showroman);
         // set up the html string.
         String out = HtmlGenerator.getHTMLfromTA(ta, sd.dict, sd.showdefs, sd.showroman);
         model.addAttribute("html", out);
-        System.out.println("model is ");
-        System.out.println(model);
+        //System.out.println("model is ");
+        //System.out.println(model);
         if(!tas.firstKey().equals(taid)) {
             model.addAttribute("previd", tas.lowerKey(taid));
         }else{
@@ -791,8 +792,8 @@ public class DocumentController {
 
         SessionData sd = new SessionData(hs);
         TreeMap<String, TextAnnotation> tas = sd.tas;
-        System.out.println("tas is "+tas);
-        System.out.println("idstring is "+idstring);
+       // System.out.println("tas is "+tas);
+        //System.out.println("idstring is "+idstring);
         TextAnnotation ta = tas.get(idstring);
 
         // cannot annotate across sentence boundaries. Return with no changes if this happens.
@@ -1084,5 +1085,59 @@ public class DocumentController {
 
     }
 
+	public static Map<String,String> buildCandgenKeyAndLabelsMap(String candgenString)
+	{
+		Map<String,String> candgenMap = new HashMap<>(); 
+		int s = 0;
+		while(true)
+		{
+			int i1 = candgenString.indexOf('\"',s);
+			if(i1<0)
+				break;
+			int i2 = candgenString.indexOf('\"',i1+1);
+			
+			int i3 = candgenString.indexOf('\"',i2+1);
 
+			int i4 = candgenString.indexOf('\"',i3+1);
+			String key = candgenString.substring(i1+1,i2);
+			String value = candgenString.substring(i3+1,i4);
+			int openingIndex = i2+2;
+			int closingIndex = getClosingIndex(candgenString, openingIndex);
+			
+
+			candgenMap.put(key, value);
+			
+			s = closingIndex; 
+		}
+		
+		return candgenMap;
+	}
+	
+	private static int getClosingIndex(String s, int i)
+	{
+		int openingBraces = 0;
+		while(openingBraces==0)
+		{
+			if(s.charAt(i)=='[')
+			{
+				openingBraces++;
+			}
+			i++;
+		}
+		
+		
+		while(openingBraces>0)
+		{
+			if(s.charAt(i)==']')
+			{
+				openingBraces--;
+			}
+			else if(s.charAt(i)=='[')
+			{
+				openingBraces++;
+			}
+			i++;
+		}
+		return i;
+	}
 }

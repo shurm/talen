@@ -485,11 +485,11 @@ $(document).ready(function() {
         });
         return ids;
     }
-	function getsentids(){
-        var ids = $.map($(".text"), function(n, i){
-            return n.id;
-        });
-        return ids;
+	function getCandgenString(){
+		if(typeof(candgenMap)=='undefined')
+			return "";
+        var s = JSON.stringify([...candgenMap]);
+        return s;
     }
 
     function save(){
@@ -498,7 +498,7 @@ $(document).ready(function() {
 
         $.ajax({
             url: baseurl+"/"+controller+"/save",
-            data: {sentids: getsentids()},
+            data: {sentids: getsentids(), candgenString:getCandgenString()},
             method: "POST",
             beforeSend: function() {
                 // setting a timeout
