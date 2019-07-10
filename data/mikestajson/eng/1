@@ -523,14 +523,14 @@
        }
       },
       {
-       "label": "3558342|George Washington",
+       "label": "3558342|George Washington|https://en.wikipedia.org/wiki/George_Washington",
        "score": 1.0,
        "start": 18,
        "end": 20,
        "tokens": "George Washington",
        "labelScoreMap": {
-        "3558343|George Washington": 1.0,
-        "3558342|George Washington": 1.0
+        "3558343|George Washington|https://en.wikipedia.org/wiki/George_Washington": 1.0,
+        "3558342|George Washington": 0.0
        }
       }
      ]

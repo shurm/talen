@@ -383,7 +383,8 @@ public class DocumentController {
 				 	Map<String,Double> labelScores = c.getLabelsToScores();
 				 	Double highestScore = labelScores.get(oldLabel);
 				 	Double lowerScore = labelScores.get(newLabel);
-				 	labelScores.put(newLabel, highestScore);
+				 	//increases the score slightly in case of ties
+				 	labelScores.put(newLabel, highestScore+1);
 				 	labelScores.put(oldLabel, lowerScore);
 				 	
 				 	Constituent clone = new Constituent(labelScores, c.getViewName(), c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
