@@ -485,6 +485,12 @@ $(document).ready(function() {
         });
         return ids;
     }
+	function getsentids(){
+        var ids = $.map($(".text"), function(n, i){
+            return n.id;
+        });
+        return ids;
+    }
 
     function save(){
         var groupid = getParameterByName("groupid");

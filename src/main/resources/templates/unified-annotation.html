@@ -134,12 +134,7 @@
 			<template id="buttons">
 				<div id = "popup-container" class="container-fluid">
 					
-					<table class="table table-striped">
-						<thead>
-							<tr>
-								<th>EDL Links</th>
-							</tr>
-						</thead>
+					<table class="table">
 						<tbody id = "edl-menu-table">
 							
 						</tbody>
@@ -155,16 +150,46 @@
 							if(typeof(candgenMap)!='undefined' && candgenMap.has(header_text))
 							{														
 								var values = candgenMap.get(header_text);
-								values.forEach(function(element) 
+								var currentLabel = values[0][0];
+								var candidates = values[0][1];
+								console.log(candidates);
+								
+
+								candidates.forEach(function(element) 
 								{ 
-									var link = '"'+element+'"';
-									menu_links+='<tr><td> <a class='+'"edl-menu-link labelbutton"'+'href='+link +'target="_blank">'+element+'</a></tr></td>';
+									var label = '"'+element[0]+'"';
+									
+									var link = '"'+element[1]+'"';
+									var checked = "";
+									if(element[0] == currentLabel)
+										checked = "checked";
+										
+									menu_links+='<tr><td style="width:80%;"><a class='+'"edl-menu-link labelbutton" href='+link +' target="_blank">'+element[1]+'</a></td><td style="width:20%;text-align:right;"><input '+checked +' onclick="changeCurrentLabel(this)" '+' label='+label +' class= "labelbutton" type="radio" name="optradio"></td></tr>';
+
 								});
 
 
 								var edl_html= menu_links;
 
 								popup_container.innerHTML+=edl_html;
+								
+										var s = candgenMap.toString();
+								console.log(JSON.stringify([...candgenMap]));
+							}
+							
+							function changeCurrentLabel(rb)
+							{
+								var google_link = document.getElementById("google-search-link");
+								var header_text = google_link.getAttribute('highlighted-text'); //
+								
+								
+								if(typeof(candgenMap)!='undefined' && candgenMap.has(header_text))
+								{	
+									var values = candgenMap.get(header_text);
+									
+									values[0][0] = rb.getAttribute("label");
+									candgenMap[header_text] = values;
+								}								
 							}
 								
 						</script>

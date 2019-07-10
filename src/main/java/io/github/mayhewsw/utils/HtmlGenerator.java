@@ -18,7 +18,8 @@ import java.util.*;
  */
 @SuppressWarnings("ALL")
 public class HtmlGenerator {
-
+	 //
+	private static final int EdlCandidateLimit = 4;
 
 //    public static String getHTMLfromTA(TextAnnotation ta, boolean showdefs) {
 //        return getHTMLfromTA(ta, new IntPair(-1, -1), ta.getId(), "", null, showdefs);
@@ -324,8 +325,9 @@ public class HtmlGenerator {
         if(ta.hasView("CANDGEN"))
         {
         	sentner = ta.getView("CANDGEN").getConstituents();
-        	 Map<String,List<String>> candgenMap = new HashMap<>(); 
-        	 int limit = 4;
+        	 Map<String,CandgenValue> candgenMap = new HashMap<>(); 
+        	 
+
         	 for (Constituent c : sentner)
         	 {
 
@@ -344,43 +346,40 @@ public class HtmlGenerator {
         	        System.out.println("CANDGEN3 is "+c.getSurfaceForm());
         	       if(!candgenMap.containsKey(key))
         	       {
-        	    	   List<String> sortedList = new ArrayList<>();
+        	    	   CandgenValue cv = new CandgenValue(c.getLabel());
         	    	   List<String> originalLabels = sortByValue(c.getLabelsToScores());
         	    	  // System.out.println("CANDGEN8 is "+));
         	    	   
-        	    	   for(int a=0;a<originalLabels.size() && a<limit;a++)
+        	    	   for(int a=0;a<originalLabels.size() && a<EdlCandidateLimit;a++)
         	    	   {
         	    		   String label = originalLabels.get(a);
         	    		   //System.out.println("label is "+label);
         	    		   List<String> array = mySplit(label);
-  //      	    		   System.out.println("array is "+array);
+        	    		   //System.out.println("array is "+array);
         	    		   String url = array.get(0);
         	    		   if(array.size()>2)
         	    			   url = array.get(2);
         	    		   else
         	    			   url = "https://www.geonames.org/"+url;
         	    		   System.out.println("url is "+url);
-        	    		   sortedList.add(url);
+        	    		   cv.addCandidate(label, url);
         	    		   
         	    	   }
         	    	  // System.out.println("sortedList is "+sortedList);
-        	    	   candgenMap.put(key, sortedList);
+        	    	   candgenMap.put(key, cv);
         	       }
         	       
              }
         	 StringBuilder sb = new StringBuilder();
-        	 for(Map.Entry<String, List<String>> entry:candgenMap.entrySet())
+        	 for(Map.Entry<String, CandgenValue> entry:candgenMap.entrySet())
         	 {
         		 sb.append("[ \'"+entry.getKey()+"\', [");
         		 
-        		 for(String v:entry.getValue())
-        		 {
-        			 sb.append("\""+v+"\",");
-            		 
-        		 }
-        		 //delete last comma
-        		 sb.deleteCharAt(sb.length()-1);
-        		 
+        		 CandgenValue v = entry.getValue();
+
+        		 sb.append(v);
+
+        		
         		 sb.append("] ],");
         	 }
         	 //delete last comma
@@ -451,4 +450,42 @@ public class HtmlGenerator {
         */
         return temp; 
     } 
+    
+    private static class CandgenValue
+    {
+    	List<EdlCandidate> edlCandidates = new ArrayList<>();
+    	String currentLabel;
+    	
+    	public CandgenValue(String currentLabel) 
+    	{
+			this.currentLabel = currentLabel;
+		}
+    	
+		public void addCandidate(String label, String url)
+		{
+			EdlCandidate e = new EdlCandidate(label,url);
+			edlCandidates.add(e);
+		} 
+		
+		public String toString()
+		{
+			return "[\""+currentLabel+"\","+edlCandidates.toString()+"]";
+		}
+    }
+    
+    private static class EdlCandidate
+    {
+    	private String url,label;
+
+		public EdlCandidate(String label, String url) 
+		{
+			this.url = url;
+			this.label = label;
+		}
+		
+		public String toString()
+		{
+			return "[\""+label+"\","+"\""+url+"\"]";
+		}
+    }
 }
