@@ -360,6 +360,27 @@ public class DocumentController {
             System.out.println("outpath is "+outpath);
             System.out.println("taToSave is "+taToSave);
             
+            List<Constituent> sentner = taToSave.getView("CANDGEN").getConstituents();
+       	
+       	 for (Constituent c : sentner)
+       	 {
+
+       		 /*
+       	        //print out candgen values
+       	        System.out.println("c.getLabel() is "+c.getLabel());
+       	       
+       	        System.out.println("CANDGEN is "+c2.getLabel());
+       	        System.out.println("CANDGEN2 is "+c2.toSExpression());
+       	        System.out.println("CANDGEN5 is "+c2.getNumberOfTokens());
+       	        System.out.println("CANDGEN6 is "+c2.getTokenizedSurfaceForm());
+       	        System.out.println("CANDGEN3 is "+c2.getSurfaceForm());
+       	        System.out.println("CANDGEN7 is "+c2.getAttributeKeys());
+       	     */
+       		 	String key = c.getSurfaceForm();
+       		 	Map<String,Double> scores = c.getLabelsToScores();
+       	    	System.out.println("scores is "+scores);
+       	       
+            }
            // taToSave.
             IO.save(foldertype, outpath, taToSave);
 

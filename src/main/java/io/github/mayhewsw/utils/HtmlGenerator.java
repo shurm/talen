@@ -231,23 +231,26 @@ public class HtmlGenerator {
                 def = dict.get(nonroman_text[t]).get(0);
             }
 
-            String tokid = String.format("tok-%s-%s", id, t);
+            String tokid = "";
             String entityString = "entity='"+" "+"'";
-            if(entities[t]==null)
-            	tokid="";
-            else
+            String classList = "class='token'";
+            if(entities[t]!=null)
+            {
             	entityString = "entity='"+entities[t]+"'";
+            	tokid = String.format("tok-%s-%s", id, t);
+            	classList="class='token pointer";
+            }
             	
             
             // The orig attribute is used in the dictionary.
             if (showdefs && def != null) {
-                text[t] = "<span "+entityString+" class='token pointer def' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + def + "</span>";
+                text[t] = "<span "+entityString+" "+classList+" def' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + def + "</span>";
             } else {
                 // FIXME: this will only work for single word queries.
                 if (query.length() > 0 && text[t].startsWith(query)) {
-                    text[t] = "<span "+entityString+" class='token pointer emph' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + text[t] + "</span>";
+                    text[t] = "<span "+entityString+" "+classList+" emph' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + text[t] + "</span>";
                 } else {
-                    text[t] = "<span "+entityString+" class='token pointer' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + text[t] + "</span>";
+                    text[t] = "<span "+entityString+" "+classList+"' orig=\""+nonroman_text[t]+"\" id='"+tokid+"'>" + text[t] + "</span>";
                 }
             }
         }
