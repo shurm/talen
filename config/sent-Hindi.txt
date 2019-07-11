@@ -1,7 +1,0 @@
-mode	sentence
-folderpath	data/tajson/hindi/
-terms	भारत
-name	hindi
-format	tajson
-indexpath	data/index_hindi
-labels	PER ORG LOC GPE

@@ -1,0 +1,4 @@
+name	kinyarwanda
+folderpath	data/mikestajson/il9/
+format	tajson
+labels	PER ORG LOC GPE

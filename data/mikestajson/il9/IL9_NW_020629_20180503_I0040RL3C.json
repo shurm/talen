@@ -1,0 +1,4711 @@
+{
+ "corpusId": "",
+ "id": "IL9_NW_020629_20180503_I0040RL3C",
+ "text": " Rubavu: Abaturage basenyewe n\u2019imvura barashinja akarere kubatererana   Yasuwe : 2012 Yavuzweho: 3 0 0   Bamwe mu basenyewe bavuga ko iki kiza cyimvura idasanzwe yaguye mu Mujyi wa Rubavu ku gicamunsi cyo kuwa Kabiri cyatewe ahanini nimyubakire yurukuta rukikije uyu muyoboro rwasondetswe ubwo Abashinwa bubakaga umuhanda.  Ikibazo cyimyubakire yawo cyagejejwe mu buyobozi bwakarere ndetse abaturage bagaragaza ko bishobora kubashyira mu kaga.  Umwe muri bo yagize ati Hashize igihe kinini twirirwa twirukanka ku biro byAkarere tubamenyesha ibibazo dushobora kuzahura nabyo kubera uyu muyoboro wamazi wubatse nabi, ntibadusubize. Twanditse namabaruwa menshi barayakira baranadusinyira ariko baricecekeye.  Akomeza agira ati None baje ari uko urukuta rwabatwaye amafaranga menshi rutwawe namazi, twarababwiye ngo ni gute mwubaka umuyoboro unyuramo amazi menshi ntimushyireho inkingi ntibatwumva, ibaze kubona amazi yose yo mu Mujyi yinjira mu nzu zabaturage twarengewe kandi nibyacu byose byangiritse.  Uwimana Yuliyana we ashinja ubuyobozi bwAkarere ka Rubavu gutanga amasoko yo kubaka umuhanda ntibashyireho imiyoboro ishoboye gutwara amazi cyane ko hari nahari imihanda ya kaburimbo idafite imiyoboro isohora amazi kandi iri ahatuwe.  Yagize ati Umuyoboro wamaze kuzura urasenyuka, amazi yinjiye mu ngo zacu ibintu byose birasandara nahombye byose ntacyo nararuye. Iki kibazo twakivuze kuva kera ariko hari nikosa ryakozwe ba rwiyemezamirimo bubaka uyu muyoboro mugari kuva kera byagaragaraga ko amazi ayoboye nabi none ibintu byose byarangiritse, ubuyobozi bukomeje kuturangarana.  Umuyobozi wAkarere ka Rubavu, Sinamenye Jrmie avuga ko iki kibazo giteye impungenge ariko icyibanze nukwihutira gutabara abaturage.  Yagize ati Iyo ikibazo nkiki kibaye tugomba gutabara abaturage,turabasaba kugaragaza uruhare rwabo bafata neza ibikorwa remezo bakuramo imyanda yatuma amazi atagenda, ikindi tubasaba ni ugufata amazi ava ku nzu zabo ibi bizadufasha guhangana nibi biza.  Kuva ibihe byimvura byatangira muri uyu mwaka, ubuyobozi bwAkarere ka Rubavu bwatangaje ko ari bwo bwa mbere yangije ibintu byinshi mu Mujyi wa Gisenyi rwagati.   Abaturage bareba urukuta rwasenyutse   Amazi yari yuzuye ahantu hose, mu nzu utabona aho ukandagiza ikirenge   Amazi yinjiye mu nzu z'abaturage yangiza ibintu byinshi   Olivier@igihe.rw",
+ "tokens": [
+  "Rubavu",
+  ":",
+  "Abaturage",
+  "basenyewe",
+  "n\u2019imvura",
+  "barashinja",
+  "akarere",
+  "kubatererana",
+  "Yasuwe",
+  ":",
+  "2012",
+  "Yavuzweho",
+  ":",
+  "3",
+  "0",
+  "0",
+  "Bamwe",
+  "mu",
+  "basenyewe",
+  "bavuga",
+  "ko",
+  "iki",
+  "kiza",
+  "cyimvura",
+  "idasanzwe",
+  "yaguye",
+  "mu",
+  "Mujyi",
+  "wa",
+  "Rubavu",
+  "ku",
+  "gicamunsi",
+  "cyo",
+  "kuwa",
+  "Kabiri",
+  "cyatewe",
+  "ahanini",
+  "nimyubakire",
+  "yurukuta",
+  "rukikije",
+  "uyu",
+  "muyoboro",
+  "rwasondetswe",
+  "ubwo",
+  "Abashinwa",
+  "bubakaga",
+  "umuhanda",
+  ".",
+  "Ikibazo",
+  "cyimyubakire",
+  "yawo",
+  "cyagejejwe",
+  "mu",
+  "buyobozi",
+  "bwakarere",
+  "ndetse",
+  "abaturage",
+  "bagaragaza",
+  "ko",
+  "bishobora",
+  "kubashyira",
+  "mu",
+  "kaga",
+  ".",
+  "Umwe",
+  "muri",
+  "bo",
+  "yagize",
+  "ati",
+  "Hashize",
+  "igihe",
+  "kinini",
+  "twirirwa",
+  "twirukanka",
+  "ku",
+  "biro",
+  "byAkarere",
+  "tubamenyesha",
+  "ibibazo",
+  "dushobora",
+  "kuzahura",
+  "nabyo",
+  "kubera",
+  "uyu",
+  "muyoboro",
+  "wamazi",
+  "wubatse",
+  "nabi",
+  ",",
+  "ntibadusubize",
+  ".",
+  "Twanditse",
+  "namabaruwa",
+  "menshi",
+  "barayakira",
+  "baranadusinyira",
+  "ariko",
+  "baricecekeye",
+  ".",
+  "Akomeza",
+  "agira",
+  "ati",
+  "None",
+  "baje",
+  "ari",
+  "uko",
+  "urukuta",
+  "rwabatwaye",
+  "amafaranga",
+  "menshi",
+  "rutwawe",
+  "namazi",
+  ",",
+  "twarababwiye",
+  "ngo",
+  "ni",
+  "gute",
+  "mwubaka",
+  "umuyoboro",
+  "unyuramo",
+  "amazi",
+  "menshi",
+  "ntimushyireho",
+  "inkingi",
+  "ntibatwumva",
+  ",",
+  "ibaze",
+  "kubona",
+  "amazi",
+  "yose",
+  "yo",
+  "mu",
+  "Mujyi",
+  "yinjira",
+  "mu",
+  "nzu",
+  "zabaturage",
+  "twarengewe",
+  "kandi",
+  "nibyacu",
+  "byose",
+  "byangiritse",
+  ".",
+  "Uwimana",
+  "Yuliyana",
+  "we",
+  "ashinja",
+  "ubuyobozi",
+  "bwAkarere",
+  "ka",
+  "Rubavu",
+  "gutanga",
+  "amasoko",
+  "yo",
+  "kubaka",
+  "umuhanda",
+  "ntibashyireho",
+  "imiyoboro",
+  "ishoboye",
+  "gutwara",
+  "amazi",
+  "cyane",
+  "ko",
+  "hari",
+  "nahari",
+  "imihanda",
+  "ya",
+  "kaburimbo",
+  "idafite",
+  "imiyoboro",
+  "isohora",
+  "amazi",
+  "kandi",
+  "iri",
+  "ahatuwe",
+  ".",
+  "Yagize",
+  "ati",
+  "Umuyoboro",
+  "wamaze",
+  "kuzura",
+  "urasenyuka",
+  ",",
+  "amazi",
+  "yinjiye",
+  "mu",
+  "ngo",
+  "zacu",
+  "ibintu",
+  "byose",
+  "birasandara",
+  "nahombye",
+  "byose",
+  "ntacyo",
+  "nararuye",
+  ".",
+  "Iki",
+  "kibazo",
+  "twakivuze",
+  "kuva",
+  "kera",
+  "ariko",
+  "hari",
+  "nikosa",
+  "ryakozwe",
+  "ba",
+  "rwiyemezamirimo",
+  "bubaka",
+  "uyu",
+  "muyoboro",
+  "mugari",
+  "kuva",
+  "kera",
+  "byagaragaraga",
+  "ko",
+  "amazi",
+  "ayoboye",
+  "nabi",
+  "none",
+  "ibintu",
+  "byose",
+  "byarangiritse",
+  ",",
+  "ubuyobozi",
+  "bukomeje",
+  "kuturangarana",
+  ".",
+  "Umuyobozi",
+  "wAkarere",
+  "ka",
+  "Rubavu",
+  ",",
+  "Sinamenye",
+  "Jrmie",
+  "avuga",
+  "ko",
+  "iki",
+  "kibazo",
+  "giteye",
+  "impungenge",
+  "ariko",
+  "icyibanze",
+  "nukwihutira",
+  "gutabara",
+  "abaturage",
+  ".",
+  "Yagize",
+  "ati",
+  "Iyo",
+  "ikibazo",
+  "nkiki",
+  "kibaye",
+  "tugomba",
+  "gutabara",
+  "abaturage,turabasaba",
+  "kugaragaza",
+  "uruhare",
+  "rwabo",
+  "bafata",
+  "neza",
+  "ibikorwa",
+  "remezo",
+  "bakuramo",
+  "imyanda",
+  "yatuma",
+  "amazi",
+  "atagenda",
+  ",",
+  "ikindi",
+  "tubasaba",
+  "ni",
+  "ugufata",
+  "amazi",
+  "ava",
+  "ku",
+  "nzu",
+  "zabo",
+  "ibi",
+  "bizadufasha",
+  "guhangana",
+  "nibi",
+  "biza",
+  ".",
+  "Kuva",
+  "ibihe",
+  "byimvura",
+  "byatangira",
+  "muri",
+  "uyu",
+  "mwaka",
+  ",",
+  "ubuyobozi",
+  "bwAkarere",
+  "ka",
+  "Rubavu",
+  "bwatangaje",
+  "ko",
+  "ari",
+  "bwo",
+  "bwa",
+  "mbere",
+  "yangije",
+  "ibintu",
+  "byinshi",
+  "mu",
+  "Mujyi",
+  "wa",
+  "Gisenyi",
+  "rwagati",
+  ".",
+  "Abaturage",
+  "bareba",
+  "urukuta",
+  "rwasenyutse",
+  "Amazi",
+  "yari",
+  "yuzuye",
+  "ahantu",
+  "hose",
+  ",",
+  "mu",
+  "nzu",
+  "utabona",
+  "aho",
+  "ukandagiza",
+  "ikirenge",
+  "Amazi",
+  "yinjiye",
+  "mu",
+  "nzu",
+  "z'abaturage",
+  "yangiza",
+  "ibintu",
+  "byinshi",
+  "Olivier@igihe.rw"
+ ],
+ "tokenOffsets": [
+  {
+   "form": "Rubavu",
+   "startCharOffset": 1,
+   "endCharOffset": 7
+  },
+  {
+   "form": ":",
+   "startCharOffset": 7,
+   "endCharOffset": 8
+  },
+  {
+   "form": "Abaturage",
+   "startCharOffset": 9,
+   "endCharOffset": 18
+  },
+  {
+   "form": "basenyewe",
+   "startCharOffset": 19,
+   "endCharOffset": 28
+  },
+  {
+   "form": "n\u2019imvura",
+   "startCharOffset": 29,
+   "endCharOffset": 37
+  },
+  {
+   "form": "barashinja",
+   "startCharOffset": 38,
+   "endCharOffset": 48
+  },
+  {
+   "form": "akarere",
+   "startCharOffset": 49,
+   "endCharOffset": 56
+  },
+  {
+   "form": "kubatererana",
+   "startCharOffset": 57,
+   "endCharOffset": 69
+  },
+  {
+   "form": "Yasuwe",
+   "startCharOffset": 72,
+   "endCharOffset": 78
+  },
+  {
+   "form": ":",
+   "startCharOffset": 79,
+   "endCharOffset": 80
+  },
+  {
+   "form": "2012",
+   "startCharOffset": 81,
+   "endCharOffset": 85
+  },
+  {
+   "form": "Yavuzweho",
+   "startCharOffset": 86,
+   "endCharOffset": 95
+  },
+  {
+   "form": ":",
+   "startCharOffset": 95,
+   "endCharOffset": 96
+  },
+  {
+   "form": "3",
+   "startCharOffset": 97,
+   "endCharOffset": 98
+  },
+  {
+   "form": "0",
+   "startCharOffset": 99,
+   "endCharOffset": 100
+  },
+  {
+   "form": "0",
+   "startCharOffset": 101,
+   "endCharOffset": 102
+  },
+  {
+   "form": "Bamwe",
+   "startCharOffset": 105,
+   "endCharOffset": 110
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 111,
+   "endCharOffset": 113
+  },
+  {
+   "form": "basenyewe",
+   "startCharOffset": 114,
+   "endCharOffset": 123
+  },
+  {
+   "form": "bavuga",
+   "startCharOffset": 124,
+   "endCharOffset": 130
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 131,
+   "endCharOffset": 133
+  },
+  {
+   "form": "iki",
+   "startCharOffset": 134,
+   "endCharOffset": 137
+  },
+  {
+   "form": "kiza",
+   "startCharOffset": 138,
+   "endCharOffset": 142
+  },
+  {
+   "form": "cyimvura",
+   "startCharOffset": 143,
+   "endCharOffset": 151
+  },
+  {
+   "form": "idasanzwe",
+   "startCharOffset": 152,
+   "endCharOffset": 161
+  },
+  {
+   "form": "yaguye",
+   "startCharOffset": 162,
+   "endCharOffset": 168
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 169,
+   "endCharOffset": 171
+  },
+  {
+   "form": "Mujyi",
+   "startCharOffset": 172,
+   "endCharOffset": 177
+  },
+  {
+   "form": "wa",
+   "startCharOffset": 178,
+   "endCharOffset": 180
+  },
+  {
+   "form": "Rubavu",
+   "startCharOffset": 181,
+   "endCharOffset": 187
+  },
+  {
+   "form": "ku",
+   "startCharOffset": 188,
+   "endCharOffset": 190
+  },
+  {
+   "form": "gicamunsi",
+   "startCharOffset": 191,
+   "endCharOffset": 200
+  },
+  {
+   "form": "cyo",
+   "startCharOffset": 201,
+   "endCharOffset": 204
+  },
+  {
+   "form": "kuwa",
+   "startCharOffset": 205,
+   "endCharOffset": 209
+  },
+  {
+   "form": "Kabiri",
+   "startCharOffset": 210,
+   "endCharOffset": 216
+  },
+  {
+   "form": "cyatewe",
+   "startCharOffset": 217,
+   "endCharOffset": 224
+  },
+  {
+   "form": "ahanini",
+   "startCharOffset": 225,
+   "endCharOffset": 232
+  },
+  {
+   "form": "nimyubakire",
+   "startCharOffset": 233,
+   "endCharOffset": 244
+  },
+  {
+   "form": "yurukuta",
+   "startCharOffset": 245,
+   "endCharOffset": 253
+  },
+  {
+   "form": "rukikije",
+   "startCharOffset": 254,
+   "endCharOffset": 262
+  },
+  {
+   "form": "uyu",
+   "startCharOffset": 263,
+   "endCharOffset": 266
+  },
+  {
+   "form": "muyoboro",
+   "startCharOffset": 267,
+   "endCharOffset": 275
+  },
+  {
+   "form": "rwasondetswe",
+   "startCharOffset": 276,
+   "endCharOffset": 288
+  },
+  {
+   "form": "ubwo",
+   "startCharOffset": 289,
+   "endCharOffset": 293
+  },
+  {
+   "form": "Abashinwa",
+   "startCharOffset": 294,
+   "endCharOffset": 303
+  },
+  {
+   "form": "bubakaga",
+   "startCharOffset": 304,
+   "endCharOffset": 312
+  },
+  {
+   "form": "umuhanda",
+   "startCharOffset": 313,
+   "endCharOffset": 321
+  },
+  {
+   "form": ".",
+   "startCharOffset": 321,
+   "endCharOffset": 322
+  },
+  {
+   "form": "Ikibazo",
+   "startCharOffset": 324,
+   "endCharOffset": 331
+  },
+  {
+   "form": "cyimyubakire",
+   "startCharOffset": 332,
+   "endCharOffset": 344
+  },
+  {
+   "form": "yawo",
+   "startCharOffset": 345,
+   "endCharOffset": 349
+  },
+  {
+   "form": "cyagejejwe",
+   "startCharOffset": 350,
+   "endCharOffset": 360
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 361,
+   "endCharOffset": 363
+  },
+  {
+   "form": "buyobozi",
+   "startCharOffset": 364,
+   "endCharOffset": 372
+  },
+  {
+   "form": "bwakarere",
+   "startCharOffset": 373,
+   "endCharOffset": 382
+  },
+  {
+   "form": "ndetse",
+   "startCharOffset": 383,
+   "endCharOffset": 389
+  },
+  {
+   "form": "abaturage",
+   "startCharOffset": 390,
+   "endCharOffset": 399
+  },
+  {
+   "form": "bagaragaza",
+   "startCharOffset": 400,
+   "endCharOffset": 410
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 411,
+   "endCharOffset": 413
+  },
+  {
+   "form": "bishobora",
+   "startCharOffset": 414,
+   "endCharOffset": 423
+  },
+  {
+   "form": "kubashyira",
+   "startCharOffset": 424,
+   "endCharOffset": 434
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 435,
+   "endCharOffset": 437
+  },
+  {
+   "form": "kaga",
+   "startCharOffset": 438,
+   "endCharOffset": 442
+  },
+  {
+   "form": ".",
+   "startCharOffset": 442,
+   "endCharOffset": 443
+  },
+  {
+   "form": "Umwe",
+   "startCharOffset": 445,
+   "endCharOffset": 449
+  },
+  {
+   "form": "muri",
+   "startCharOffset": 450,
+   "endCharOffset": 454
+  },
+  {
+   "form": "bo",
+   "startCharOffset": 455,
+   "endCharOffset": 457
+  },
+  {
+   "form": "yagize",
+   "startCharOffset": 458,
+   "endCharOffset": 464
+  },
+  {
+   "form": "ati",
+   "startCharOffset": 465,
+   "endCharOffset": 468
+  },
+  {
+   "form": "Hashize",
+   "startCharOffset": 469,
+   "endCharOffset": 476
+  },
+  {
+   "form": "igihe",
+   "startCharOffset": 477,
+   "endCharOffset": 482
+  },
+  {
+   "form": "kinini",
+   "startCharOffset": 483,
+   "endCharOffset": 489
+  },
+  {
+   "form": "twirirwa",
+   "startCharOffset": 490,
+   "endCharOffset": 498
+  },
+  {
+   "form": "twirukanka",
+   "startCharOffset": 499,
+   "endCharOffset": 509
+  },
+  {
+   "form": "ku",
+   "startCharOffset": 510,
+   "endCharOffset": 512
+  },
+  {
+   "form": "biro",
+   "startCharOffset": 513,
+   "endCharOffset": 517
+  },
+  {
+   "form": "byAkarere",
+   "startCharOffset": 518,
+   "endCharOffset": 527
+  },
+  {
+   "form": "tubamenyesha",
+   "startCharOffset": 528,
+   "endCharOffset": 540
+  },
+  {
+   "form": "ibibazo",
+   "startCharOffset": 541,
+   "endCharOffset": 548
+  },
+  {
+   "form": "dushobora",
+   "startCharOffset": 549,
+   "endCharOffset": 558
+  },
+  {
+   "form": "kuzahura",
+   "startCharOffset": 559,
+   "endCharOffset": 567
+  },
+  {
+   "form": "nabyo",
+   "startCharOffset": 568,
+   "endCharOffset": 573
+  },
+  {
+   "form": "kubera",
+   "startCharOffset": 574,
+   "endCharOffset": 580
+  },
+  {
+   "form": "uyu",
+   "startCharOffset": 581,
+   "endCharOffset": 584
+  },
+  {
+   "form": "muyoboro",
+   "startCharOffset": 585,
+   "endCharOffset": 593
+  },
+  {
+   "form": "wamazi",
+   "startCharOffset": 594,
+   "endCharOffset": 600
+  },
+  {
+   "form": "wubatse",
+   "startCharOffset": 601,
+   "endCharOffset": 608
+  },
+  {
+   "form": "nabi",
+   "startCharOffset": 609,
+   "endCharOffset": 613
+  },
+  {
+   "form": ",",
+   "startCharOffset": 613,
+   "endCharOffset": 614
+  },
+  {
+   "form": "ntibadusubize",
+   "startCharOffset": 615,
+   "endCharOffset": 628
+  },
+  {
+   "form": ".",
+   "startCharOffset": 628,
+   "endCharOffset": 629
+  },
+  {
+   "form": "Twanditse",
+   "startCharOffset": 630,
+   "endCharOffset": 639
+  },
+  {
+   "form": "namabaruwa",
+   "startCharOffset": 640,
+   "endCharOffset": 650
+  },
+  {
+   "form": "menshi",
+   "startCharOffset": 651,
+   "endCharOffset": 657
+  },
+  {
+   "form": "barayakira",
+   "startCharOffset": 658,
+   "endCharOffset": 668
+  },
+  {
+   "form": "baranadusinyira",
+   "startCharOffset": 669,
+   "endCharOffset": 684
+  },
+  {
+   "form": "ariko",
+   "startCharOffset": 685,
+   "endCharOffset": 690
+  },
+  {
+   "form": "baricecekeye",
+   "startCharOffset": 691,
+   "endCharOffset": 703
+  },
+  {
+   "form": ".",
+   "startCharOffset": 703,
+   "endCharOffset": 704
+  },
+  {
+   "form": "Akomeza",
+   "startCharOffset": 706,
+   "endCharOffset": 713
+  },
+  {
+   "form": "agira",
+   "startCharOffset": 714,
+   "endCharOffset": 719
+  },
+  {
+   "form": "ati",
+   "startCharOffset": 720,
+   "endCharOffset": 723
+  },
+  {
+   "form": "None",
+   "startCharOffset": 724,
+   "endCharOffset": 728
+  },
+  {
+   "form": "baje",
+   "startCharOffset": 729,
+   "endCharOffset": 733
+  },
+  {
+   "form": "ari",
+   "startCharOffset": 734,
+   "endCharOffset": 737
+  },
+  {
+   "form": "uko",
+   "startCharOffset": 738,
+   "endCharOffset": 741
+  },
+  {
+   "form": "urukuta",
+   "startCharOffset": 742,
+   "endCharOffset": 749
+  },
+  {
+   "form": "rwabatwaye",
+   "startCharOffset": 750,
+   "endCharOffset": 760
+  },
+  {
+   "form": "amafaranga",
+   "startCharOffset": 761,
+   "endCharOffset": 771
+  },
+  {
+   "form": "menshi",
+   "startCharOffset": 772,
+   "endCharOffset": 778
+  },
+  {
+   "form": "rutwawe",
+   "startCharOffset": 779,
+   "endCharOffset": 786
+  },
+  {
+   "form": "namazi",
+   "startCharOffset": 787,
+   "endCharOffset": 793
+  },
+  {
+   "form": ",",
+   "startCharOffset": 793,
+   "endCharOffset": 794
+  },
+  {
+   "form": "twarababwiye",
+   "startCharOffset": 795,
+   "endCharOffset": 807
+  },
+  {
+   "form": "ngo",
+   "startCharOffset": 808,
+   "endCharOffset": 811
+  },
+  {
+   "form": "ni",
+   "startCharOffset": 812,
+   "endCharOffset": 814
+  },
+  {
+   "form": "gute",
+   "startCharOffset": 815,
+   "endCharOffset": 819
+  },
+  {
+   "form": "mwubaka",
+   "startCharOffset": 820,
+   "endCharOffset": 827
+  },
+  {
+   "form": "umuyoboro",
+   "startCharOffset": 828,
+   "endCharOffset": 837
+  },
+  {
+   "form": "unyuramo",
+   "startCharOffset": 838,
+   "endCharOffset": 846
+  },
+  {
+   "form": "amazi",
+   "startCharOffset": 847,
+   "endCharOffset": 852
+  },
+  {
+   "form": "menshi",
+   "startCharOffset": 853,
+   "endCharOffset": 859
+  },
+  {
+   "form": "ntimushyireho",
+   "startCharOffset": 860,
+   "endCharOffset": 873
+  },
+  {
+   "form": "inkingi",
+   "startCharOffset": 874,
+   "endCharOffset": 881
+  },
+  {
+   "form": "ntibatwumva",
+   "startCharOffset": 882,
+   "endCharOffset": 893
+  },
+  {
+   "form": ",",
+   "startCharOffset": 893,
+   "endCharOffset": 894
+  },
+  {
+   "form": "ibaze",
+   "startCharOffset": 895,
+   "endCharOffset": 900
+  },
+  {
+   "form": "kubona",
+   "startCharOffset": 901,
+   "endCharOffset": 907
+  },
+  {
+   "form": "amazi",
+   "startCharOffset": 908,
+   "endCharOffset": 913
+  },
+  {
+   "form": "yose",
+   "startCharOffset": 914,
+   "endCharOffset": 918
+  },
+  {
+   "form": "yo",
+   "startCharOffset": 919,
+   "endCharOffset": 921
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 922,
+   "endCharOffset": 924
+  },
+  {
+   "form": "Mujyi",
+   "startCharOffset": 925,
+   "endCharOffset": 930
+  },
+  {
+   "form": "yinjira",
+   "startCharOffset": 931,
+   "endCharOffset": 938
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 939,
+   "endCharOffset": 941
+  },
+  {
+   "form": "nzu",
+   "startCharOffset": 942,
+   "endCharOffset": 945
+  },
+  {
+   "form": "zabaturage",
+   "startCharOffset": 946,
+   "endCharOffset": 956
+  },
+  {
+   "form": "twarengewe",
+   "startCharOffset": 957,
+   "endCharOffset": 967
+  },
+  {
+   "form": "kandi",
+   "startCharOffset": 968,
+   "endCharOffset": 973
+  },
+  {
+   "form": "nibyacu",
+   "startCharOffset": 974,
+   "endCharOffset": 981
+  },
+  {
+   "form": "byose",
+   "startCharOffset": 982,
+   "endCharOffset": 987
+  },
+  {
+   "form": "byangiritse",
+   "startCharOffset": 988,
+   "endCharOffset": 999
+  },
+  {
+   "form": ".",
+   "startCharOffset": 999,
+   "endCharOffset": 1000
+  },
+  {
+   "form": "Uwimana",
+   "startCharOffset": 1002,
+   "endCharOffset": 1009
+  },
+  {
+   "form": "Yuliyana",
+   "startCharOffset": 1010,
+   "endCharOffset": 1018
+  },
+  {
+   "form": "we",
+   "startCharOffset": 1019,
+   "endCharOffset": 1021
+  },
+  {
+   "form": "ashinja",
+   "startCharOffset": 1022,
+   "endCharOffset": 1029
+  },
+  {
+   "form": "ubuyobozi",
+   "startCharOffset": 1030,
+   "endCharOffset": 1039
+  },
+  {
+   "form": "bwAkarere",
+   "startCharOffset": 1040,
+   "endCharOffset": 1049
+  },
+  {
+   "form": "ka",
+   "startCharOffset": 1050,
+   "endCharOffset": 1052
+  },
+  {
+   "form": "Rubavu",
+   "startCharOffset": 1053,
+   "endCharOffset": 1059
+  },
+  {
+   "form": "gutanga",
+   "startCharOffset": 1060,
+   "endCharOffset": 1067
+  },
+  {
+   "form": "amasoko",
+   "startCharOffset": 1068,
+   "endCharOffset": 1075
+  },
+  {
+   "form": "yo",
+   "startCharOffset": 1076,
+   "endCharOffset": 1078
+  },
+  {
+   "form": "kubaka",
+   "startCharOffset": 1079,
+   "endCharOffset": 1085
+  },
+  {
+   "form": "umuhanda",
+   "startCharOffset": 1086,
+   "endCharOffset": 1094
+  },
+  {
+   "form": "ntibashyireho",
+   "startCharOffset": 1095,
+   "endCharOffset": 1108
+  },
+  {
+   "form": "imiyoboro",
+   "startCharOffset": 1109,
+   "endCharOffset": 1118
+  },
+  {
+   "form": "ishoboye",
+   "startCharOffset": 1119,
+   "endCharOffset": 1127
+  },
+  {
+   "form": "gutwara",
+   "startCharOffset": 1128,
+   "endCharOffset": 1135
+  },
+  {
+   "form": "amazi",
+   "startCharOffset": 1136,
+   "endCharOffset": 1141
+  },
+  {
+   "form": "cyane",
+   "startCharOffset": 1142,
+   "endCharOffset": 1147
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 1148,
+   "endCharOffset": 1150
+  },
+  {
+   "form": "hari",
+   "startCharOffset": 1151,
+   "endCharOffset": 1155
+  },
+  {
+   "form": "nahari",
+   "startCharOffset": 1156,
+   "endCharOffset": 1162
+  },
+  {
+   "form": "imihanda",
+   "startCharOffset": 1163,
+   "endCharOffset": 1171
+  },
+  {
+   "form": "ya",
+   "startCharOffset": 1172,
+   "endCharOffset": 1174
+  },
+  {
+   "form": "kaburimbo",
+   "startCharOffset": 1175,
+   "endCharOffset": 1184
+  },
+  {
+   "form": "idafite",
+   "startCharOffset": 1185,
+   "endCharOffset": 1192
+  },
+  {
+   "form": "imiyoboro",
+   "startCharOffset": 1193,
+   "endCharOffset": 1202
+  },
+  {
+   "form": "isohora",
+   "startCharOffset": 1203,
+   "endCharOffset": 1210
+  },
+  {
+   "form": "amazi",
+   "startCharOffset": 1211,
+   "endCharOffset": 1216
+  },
+  {
+   "form": "kandi",
+   "startCharOffset": 1217,
+   "endCharOffset": 1222
+  },
+  {
+   "form": "iri",
+   "startCharOffset": 1223,
+   "endCharOffset": 1226
+  },
+  {
+   "form": "ahatuwe",
+   "startCharOffset": 1227,
+   "endCharOffset": 1234
+  },
+  {
+   "form": ".",
+   "startCharOffset": 1234,
+   "endCharOffset": 1235
+  },
+  {
+   "form": "Yagize",
+   "startCharOffset": 1237,
+   "endCharOffset": 1243
+  },
+  {
+   "form": "ati",
+   "startCharOffset": 1244,
+   "endCharOffset": 1247
+  },
+  {
+   "form": "Umuyoboro",
+   "startCharOffset": 1248,
+   "endCharOffset": 1257
+  },
+  {
+   "form": "wamaze",
+   "startCharOffset": 1258,
+   "endCharOffset": 1264
+  },
+  {
+   "form": "kuzura",
+   "startCharOffset": 1265,
+   "endCharOffset": 1271
+  },
+  {
+   "form": "urasenyuka",
+   "startCharOffset": 1272,
+   "endCharOffset": 1282
+  },
+  {
+   "form": ",",
+   "startCharOffset": 1282,
+   "endCharOffset": 1283
+  },
+  {
+   "form": "amazi",
+   "startCharOffset": 1284,
+   "endCharOffset": 1289
+  },
+  {
+   "form": "yinjiye",
+   "startCharOffset": 1290,
+   "endCharOffset": 1297
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 1298,
+   "endCharOffset": 1300
+  },
+  {
+   "form": "ngo",
+   "startCharOffset": 1301,
+   "endCharOffset": 1304
+  },
+  {
+   "form": "zacu",
+   "startCharOffset": 1305,
+   "endCharOffset": 1309
+  },
+  {
+   "form": "ibintu",
+   "startCharOffset": 1310,
+   "endCharOffset": 1316
+  },
+  {
+   "form": "byose",
+   "startCharOffset": 1317,
+   "endCharOffset": 1322
+  },
+  {
+   "form": "birasandara",
+   "startCharOffset": 1323,
+   "endCharOffset": 1334
+  },
+  {
+   "form": "nahombye",
+   "startCharOffset": 1335,
+   "endCharOffset": 1343
+  },
+  {
+   "form": "byose",
+   "startCharOffset": 1344,
+   "endCharOffset": 1349
+  },
+  {
+   "form": "ntacyo",
+   "startCharOffset": 1350,
+   "endCharOffset": 1356
+  },
+  {
+   "form": "nararuye",
+   "startCharOffset": 1357,
+   "endCharOffset": 1365
+  },
+  {
+   "form": ".",
+   "startCharOffset": 1365,
+   "endCharOffset": 1366
+  },
+  {
+   "form": "Iki",
+   "startCharOffset": 1367,
+   "endCharOffset": 1370
+  },
+  {
+   "form": "kibazo",
+   "startCharOffset": 1371,
+   "endCharOffset": 1377
+  },
+  {
+   "form": "twakivuze",
+   "startCharOffset": 1378,
+   "endCharOffset": 1387
+  },
+  {
+   "form": "kuva",
+   "startCharOffset": 1388,
+   "endCharOffset": 1392
+  },
+  {
+   "form": "kera",
+   "startCharOffset": 1393,
+   "endCharOffset": 1397
+  },
+  {
+   "form": "ariko",
+   "startCharOffset": 1398,
+   "endCharOffset": 1403
+  },
+  {
+   "form": "hari",
+   "startCharOffset": 1404,
+   "endCharOffset": 1408
+  },
+  {
+   "form": "nikosa",
+   "startCharOffset": 1409,
+   "endCharOffset": 1415
+  },
+  {
+   "form": "ryakozwe",
+   "startCharOffset": 1416,
+   "endCharOffset": 1424
+  },
+  {
+   "form": "ba",
+   "startCharOffset": 1425,
+   "endCharOffset": 1427
+  },
+  {
+   "form": "rwiyemezamirimo",
+   "startCharOffset": 1428,
+   "endCharOffset": 1443
+  },
+  {
+   "form": "bubaka",
+   "startCharOffset": 1444,
+   "endCharOffset": 1450
+  },
+  {
+   "form": "uyu",
+   "startCharOffset": 1451,
+   "endCharOffset": 1454
+  },
+  {
+   "form": "muyoboro",
+   "startCharOffset": 1455,
+   "endCharOffset": 1463
+  },
+  {
+   "form": "mugari",
+   "startCharOffset": 1464,
+   "endCharOffset": 1470
+  },
+  {
+   "form": "kuva",
+   "startCharOffset": 1471,
+   "endCharOffset": 1475
+  },
+  {
+   "form": "kera",
+   "startCharOffset": 1476,
+   "endCharOffset": 1480
+  },
+  {
+   "form": "byagaragaraga",
+   "startCharOffset": 1481,
+   "endCharOffset": 1494
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 1495,
+   "endCharOffset": 1497
+  },
+  {
+   "form": "amazi",
+   "startCharOffset": 1498,
+   "endCharOffset": 1503
+  },
+  {
+   "form": "ayoboye",
+   "startCharOffset": 1504,
+   "endCharOffset": 1511
+  },
+  {
+   "form": "nabi",
+   "startCharOffset": 1512,
+   "endCharOffset": 1516
+  },
+  {
+   "form": "none",
+   "startCharOffset": 1517,
+   "endCharOffset": 1521
+  },
+  {
+   "form": "ibintu",
+   "startCharOffset": 1522,
+   "endCharOffset": 1528
+  },
+  {
+   "form": "byose",
+   "startCharOffset": 1529,
+   "endCharOffset": 1534
+  },
+  {
+   "form": "byarangiritse",
+   "startCharOffset": 1535,
+   "endCharOffset": 1548
+  },
+  {
+   "form": ",",
+   "startCharOffset": 1548,
+   "endCharOffset": 1549
+  },
+  {
+   "form": "ubuyobozi",
+   "startCharOffset": 1550,
+   "endCharOffset": 1559
+  },
+  {
+   "form": "bukomeje",
+   "startCharOffset": 1560,
+   "endCharOffset": 1568
+  },
+  {
+   "form": "kuturangarana",
+   "startCharOffset": 1569,
+   "endCharOffset": 1582
+  },
+  {
+   "form": ".",
+   "startCharOffset": 1582,
+   "endCharOffset": 1583
+  },
+  {
+   "form": "Umuyobozi",
+   "startCharOffset": 1585,
+   "endCharOffset": 1594
+  },
+  {
+   "form": "wAkarere",
+   "startCharOffset": 1595,
+   "endCharOffset": 1603
+  },
+  {
+   "form": "ka",
+   "startCharOffset": 1604,
+   "endCharOffset": 1606
+  },
+  {
+   "form": "Rubavu",
+   "startCharOffset": 1607,
+   "endCharOffset": 1613
+  },
+  {
+   "form": ",",
+   "startCharOffset": 1613,
+   "endCharOffset": 1614
+  },
+  {
+   "form": "Sinamenye",
+   "startCharOffset": 1615,
+   "endCharOffset": 1624
+  },
+  {
+   "form": "Jrmie",
+   "startCharOffset": 1625,
+   "endCharOffset": 1630
+  },
+  {
+   "form": "avuga",
+   "startCharOffset": 1631,
+   "endCharOffset": 1636
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 1637,
+   "endCharOffset": 1639
+  },
+  {
+   "form": "iki",
+   "startCharOffset": 1640,
+   "endCharOffset": 1643
+  },
+  {
+   "form": "kibazo",
+   "startCharOffset": 1644,
+   "endCharOffset": 1650
+  },
+  {
+   "form": "giteye",
+   "startCharOffset": 1651,
+   "endCharOffset": 1657
+  },
+  {
+   "form": "impungenge",
+   "startCharOffset": 1658,
+   "endCharOffset": 1668
+  },
+  {
+   "form": "ariko",
+   "startCharOffset": 1669,
+   "endCharOffset": 1674
+  },
+  {
+   "form": "icyibanze",
+   "startCharOffset": 1675,
+   "endCharOffset": 1684
+  },
+  {
+   "form": "nukwihutira",
+   "startCharOffset": 1685,
+   "endCharOffset": 1696
+  },
+  {
+   "form": "gutabara",
+   "startCharOffset": 1697,
+   "endCharOffset": 1705
+  },
+  {
+   "form": "abaturage",
+   "startCharOffset": 1706,
+   "endCharOffset": 1715
+  },
+  {
+   "form": ".",
+   "startCharOffset": 1715,
+   "endCharOffset": 1716
+  },
+  {
+   "form": "Yagize",
+   "startCharOffset": 1718,
+   "endCharOffset": 1724
+  },
+  {
+   "form": "ati",
+   "startCharOffset": 1725,
+   "endCharOffset": 1728
+  },
+  {
+   "form": "Iyo",
+   "startCharOffset": 1729,
+   "endCharOffset": 1732
+  },
+  {
+   "form": "ikibazo",
+   "startCharOffset": 1733,
+   "endCharOffset": 1740
+  },
+  {
+   "form": "nkiki",
+   "startCharOffset": 1741,
+   "endCharOffset": 1746
+  },
+  {
+   "form": "kibaye",
+   "startCharOffset": 1747,
+   "endCharOffset": 1753
+  },
+  {
+   "form": "tugomba",
+   "startCharOffset": 1754,
+   "endCharOffset": 1761
+  },
+  {
+   "form": "gutabara",
+   "startCharOffset": 1762,
+   "endCharOffset": 1770
+  },
+  {
+   "form": "abaturage,turabasaba",
+   "startCharOffset": 1771,
+   "endCharOffset": 1791
+  },
+  {
+   "form": "kugaragaza",
+   "startCharOffset": 1792,
+   "endCharOffset": 1802
+  },
+  {
+   "form": "uruhare",
+   "startCharOffset": 1803,
+   "endCharOffset": 1810
+  },
+  {
+   "form": "rwabo",
+   "startCharOffset": 1811,
+   "endCharOffset": 1816
+  },
+  {
+   "form": "bafata",
+   "startCharOffset": 1817,
+   "endCharOffset": 1823
+  },
+  {
+   "form": "neza",
+   "startCharOffset": 1824,
+   "endCharOffset": 1828
+  },
+  {
+   "form": "ibikorwa",
+   "startCharOffset": 1829,
+   "endCharOffset": 1837
+  },
+  {
+   "form": "remezo",
+   "startCharOffset": 1838,
+   "endCharOffset": 1844
+  },
+  {
+   "form": "bakuramo",
+   "startCharOffset": 1845,
+   "endCharOffset": 1853
+  },
+  {
+   "form": "imyanda",
+   "startCharOffset": 1854,
+   "endCharOffset": 1861
+  },
+  {
+   "form": "yatuma",
+   "startCharOffset": 1862,
+   "endCharOffset": 1868
+  },
+  {
+   "form": "amazi",
+   "startCharOffset": 1869,
+   "endCharOffset": 1874
+  },
+  {
+   "form": "atagenda",
+   "startCharOffset": 1875,
+   "endCharOffset": 1883
+  },
+  {
+   "form": ",",
+   "startCharOffset": 1883,
+   "endCharOffset": 1884
+  },
+  {
+   "form": "ikindi",
+   "startCharOffset": 1885,
+   "endCharOffset": 1891
+  },
+  {
+   "form": "tubasaba",
+   "startCharOffset": 1892,
+   "endCharOffset": 1900
+  },
+  {
+   "form": "ni",
+   "startCharOffset": 1901,
+   "endCharOffset": 1903
+  },
+  {
+   "form": "ugufata",
+   "startCharOffset": 1904,
+   "endCharOffset": 1911
+  },
+  {
+   "form": "amazi",
+   "startCharOffset": 1912,
+   "endCharOffset": 1917
+  },
+  {
+   "form": "ava",
+   "startCharOffset": 1918,
+   "endCharOffset": 1921
+  },
+  {
+   "form": "ku",
+   "startCharOffset": 1922,
+   "endCharOffset": 1924
+  },
+  {
+   "form": "nzu",
+   "startCharOffset": 1925,
+   "endCharOffset": 1928
+  },
+  {
+   "form": "zabo",
+   "startCharOffset": 1929,
+   "endCharOffset": 1933
+  },
+  {
+   "form": "ibi",
+   "startCharOffset": 1934,
+   "endCharOffset": 1937
+  },
+  {
+   "form": "bizadufasha",
+   "startCharOffset": 1938,
+   "endCharOffset": 1949
+  },
+  {
+   "form": "guhangana",
+   "startCharOffset": 1950,
+   "endCharOffset": 1959
+  },
+  {
+   "form": "nibi",
+   "startCharOffset": 1960,
+   "endCharOffset": 1964
+  },
+  {
+   "form": "biza",
+   "startCharOffset": 1965,
+   "endCharOffset": 1969
+  },
+  {
+   "form": ".",
+   "startCharOffset": 1969,
+   "endCharOffset": 1970
+  },
+  {
+   "form": "Kuva",
+   "startCharOffset": 1972,
+   "endCharOffset": 1976
+  },
+  {
+   "form": "ibihe",
+   "startCharOffset": 1977,
+   "endCharOffset": 1982
+  },
+  {
+   "form": "byimvura",
+   "startCharOffset": 1983,
+   "endCharOffset": 1991
+  },
+  {
+   "form": "byatangira",
+   "startCharOffset": 1992,
+   "endCharOffset": 2002
+  },
+  {
+   "form": "muri",
+   "startCharOffset": 2003,
+   "endCharOffset": 2007
+  },
+  {
+   "form": "uyu",
+   "startCharOffset": 2008,
+   "endCharOffset": 2011
+  },
+  {
+   "form": "mwaka",
+   "startCharOffset": 2012,
+   "endCharOffset": 2017
+  },
+  {
+   "form": ",",
+   "startCharOffset": 2017,
+   "endCharOffset": 2018
+  },
+  {
+   "form": "ubuyobozi",
+   "startCharOffset": 2019,
+   "endCharOffset": 2028
+  },
+  {
+   "form": "bwAkarere",
+   "startCharOffset": 2029,
+   "endCharOffset": 2038
+  },
+  {
+   "form": "ka",
+   "startCharOffset": 2039,
+   "endCharOffset": 2041
+  },
+  {
+   "form": "Rubavu",
+   "startCharOffset": 2042,
+   "endCharOffset": 2048
+  },
+  {
+   "form": "bwatangaje",
+   "startCharOffset": 2049,
+   "endCharOffset": 2059
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 2060,
+   "endCharOffset": 2062
+  },
+  {
+   "form": "ari",
+   "startCharOffset": 2063,
+   "endCharOffset": 2066
+  },
+  {
+   "form": "bwo",
+   "startCharOffset": 2067,
+   "endCharOffset": 2070
+  },
+  {
+   "form": "bwa",
+   "startCharOffset": 2071,
+   "endCharOffset": 2074
+  },
+  {
+   "form": "mbere",
+   "startCharOffset": 2075,
+   "endCharOffset": 2080
+  },
+  {
+   "form": "yangije",
+   "startCharOffset": 2081,
+   "endCharOffset": 2088
+  },
+  {
+   "form": "ibintu",
+   "startCharOffset": 2089,
+   "endCharOffset": 2095
+  },
+  {
+   "form": "byinshi",
+   "startCharOffset": 2096,
+   "endCharOffset": 2103
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 2104,
+   "endCharOffset": 2106
+  },
+  {
+   "form": "Mujyi",
+   "startCharOffset": 2107,
+   "endCharOffset": 2112
+  },
+  {
+   "form": "wa",
+   "startCharOffset": 2113,
+   "endCharOffset": 2115
+  },
+  {
+   "form": "Gisenyi",
+   "startCharOffset": 2116,
+   "endCharOffset": 2123
+  },
+  {
+   "form": "rwagati",
+   "startCharOffset": 2124,
+   "endCharOffset": 2131
+  },
+  {
+   "form": ".",
+   "startCharOffset": 2131,
+   "endCharOffset": 2132
+  },
+  {
+   "form": "Abaturage",
+   "startCharOffset": 2135,
+   "endCharOffset": 2144
+  },
+  {
+   "form": "bareba",
+   "startCharOffset": 2145,
+   "endCharOffset": 2151
+  },
+  {
+   "form": "urukuta",
+   "startCharOffset": 2152,
+   "endCharOffset": 2159
+  },
+  {
+   "form": "rwasenyutse",
+   "startCharOffset": 2160,
+   "endCharOffset": 2171
+  },
+  {
+   "form": "Amazi",
+   "startCharOffset": 2174,
+   "endCharOffset": 2179
+  },
+  {
+   "form": "yari",
+   "startCharOffset": 2180,
+   "endCharOffset": 2184
+  },
+  {
+   "form": "yuzuye",
+   "startCharOffset": 2185,
+   "endCharOffset": 2191
+  },
+  {
+   "form": "ahantu",
+   "startCharOffset": 2192,
+   "endCharOffset": 2198
+  },
+  {
+   "form": "hose",
+   "startCharOffset": 2199,
+   "endCharOffset": 2203
+  },
+  {
+   "form": ",",
+   "startCharOffset": 2203,
+   "endCharOffset": 2204
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 2205,
+   "endCharOffset": 2207
+  },
+  {
+   "form": "nzu",
+   "startCharOffset": 2208,
+   "endCharOffset": 2211
+  },
+  {
+   "form": "utabona",
+   "startCharOffset": 2212,
+   "endCharOffset": 2219
+  },
+  {
+   "form": "aho",
+   "startCharOffset": 2220,
+   "endCharOffset": 2223
+  },
+  {
+   "form": "ukandagiza",
+   "startCharOffset": 2224,
+   "endCharOffset": 2234
+  },
+  {
+   "form": "ikirenge",
+   "startCharOffset": 2235,
+   "endCharOffset": 2243
+  },
+  {
+   "form": "Amazi",
+   "startCharOffset": 2246,
+   "endCharOffset": 2251
+  },
+  {
+   "form": "yinjiye",
+   "startCharOffset": 2252,
+   "endCharOffset": 2259
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 2260,
+   "endCharOffset": 2262
+  },
+  {
+   "form": "nzu",
+   "startCharOffset": 2263,
+   "endCharOffset": 2266
+  },
+  {
+   "form": "z'abaturage",
+   "startCharOffset": 2267,
+   "endCharOffset": 2278
+  },
+  {
+   "form": "yangiza",
+   "startCharOffset": 2279,
+   "endCharOffset": 2286
+  },
+  {
+   "form": "ibintu",
+   "startCharOffset": 2287,
+   "endCharOffset": 2293
+  },
+  {
+   "form": "byinshi",
+   "startCharOffset": 2294,
+   "endCharOffset": 2301
+  },
+  {
+   "form": "Olivier@igihe.rw",
+   "startCharOffset": 2304,
+   "endCharOffset": 2320
+  }
+ ],
+ "sentences": {
+  "generator": "UserSpecified",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   8,
+   16,
+   48,
+   64,
+   91,
+   99,
+   143,
+   176,
+   196,
+   227,
+   246,
+   283,
+   310,
+   314,
+   326,
+   334,
+   335
+  ]
+ },
+ "views": [
+  {
+   "viewName": "NER_CONLL",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+     "viewName": "NER_CONLL",
+     "generator": "Ltf2TextAnnotation",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "Gisenyi"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 232,
+       "end": 234,
+       "tokens": "Sinamenye Jrmie"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 143,
+       "end": 145,
+       "tokens": "Uwimana Yuliyana"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Rubavu",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": ":"
+      },
+      {
+       "label": "Abaturage",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Abaturage"
+      },
+      {
+       "label": "basenyewe",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "basenyewe"
+      },
+      {
+       "label": "n\u2019imvura",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "n\u2019imvura"
+      },
+      {
+       "label": "barashinja",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "barashinja"
+      },
+      {
+       "label": "akarere",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "akarere"
+      },
+      {
+       "label": "kubatererana",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "kubatererana"
+      },
+      {
+       "label": "Yasuwe",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "Yasuwe"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": ":"
+      },
+      {
+       "label": "2012",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "2012"
+      },
+      {
+       "label": "Yavuzweho",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "Yavuzweho"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": ":"
+      },
+      {
+       "label": "3",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "3"
+      },
+      {
+       "label": "0",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "0"
+      },
+      {
+       "label": "0",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "0"
+      },
+      {
+       "label": "Bamwe",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "Bamwe"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "mu"
+      },
+      {
+       "label": "basenyewe",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "basenyewe"
+      },
+      {
+       "label": "bavuga",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "bavuga"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "ko"
+      },
+      {
+       "label": "iki",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "iki"
+      },
+      {
+       "label": "kiza",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "kiza"
+      },
+      {
+       "label": "cyimvura",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "cyimvura"
+      },
+      {
+       "label": "idasanzwe",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "idasanzwe"
+      },
+      {
+       "label": "yaguye",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "yaguye"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "mu"
+      },
+      {
+       "label": "Mujyi",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "Mujyi"
+      },
+      {
+       "label": "wa",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "wa"
+      },
+      {
+       "label": "Rubavu",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "ku",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "ku"
+      },
+      {
+       "label": "gicamunsi",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "gicamunsi"
+      },
+      {
+       "label": "cyo",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "cyo"
+      },
+      {
+       "label": "kuwa",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "kuwa"
+      },
+      {
+       "label": "Kabiri",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "Kabiri"
+      },
+      {
+       "label": "cyatewe",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "cyatewe"
+      },
+      {
+       "label": "ahanini",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "ahanini"
+      },
+      {
+       "label": "nimyubakire",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "nimyubakire"
+      },
+      {
+       "label": "yurukuta",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "yurukuta"
+      },
+      {
+       "label": "rukikije",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "rukikije"
+      },
+      {
+       "label": "uyu",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "uyu"
+      },
+      {
+       "label": "muyoboro",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "muyoboro"
+      },
+      {
+       "label": "rwasondetswe",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "rwasondetswe"
+      },
+      {
+       "label": "ubwo",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "ubwo"
+      },
+      {
+       "label": "Abashinwa",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Abashinwa"
+      },
+      {
+       "label": "bubakaga",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "bubakaga"
+      },
+      {
+       "label": "umuhanda",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "umuhanda"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "."
+      },
+      {
+       "label": "Ikibazo",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "Ikibazo"
+      },
+      {
+       "label": "cyimyubakire",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "cyimyubakire"
+      },
+      {
+       "label": "yawo",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "yawo"
+      },
+      {
+       "label": "cyagejejwe",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "cyagejejwe"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "mu"
+      },
+      {
+       "label": "buyobozi",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "buyobozi"
+      },
+      {
+       "label": "bwakarere",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "bwakarere"
+      },
+      {
+       "label": "ndetse",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "ndetse"
+      },
+      {
+       "label": "abaturage",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "abaturage"
+      },
+      {
+       "label": "bagaragaza",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "bagaragaza"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "ko"
+      },
+      {
+       "label": "bishobora",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "bishobora"
+      },
+      {
+       "label": "kubashyira",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "kubashyira"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "mu"
+      },
+      {
+       "label": "kaga",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "kaga"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "."
+      },
+      {
+       "label": "Umwe",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Umwe"
+      },
+      {
+       "label": "muri",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "muri"
+      },
+      {
+       "label": "bo",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "bo"
+      },
+      {
+       "label": "yagize",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "yagize"
+      },
+      {
+       "label": "ati",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "ati"
+      },
+      {
+       "label": "Hashize",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "Hashize"
+      },
+      {
+       "label": "igihe",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "igihe"
+      },
+      {
+       "label": "kinini",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "kinini"
+      },
+      {
+       "label": "twirirwa",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "twirirwa"
+      },
+      {
+       "label": "twirukanka",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "twirukanka"
+      },
+      {
+       "label": "ku",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "ku"
+      },
+      {
+       "label": "biro",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "biro"
+      },
+      {
+       "label": "byAkarere",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "byAkarere"
+      },
+      {
+       "label": "tubamenyesha",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "tubamenyesha"
+      },
+      {
+       "label": "ibibazo",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "ibibazo"
+      },
+      {
+       "label": "dushobora",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "dushobora"
+      },
+      {
+       "label": "kuzahura",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "kuzahura"
+      },
+      {
+       "label": "nabyo",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "nabyo"
+      },
+      {
+       "label": "kubera",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "kubera"
+      },
+      {
+       "label": "uyu",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "uyu"
+      },
+      {
+       "label": "muyoboro",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "muyoboro"
+      },
+      {
+       "label": "wamazi",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "wamazi"
+      },
+      {
+       "label": "wubatse",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "wubatse"
+      },
+      {
+       "label": "nabi",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "nabi"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": ","
+      },
+      {
+       "label": "ntibadusubize",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "ntibadusubize"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "."
+      },
+      {
+       "label": "Twanditse",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "Twanditse"
+      },
+      {
+       "label": "namabaruwa",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "namabaruwa"
+      },
+      {
+       "label": "menshi",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "menshi"
+      },
+      {
+       "label": "barayakira",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "barayakira"
+      },
+      {
+       "label": "baranadusinyira",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "baranadusinyira"
+      },
+      {
+       "label": "ariko",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "ariko"
+      },
+      {
+       "label": "baricecekeye",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "baricecekeye"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "."
+      },
+      {
+       "label": "Akomeza",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Akomeza"
+      },
+      {
+       "label": "agira",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "agira"
+      },
+      {
+       "label": "ati",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "ati"
+      },
+      {
+       "label": "None",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "None"
+      },
+      {
+       "label": "baje",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "baje"
+      },
+      {
+       "label": "ari",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "ari"
+      },
+      {
+       "label": "uko",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "uko"
+      },
+      {
+       "label": "urukuta",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "urukuta"
+      },
+      {
+       "label": "rwabatwaye",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "rwabatwaye"
+      },
+      {
+       "label": "amafaranga",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "amafaranga"
+      },
+      {
+       "label": "menshi",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "menshi"
+      },
+      {
+       "label": "rutwawe",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "rutwawe"
+      },
+      {
+       "label": "namazi",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "namazi"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": ","
+      },
+      {
+       "label": "twarababwiye",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "twarababwiye"
+      },
+      {
+       "label": "ngo",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "ngo"
+      },
+      {
+       "label": "ni",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "ni"
+      },
+      {
+       "label": "gute",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "gute"
+      },
+      {
+       "label": "mwubaka",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "mwubaka"
+      },
+      {
+       "label": "umuyoboro",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "umuyoboro"
+      },
+      {
+       "label": "unyuramo",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "unyuramo"
+      },
+      {
+       "label": "amazi",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "amazi"
+      },
+      {
+       "label": "menshi",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "menshi"
+      },
+      {
+       "label": "ntimushyireho",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "ntimushyireho"
+      },
+      {
+       "label": "inkingi",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "inkingi"
+      },
+      {
+       "label": "ntibatwumva",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "ntibatwumva"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": ","
+      },
+      {
+       "label": "ibaze",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "ibaze"
+      },
+      {
+       "label": "kubona",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "kubona"
+      },
+      {
+       "label": "amazi",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "amazi"
+      },
+      {
+       "label": "yose",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "yose"
+      },
+      {
+       "label": "yo",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "yo"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "mu"
+      },
+      {
+       "label": "Mujyi",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Mujyi"
+      },
+      {
+       "label": "yinjira",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "yinjira"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "mu"
+      },
+      {
+       "label": "nzu",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "nzu"
+      },
+      {
+       "label": "zabaturage",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "zabaturage"
+      },
+      {
+       "label": "twarengewe",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": "twarengewe"
+      },
+      {
+       "label": "kandi",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "kandi"
+      },
+      {
+       "label": "nibyacu",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "nibyacu"
+      },
+      {
+       "label": "byose",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "byose"
+      },
+      {
+       "label": "byangiritse",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "byangiritse"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "."
+      },
+      {
+       "label": "Uwimana",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "Uwimana"
+      },
+      {
+       "label": "Yuliyana",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "Yuliyana"
+      },
+      {
+       "label": "we",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "we"
+      },
+      {
+       "label": "ashinja",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "ashinja"
+      },
+      {
+       "label": "ubuyobozi",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "ubuyobozi"
+      },
+      {
+       "label": "bwAkarere",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "bwAkarere"
+      },
+      {
+       "label": "ka",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "ka"
+      },
+      {
+       "label": "Rubavu",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "gutanga",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "gutanga"
+      },
+      {
+       "label": "amasoko",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "amasoko"
+      },
+      {
+       "label": "yo",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "yo"
+      },
+      {
+       "label": "kubaka",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "kubaka"
+      },
+      {
+       "label": "umuhanda",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "umuhanda"
+      },
+      {
+       "label": "ntibashyireho",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "ntibashyireho"
+      },
+      {
+       "label": "imiyoboro",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "imiyoboro"
+      },
+      {
+       "label": "ishoboye",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "ishoboye"
+      },
+      {
+       "label": "gutwara",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "gutwara"
+      },
+      {
+       "label": "amazi",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "amazi"
+      },
+      {
+       "label": "cyane",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "cyane"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "ko"
+      },
+      {
+       "label": "hari",
+       "score": 1.0,
+       "start": 163,
+       "end": 164,
+       "tokens": "hari"
+      },
+      {
+       "label": "nahari",
+       "score": 1.0,
+       "start": 164,
+       "end": 165,
+       "tokens": "nahari"
+      },
+      {
+       "label": "imihanda",
+       "score": 1.0,
+       "start": 165,
+       "end": 166,
+       "tokens": "imihanda"
+      },
+      {
+       "label": "ya",
+       "score": 1.0,
+       "start": 166,
+       "end": 167,
+       "tokens": "ya"
+      },
+      {
+       "label": "kaburimbo",
+       "score": 1.0,
+       "start": 167,
+       "end": 168,
+       "tokens": "kaburimbo"
+      },
+      {
+       "label": "idafite",
+       "score": 1.0,
+       "start": 168,
+       "end": 169,
+       "tokens": "idafite"
+      },
+      {
+       "label": "imiyoboro",
+       "score": 1.0,
+       "start": 169,
+       "end": 170,
+       "tokens": "imiyoboro"
+      },
+      {
+       "label": "isohora",
+       "score": 1.0,
+       "start": 170,
+       "end": 171,
+       "tokens": "isohora"
+      },
+      {
+       "label": "amazi",
+       "score": 1.0,
+       "start": 171,
+       "end": 172,
+       "tokens": "amazi"
+      },
+      {
+       "label": "kandi",
+       "score": 1.0,
+       "start": 172,
+       "end": 173,
+       "tokens": "kandi"
+      },
+      {
+       "label": "iri",
+       "score": 1.0,
+       "start": 173,
+       "end": 174,
+       "tokens": "iri"
+      },
+      {
+       "label": "ahatuwe",
+       "score": 1.0,
+       "start": 174,
+       "end": 175,
+       "tokens": "ahatuwe"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 175,
+       "end": 176,
+       "tokens": "."
+      },
+      {
+       "label": "Yagize",
+       "score": 1.0,
+       "start": 176,
+       "end": 177,
+       "tokens": "Yagize"
+      },
+      {
+       "label": "ati",
+       "score": 1.0,
+       "start": 177,
+       "end": 178,
+       "tokens": "ati"
+      },
+      {
+       "label": "Umuyoboro",
+       "score": 1.0,
+       "start": 178,
+       "end": 179,
+       "tokens": "Umuyoboro"
+      },
+      {
+       "label": "wamaze",
+       "score": 1.0,
+       "start": 179,
+       "end": 180,
+       "tokens": "wamaze"
+      },
+      {
+       "label": "kuzura",
+       "score": 1.0,
+       "start": 180,
+       "end": 181,
+       "tokens": "kuzura"
+      },
+      {
+       "label": "urasenyuka",
+       "score": 1.0,
+       "start": 181,
+       "end": 182,
+       "tokens": "urasenyuka"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 182,
+       "end": 183,
+       "tokens": ","
+      },
+      {
+       "label": "amazi",
+       "score": 1.0,
+       "start": 183,
+       "end": 184,
+       "tokens": "amazi"
+      },
+      {
+       "label": "yinjiye",
+       "score": 1.0,
+       "start": 184,
+       "end": 185,
+       "tokens": "yinjiye"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 185,
+       "end": 186,
+       "tokens": "mu"
+      },
+      {
+       "label": "ngo",
+       "score": 1.0,
+       "start": 186,
+       "end": 187,
+       "tokens": "ngo"
+      },
+      {
+       "label": "zacu",
+       "score": 1.0,
+       "start": 187,
+       "end": 188,
+       "tokens": "zacu"
+      },
+      {
+       "label": "ibintu",
+       "score": 1.0,
+       "start": 188,
+       "end": 189,
+       "tokens": "ibintu"
+      },
+      {
+       "label": "byose",
+       "score": 1.0,
+       "start": 189,
+       "end": 190,
+       "tokens": "byose"
+      },
+      {
+       "label": "birasandara",
+       "score": 1.0,
+       "start": 190,
+       "end": 191,
+       "tokens": "birasandara"
+      },
+      {
+       "label": "nahombye",
+       "score": 1.0,
+       "start": 191,
+       "end": 192,
+       "tokens": "nahombye"
+      },
+      {
+       "label": "byose",
+       "score": 1.0,
+       "start": 192,
+       "end": 193,
+       "tokens": "byose"
+      },
+      {
+       "label": "ntacyo",
+       "score": 1.0,
+       "start": 193,
+       "end": 194,
+       "tokens": "ntacyo"
+      },
+      {
+       "label": "nararuye",
+       "score": 1.0,
+       "start": 194,
+       "end": 195,
+       "tokens": "nararuye"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 195,
+       "end": 196,
+       "tokens": "."
+      },
+      {
+       "label": "Iki",
+       "score": 1.0,
+       "start": 196,
+       "end": 197,
+       "tokens": "Iki"
+      },
+      {
+       "label": "kibazo",
+       "score": 1.0,
+       "start": 197,
+       "end": 198,
+       "tokens": "kibazo"
+      },
+      {
+       "label": "twakivuze",
+       "score": 1.0,
+       "start": 198,
+       "end": 199,
+       "tokens": "twakivuze"
+      },
+      {
+       "label": "kuva",
+       "score": 1.0,
+       "start": 199,
+       "end": 200,
+       "tokens": "kuva"
+      },
+      {
+       "label": "kera",
+       "score": 1.0,
+       "start": 200,
+       "end": 201,
+       "tokens": "kera"
+      },
+      {
+       "label": "ariko",
+       "score": 1.0,
+       "start": 201,
+       "end": 202,
+       "tokens": "ariko"
+      },
+      {
+       "label": "hari",
+       "score": 1.0,
+       "start": 202,
+       "end": 203,
+       "tokens": "hari"
+      },
+      {
+       "label": "nikosa",
+       "score": 1.0,
+       "start": 203,
+       "end": 204,
+       "tokens": "nikosa"
+      },
+      {
+       "label": "ryakozwe",
+       "score": 1.0,
+       "start": 204,
+       "end": 205,
+       "tokens": "ryakozwe"
+      },
+      {
+       "label": "ba",
+       "score": 1.0,
+       "start": 205,
+       "end": 206,
+       "tokens": "ba"
+      },
+      {
+       "label": "rwiyemezamirimo",
+       "score": 1.0,
+       "start": 206,
+       "end": 207,
+       "tokens": "rwiyemezamirimo"
+      },
+      {
+       "label": "bubaka",
+       "score": 1.0,
+       "start": 207,
+       "end": 208,
+       "tokens": "bubaka"
+      },
+      {
+       "label": "uyu",
+       "score": 1.0,
+       "start": 208,
+       "end": 209,
+       "tokens": "uyu"
+      },
+      {
+       "label": "muyoboro",
+       "score": 1.0,
+       "start": 209,
+       "end": 210,
+       "tokens": "muyoboro"
+      },
+      {
+       "label": "mugari",
+       "score": 1.0,
+       "start": 210,
+       "end": 211,
+       "tokens": "mugari"
+      },
+      {
+       "label": "kuva",
+       "score": 1.0,
+       "start": 211,
+       "end": 212,
+       "tokens": "kuva"
+      },
+      {
+       "label": "kera",
+       "score": 1.0,
+       "start": 212,
+       "end": 213,
+       "tokens": "kera"
+      },
+      {
+       "label": "byagaragaraga",
+       "score": 1.0,
+       "start": 213,
+       "end": 214,
+       "tokens": "byagaragaraga"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 214,
+       "end": 215,
+       "tokens": "ko"
+      },
+      {
+       "label": "amazi",
+       "score": 1.0,
+       "start": 215,
+       "end": 216,
+       "tokens": "amazi"
+      },
+      {
+       "label": "ayoboye",
+       "score": 1.0,
+       "start": 216,
+       "end": 217,
+       "tokens": "ayoboye"
+      },
+      {
+       "label": "nabi",
+       "score": 1.0,
+       "start": 217,
+       "end": 218,
+       "tokens": "nabi"
+      },
+      {
+       "label": "none",
+       "score": 1.0,
+       "start": 218,
+       "end": 219,
+       "tokens": "none"
+      },
+      {
+       "label": "ibintu",
+       "score": 1.0,
+       "start": 219,
+       "end": 220,
+       "tokens": "ibintu"
+      },
+      {
+       "label": "byose",
+       "score": 1.0,
+       "start": 220,
+       "end": 221,
+       "tokens": "byose"
+      },
+      {
+       "label": "byarangiritse",
+       "score": 1.0,
+       "start": 221,
+       "end": 222,
+       "tokens": "byarangiritse"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 222,
+       "end": 223,
+       "tokens": ","
+      },
+      {
+       "label": "ubuyobozi",
+       "score": 1.0,
+       "start": 223,
+       "end": 224,
+       "tokens": "ubuyobozi"
+      },
+      {
+       "label": "bukomeje",
+       "score": 1.0,
+       "start": 224,
+       "end": 225,
+       "tokens": "bukomeje"
+      },
+      {
+       "label": "kuturangarana",
+       "score": 1.0,
+       "start": 225,
+       "end": 226,
+       "tokens": "kuturangarana"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 226,
+       "end": 227,
+       "tokens": "."
+      },
+      {
+       "label": "Umuyobozi",
+       "score": 1.0,
+       "start": 227,
+       "end": 228,
+       "tokens": "Umuyobozi"
+      },
+      {
+       "label": "wAkarere",
+       "score": 1.0,
+       "start": 228,
+       "end": 229,
+       "tokens": "wAkarere"
+      },
+      {
+       "label": "ka",
+       "score": 1.0,
+       "start": 229,
+       "end": 230,
+       "tokens": "ka"
+      },
+      {
+       "label": "Rubavu",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 231,
+       "end": 232,
+       "tokens": ","
+      },
+      {
+       "label": "Sinamenye",
+       "score": 1.0,
+       "start": 232,
+       "end": 233,
+       "tokens": "Sinamenye"
+      },
+      {
+       "label": "Jrmie",
+       "score": 1.0,
+       "start": 233,
+       "end": 234,
+       "tokens": "Jrmie"
+      },
+      {
+       "label": "avuga",
+       "score": 1.0,
+       "start": 234,
+       "end": 235,
+       "tokens": "avuga"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 235,
+       "end": 236,
+       "tokens": "ko"
+      },
+      {
+       "label": "iki",
+       "score": 1.0,
+       "start": 236,
+       "end": 237,
+       "tokens": "iki"
+      },
+      {
+       "label": "kibazo",
+       "score": 1.0,
+       "start": 237,
+       "end": 238,
+       "tokens": "kibazo"
+      },
+      {
+       "label": "giteye",
+       "score": 1.0,
+       "start": 238,
+       "end": 239,
+       "tokens": "giteye"
+      },
+      {
+       "label": "impungenge",
+       "score": 1.0,
+       "start": 239,
+       "end": 240,
+       "tokens": "impungenge"
+      },
+      {
+       "label": "ariko",
+       "score": 1.0,
+       "start": 240,
+       "end": 241,
+       "tokens": "ariko"
+      },
+      {
+       "label": "icyibanze",
+       "score": 1.0,
+       "start": 241,
+       "end": 242,
+       "tokens": "icyibanze"
+      },
+      {
+       "label": "nukwihutira",
+       "score": 1.0,
+       "start": 242,
+       "end": 243,
+       "tokens": "nukwihutira"
+      },
+      {
+       "label": "gutabara",
+       "score": 1.0,
+       "start": 243,
+       "end": 244,
+       "tokens": "gutabara"
+      },
+      {
+       "label": "abaturage",
+       "score": 1.0,
+       "start": 244,
+       "end": 245,
+       "tokens": "abaturage"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 245,
+       "end": 246,
+       "tokens": "."
+      },
+      {
+       "label": "Yagize",
+       "score": 1.0,
+       "start": 246,
+       "end": 247,
+       "tokens": "Yagize"
+      },
+      {
+       "label": "ati",
+       "score": 1.0,
+       "start": 247,
+       "end": 248,
+       "tokens": "ati"
+      },
+      {
+       "label": "Iyo",
+       "score": 1.0,
+       "start": 248,
+       "end": 249,
+       "tokens": "Iyo"
+      },
+      {
+       "label": "ikibazo",
+       "score": 1.0,
+       "start": 249,
+       "end": 250,
+       "tokens": "ikibazo"
+      },
+      {
+       "label": "nkiki",
+       "score": 1.0,
+       "start": 250,
+       "end": 251,
+       "tokens": "nkiki"
+      },
+      {
+       "label": "kibaye",
+       "score": 1.0,
+       "start": 251,
+       "end": 252,
+       "tokens": "kibaye"
+      },
+      {
+       "label": "tugomba",
+       "score": 1.0,
+       "start": 252,
+       "end": 253,
+       "tokens": "tugomba"
+      },
+      {
+       "label": "gutabara",
+       "score": 1.0,
+       "start": 253,
+       "end": 254,
+       "tokens": "gutabara"
+      },
+      {
+       "label": "abaturage,turabasaba",
+       "score": 1.0,
+       "start": 254,
+       "end": 255,
+       "tokens": "abaturage,turabasaba"
+      },
+      {
+       "label": "kugaragaza",
+       "score": 1.0,
+       "start": 255,
+       "end": 256,
+       "tokens": "kugaragaza"
+      },
+      {
+       "label": "uruhare",
+       "score": 1.0,
+       "start": 256,
+       "end": 257,
+       "tokens": "uruhare"
+      },
+      {
+       "label": "rwabo",
+       "score": 1.0,
+       "start": 257,
+       "end": 258,
+       "tokens": "rwabo"
+      },
+      {
+       "label": "bafata",
+       "score": 1.0,
+       "start": 258,
+       "end": 259,
+       "tokens": "bafata"
+      },
+      {
+       "label": "neza",
+       "score": 1.0,
+       "start": 259,
+       "end": 260,
+       "tokens": "neza"
+      },
+      {
+       "label": "ibikorwa",
+       "score": 1.0,
+       "start": 260,
+       "end": 261,
+       "tokens": "ibikorwa"
+      },
+      {
+       "label": "remezo",
+       "score": 1.0,
+       "start": 261,
+       "end": 262,
+       "tokens": "remezo"
+      },
+      {
+       "label": "bakuramo",
+       "score": 1.0,
+       "start": 262,
+       "end": 263,
+       "tokens": "bakuramo"
+      },
+      {
+       "label": "imyanda",
+       "score": 1.0,
+       "start": 263,
+       "end": 264,
+       "tokens": "imyanda"
+      },
+      {
+       "label": "yatuma",
+       "score": 1.0,
+       "start": 264,
+       "end": 265,
+       "tokens": "yatuma"
+      },
+      {
+       "label": "amazi",
+       "score": 1.0,
+       "start": 265,
+       "end": 266,
+       "tokens": "amazi"
+      },
+      {
+       "label": "atagenda",
+       "score": 1.0,
+       "start": 266,
+       "end": 267,
+       "tokens": "atagenda"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 267,
+       "end": 268,
+       "tokens": ","
+      },
+      {
+       "label": "ikindi",
+       "score": 1.0,
+       "start": 268,
+       "end": 269,
+       "tokens": "ikindi"
+      },
+      {
+       "label": "tubasaba",
+       "score": 1.0,
+       "start": 269,
+       "end": 270,
+       "tokens": "tubasaba"
+      },
+      {
+       "label": "ni",
+       "score": 1.0,
+       "start": 270,
+       "end": 271,
+       "tokens": "ni"
+      },
+      {
+       "label": "ugufata",
+       "score": 1.0,
+       "start": 271,
+       "end": 272,
+       "tokens": "ugufata"
+      },
+      {
+       "label": "amazi",
+       "score": 1.0,
+       "start": 272,
+       "end": 273,
+       "tokens": "amazi"
+      },
+      {
+       "label": "ava",
+       "score": 1.0,
+       "start": 273,
+       "end": 274,
+       "tokens": "ava"
+      },
+      {
+       "label": "ku",
+       "score": 1.0,
+       "start": 274,
+       "end": 275,
+       "tokens": "ku"
+      },
+      {
+       "label": "nzu",
+       "score": 1.0,
+       "start": 275,
+       "end": 276,
+       "tokens": "nzu"
+      },
+      {
+       "label": "zabo",
+       "score": 1.0,
+       "start": 276,
+       "end": 277,
+       "tokens": "zabo"
+      },
+      {
+       "label": "ibi",
+       "score": 1.0,
+       "start": 277,
+       "end": 278,
+       "tokens": "ibi"
+      },
+      {
+       "label": "bizadufasha",
+       "score": 1.0,
+       "start": 278,
+       "end": 279,
+       "tokens": "bizadufasha"
+      },
+      {
+       "label": "guhangana",
+       "score": 1.0,
+       "start": 279,
+       "end": 280,
+       "tokens": "guhangana"
+      },
+      {
+       "label": "nibi",
+       "score": 1.0,
+       "start": 280,
+       "end": 281,
+       "tokens": "nibi"
+      },
+      {
+       "label": "biza",
+       "score": 1.0,
+       "start": 281,
+       "end": 282,
+       "tokens": "biza"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 282,
+       "end": 283,
+       "tokens": "."
+      },
+      {
+       "label": "Kuva",
+       "score": 1.0,
+       "start": 283,
+       "end": 284,
+       "tokens": "Kuva"
+      },
+      {
+       "label": "ibihe",
+       "score": 1.0,
+       "start": 284,
+       "end": 285,
+       "tokens": "ibihe"
+      },
+      {
+       "label": "byimvura",
+       "score": 1.0,
+       "start": 285,
+       "end": 286,
+       "tokens": "byimvura"
+      },
+      {
+       "label": "byatangira",
+       "score": 1.0,
+       "start": 286,
+       "end": 287,
+       "tokens": "byatangira"
+      },
+      {
+       "label": "muri",
+       "score": 1.0,
+       "start": 287,
+       "end": 288,
+       "tokens": "muri"
+      },
+      {
+       "label": "uyu",
+       "score": 1.0,
+       "start": 288,
+       "end": 289,
+       "tokens": "uyu"
+      },
+      {
+       "label": "mwaka",
+       "score": 1.0,
+       "start": 289,
+       "end": 290,
+       "tokens": "mwaka"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 290,
+       "end": 291,
+       "tokens": ","
+      },
+      {
+       "label": "ubuyobozi",
+       "score": 1.0,
+       "start": 291,
+       "end": 292,
+       "tokens": "ubuyobozi"
+      },
+      {
+       "label": "bwAkarere",
+       "score": 1.0,
+       "start": 292,
+       "end": 293,
+       "tokens": "bwAkarere"
+      },
+      {
+       "label": "ka",
+       "score": 1.0,
+       "start": 293,
+       "end": 294,
+       "tokens": "ka"
+      },
+      {
+       "label": "Rubavu",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "bwatangaje",
+       "score": 1.0,
+       "start": 295,
+       "end": 296,
+       "tokens": "bwatangaje"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 296,
+       "end": 297,
+       "tokens": "ko"
+      },
+      {
+       "label": "ari",
+       "score": 1.0,
+       "start": 297,
+       "end": 298,
+       "tokens": "ari"
+      },
+      {
+       "label": "bwo",
+       "score": 1.0,
+       "start": 298,
+       "end": 299,
+       "tokens": "bwo"
+      },
+      {
+       "label": "bwa",
+       "score": 1.0,
+       "start": 299,
+       "end": 300,
+       "tokens": "bwa"
+      },
+      {
+       "label": "mbere",
+       "score": 1.0,
+       "start": 300,
+       "end": 301,
+       "tokens": "mbere"
+      },
+      {
+       "label": "yangije",
+       "score": 1.0,
+       "start": 301,
+       "end": 302,
+       "tokens": "yangije"
+      },
+      {
+       "label": "ibintu",
+       "score": 1.0,
+       "start": 302,
+       "end": 303,
+       "tokens": "ibintu"
+      },
+      {
+       "label": "byinshi",
+       "score": 1.0,
+       "start": 303,
+       "end": 304,
+       "tokens": "byinshi"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 304,
+       "end": 305,
+       "tokens": "mu"
+      },
+      {
+       "label": "Mujyi",
+       "score": 1.0,
+       "start": 305,
+       "end": 306,
+       "tokens": "Mujyi"
+      },
+      {
+       "label": "wa",
+       "score": 1.0,
+       "start": 306,
+       "end": 307,
+       "tokens": "wa"
+      },
+      {
+       "label": "Gisenyi",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "Gisenyi"
+      },
+      {
+       "label": "rwagati",
+       "score": 1.0,
+       "start": 308,
+       "end": 309,
+       "tokens": "rwagati"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 309,
+       "end": 310,
+       "tokens": "."
+      },
+      {
+       "label": "Abaturage",
+       "score": 1.0,
+       "start": 310,
+       "end": 311,
+       "tokens": "Abaturage"
+      },
+      {
+       "label": "bareba",
+       "score": 1.0,
+       "start": 311,
+       "end": 312,
+       "tokens": "bareba"
+      },
+      {
+       "label": "urukuta",
+       "score": 1.0,
+       "start": 312,
+       "end": 313,
+       "tokens": "urukuta"
+      },
+      {
+       "label": "rwasenyutse",
+       "score": 1.0,
+       "start": 313,
+       "end": 314,
+       "tokens": "rwasenyutse"
+      },
+      {
+       "label": "Amazi",
+       "score": 1.0,
+       "start": 314,
+       "end": 315,
+       "tokens": "Amazi"
+      },
+      {
+       "label": "yari",
+       "score": 1.0,
+       "start": 315,
+       "end": 316,
+       "tokens": "yari"
+      },
+      {
+       "label": "yuzuye",
+       "score": 1.0,
+       "start": 316,
+       "end": 317,
+       "tokens": "yuzuye"
+      },
+      {
+       "label": "ahantu",
+       "score": 1.0,
+       "start": 317,
+       "end": 318,
+       "tokens": "ahantu"
+      },
+      {
+       "label": "hose",
+       "score": 1.0,
+       "start": 318,
+       "end": 319,
+       "tokens": "hose"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 319,
+       "end": 320,
+       "tokens": ","
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 320,
+       "end": 321,
+       "tokens": "mu"
+      },
+      {
+       "label": "nzu",
+       "score": 1.0,
+       "start": 321,
+       "end": 322,
+       "tokens": "nzu"
+      },
+      {
+       "label": "utabona",
+       "score": 1.0,
+       "start": 322,
+       "end": 323,
+       "tokens": "utabona"
+      },
+      {
+       "label": "aho",
+       "score": 1.0,
+       "start": 323,
+       "end": 324,
+       "tokens": "aho"
+      },
+      {
+       "label": "ukandagiza",
+       "score": 1.0,
+       "start": 324,
+       "end": 325,
+       "tokens": "ukandagiza"
+      },
+      {
+       "label": "ikirenge",
+       "score": 1.0,
+       "start": 325,
+       "end": 326,
+       "tokens": "ikirenge"
+      },
+      {
+       "label": "Amazi",
+       "score": 1.0,
+       "start": 326,
+       "end": 327,
+       "tokens": "Amazi"
+      },
+      {
+       "label": "yinjiye",
+       "score": 1.0,
+       "start": 327,
+       "end": 328,
+       "tokens": "yinjiye"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 328,
+       "end": 329,
+       "tokens": "mu"
+      },
+      {
+       "label": "nzu",
+       "score": 1.0,
+       "start": 329,
+       "end": 330,
+       "tokens": "nzu"
+      },
+      {
+       "label": "z'abaturage",
+       "score": 1.0,
+       "start": 330,
+       "end": 331,
+       "tokens": "z'abaturage"
+      },
+      {
+       "label": "yangiza",
+       "score": 1.0,
+       "start": 331,
+       "end": 332,
+       "tokens": "yangiza"
+      },
+      {
+       "label": "ibintu",
+       "score": 1.0,
+       "start": 332,
+       "end": 333,
+       "tokens": "ibintu"
+      },
+      {
+       "label": "byinshi",
+       "score": 1.0,
+       "start": 333,
+       "end": 334,
+       "tokens": "byinshi"
+      },
+      {
+       "label": "Olivier@igihe.rw",
+       "score": 1.0,
+       "start": 334,
+       "end": 335,
+       "tokens": "Olivier@igihe.rw"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "WIKIFIER",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+     "viewName": "WIKIFIER",
+     "generator": "Ltf2TextAnnotation",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "11186632",
+       "score": 1.0,
+       "start": 307,
+       "end": 308,
+       "tokens": "Gisenyi"
+      },
+      {
+       "label": "11186639",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "11186639",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "11186639",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "11186639",
+       "score": 1.0,
+       "start": 230,
+       "end": 231,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "11186639",
+       "score": 1.0,
+       "start": 294,
+       "end": 295,
+       "tokens": "Rubavu"
+      },
+      {
+       "label": "71400135",
+       "score": 1.0,
+       "start": 232,
+       "end": 234,
+       "tokens": "Sinamenye Jrmie"
+      },
+      {
+       "label": "NILI90114",
+       "score": 1.0,
+       "start": 143,
+       "end": 145,
+       "tokens": "Uwimana Yuliyana"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+     "viewName": "CANDGEN",
+     "generator": "Ltf2TextAnnotation",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "6413340|Western_Province,_Rwanda|http://en.wikipedia.org/wiki/Western_Province%2C_Rwanda",
+       "score": 0.0004668125455871627,
+       "start": 307,
+       "end": 308,
+       "tokens": "Gisenyi",
+       "labelScoreMap": {
+        "7652765|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "7656379|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "7652715|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "7016159|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00011028446389496719,
+        "7600328|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "202905|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "7654400|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00011028446389496719,
+        "7049608|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "202231|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "7049842|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00011028446389496719,
+        "7664863|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "11186632|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "7659779|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "7663661|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "7652480|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00011028446389496719,
+        "7319941|Gisenyi|http://en.wikipedia.org/wiki/Gisenyi": 0.00027571115973741794,
+        "6413340|Western_Province,_Rwanda|http://en.wikipedia.org/wiki/Western_Province%2C_Rwanda": 0.0004668125455871627,
+        "385992|Gisenyi_Airport|http://en.wikipedia.org/wiki/Gisenyi_Airport": 1.75054704595186e-06,
+        "11399017|Gisenyi": 1.3785557986870899e-05,
+        "431752|Gisenyi": 1.3785557986870899e-05,
+        "421750|Gisenyi": 5.51422319474836e-06,
+        "428913|Gisenyi": 1.3785557986870899e-05,
+        "422299|Gisenyi": 1.3785557986870899e-05,
+        "424630|Gisenyi": 5.51422319474836e-06,
+        "11398869|Gisenyi": 1.3785557986870899e-05,
+        "422710|Gisenyi": 5.51422319474836e-06,
+        "430634|Gisenyi": 5.51422319474836e-06,
+        "425462|Gisenyi": 5.51422319474836e-06,
+        "11400385|Gisenyi": 1.3785557986870899e-05,
+        "11400796|Gisenyi": 1.3785557986870899e-05,
+        "426844|Gisenyi": 5.51422319474836e-06,
+        "428204|Gisenyi": 1.3785557986870899e-05,
+        "432417|Gisenyi": 1.3785557986870899e-05,
+        "424731|Gisenyi": 5.51422319474836e-06,
+        "428064|Gisenyi": 5.51422319474836e-06,
+        "424304|Gisenyi": 5.51422319474836e-06,
+        "431302|Gisenyi": 1.3785557986870899e-05,
+        "8306471|Gisenyi": 1.3785557986870899e-05,
+        "425791|Gisenyi": 5.51422319474836e-06,
+        "424112|Gisenyi": 1.3785557986870899e-05,
+        "422855|Gisenyi": 5.51422319474836e-06,
+        "422598|Gisenyi": 1.3785557986870899e-05,
+        "11399295|Gisenyi": 1.3785557986870899e-05,
+        "424120|Gisenyi": 5.51422319474836e-06,
+        "425443|Gisenyi": 1.3785557986870899e-05
+       }
+      },
+      {
+       "label": "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District",
+       "score": 0.012,
+       "start": 0,
+       "end": 1,
+       "tokens": "Rubavu",
+       "labelScoreMap": {
+        "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District": 0.012,
+        "426780|Rubavu": 0.0,
+        "428144|Rubavu": 0.0,
+        "202466|Rubavu": 0.0,
+        "428062|Rubavu": 0.0,
+        "8535034|Rubavu": 0.0,
+        "11186639|Rubavu": 0.0,
+        "11399271|Rubavu": 0.0,
+        "11187969|Rubavu": 0.0
+       }
+      },
+      {
+       "label": "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District",
+       "score": 0.012,
+       "start": 29,
+       "end": 30,
+       "tokens": "Rubavu",
+       "labelScoreMap": {
+        "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District": 0.012,
+        "426780|Rubavu": 0.0,
+        "428144|Rubavu": 0.0,
+        "202466|Rubavu": 0.0,
+        "428062|Rubavu": 0.0,
+        "8535034|Rubavu": 0.0,
+        "11186639|Rubavu": 0.0,
+        "11399271|Rubavu": 0.0,
+        "11187969|Rubavu": 0.0
+       }
+      },
+      {
+       "label": "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District",
+       "score": 0.012,
+       "start": 150,
+       "end": 151,
+       "tokens": "Rubavu",
+       "labelScoreMap": {
+        "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District": 0.012,
+        "426780|Rubavu": 0.0,
+        "428144|Rubavu": 0.0,
+        "202466|Rubavu": 0.0,
+        "428062|Rubavu": 0.0,
+        "8535034|Rubavu": 0.0,
+        "11186639|Rubavu": 0.0,
+        "11399271|Rubavu": 0.0,
+        "11187969|Rubavu": 0.0
+       }
+      },
+      {
+       "label": "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District",
+       "score": 0.012,
+       "start": 230,
+       "end": 231,
+       "tokens": "Rubavu",
+       "labelScoreMap": {
+        "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District": 0.012,
+        "426780|Rubavu": 0.0,
+        "428144|Rubavu": 0.0,
+        "202466|Rubavu": 0.0,
+        "428062|Rubavu": 0.0,
+        "8535034|Rubavu": 0.0,
+        "11186639|Rubavu": 0.0,
+        "11399271|Rubavu": 0.0,
+        "11187969|Rubavu": 0.0
+       }
+      },
+      {
+       "label": "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District",
+       "score": 0.012,
+       "start": 294,
+       "end": 295,
+       "tokens": "Rubavu",
+       "labelScoreMap": {
+        "7690209|Rubavu_District|http://en.wikipedia.org/wiki/Rubavu_District": 0.012,
+        "426780|Rubavu": 0.0,
+        "428144|Rubavu": 0.0,
+        "202466|Rubavu": 0.0,
+        "428062|Rubavu": 0.0,
+        "8535034|Rubavu": 0.0,
+        "11186639|Rubavu": 0.0,
+        "11399271|Rubavu": 0.0,
+        "11187969|Rubavu": 0.0
+       }
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 232,
+       "end": 234,
+       "tokens": "Sinamenye Jrmie"
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 143,
+       "end": 145,
+       "tokens": "Uwimana Yuliyana"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -134,27 +134,33 @@ public class Utils {
 			//System.out.println("CANDGEN3 is "+c.getSurfaceForm());
 			if(!candgenMap.containsKey(key))
 			{
-				CandgenValue cv = new CandgenValue(c.getLabel());
-				List<String> originalLabels = sortByValue(c.getLabelsToScores());
-				// System.out.println("CANDGEN8 is "+));
-
-				for(int a=0;a<originalLabels.size() && a<EdlCandidateLimit;a++)
+				String label = c.getLabel();
+				Map<String,Double> labelScoreMap = c.getLabelsToScores();
+				if(label!=null && labelScoreMap!=null)
 				{
-					String label = originalLabels.get(a);
-					//System.out.println("label is "+label);
-					List<String> array = splitOnVerticalLine(label);
-					//System.out.println("array is "+array);
-					String url = array.get(0);
-					if(array.size()>2)
-						url = array.get(2);
-					else
-						url = "https://www.geonames.org/"+url;
-					//System.out.println("url is "+url);
-					cv.addCandidate(label, url);
-
+					CandgenValue cv = new CandgenValue(label);
+					System.out.println(key);
+					List<String> originalLabels = sortByValue(labelScoreMap);
+					// System.out.println("CANDGEN8 is "+));
+	
+					for(int a=0;a<originalLabels.size() && a<EdlCandidateLimit;a++)
+					{
+						String candidateLabel = originalLabels.get(a);
+						//System.out.println("label is "+label);
+						List<String> array = splitOnVerticalLine(candidateLabel);
+						//System.out.println("array is "+array);
+						String url = array.get(0);
+						if(array.size()>2)
+							url = array.get(2);
+						else
+							url = "https://www.geonames.org/"+url;
+						//System.out.println("url is "+url);
+						cv.addCandidate(candidateLabel, url);
+	
+					}
+					// System.out.println("sortedList is "+sortedList);
+					candgenMap.put(key, cv);
 				}
-				// System.out.println("sortedList is "+sortedList);
-				candgenMap.put(key, cv);
 			}
 
 		}

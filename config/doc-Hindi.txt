@@ -1,4 +1,0 @@
-name	Hindi
-folderpath	data/tajson/hindi
-format	tajson
-labels	PER ORG LOC GPE

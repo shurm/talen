@@ -1,4 +1,0 @@
-name	EnglishTa
-folderpath	data/ta/eng/
-format	ta
-labels	PER ORG LOC MISC

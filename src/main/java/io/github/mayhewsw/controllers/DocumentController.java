@@ -359,11 +359,12 @@ public class DocumentController {
             logger.info("id is: " + taid);
 
             TreeMap<String, TextAnnotation> tas = sd.tas;
+            System.out.println("tas is "+tas);
+           
             TextAnnotation taToSave = tas.get(taid);
-
+            System.out.println("taToSave is "+taToSave);
             //System.out.println("foldertype is "+foldertype);
             //System.out.println("outpath is "+outpath);
-            //System.out.println("taToSave is "+taToSave);
             
             if(taToSave.hasView("CANDGEN"))
     		{
@@ -381,6 +382,8 @@ public class DocumentController {
 				 	String oldLabel = c.getLabel();
 				 	String newLabel = keysAndLabels.get(key);
 				 	Map<String,Double> labelScores = c.getLabelsToScores();
+				 	if(labelScores==null || oldLabel==null||newLabel==null)
+				 		continue;
 				 	Double highestScore = labelScores.get(oldLabel);
 				 	Double lowerScore = labelScores.get(newLabel);
 				 	//increases the score slightly in case of ties

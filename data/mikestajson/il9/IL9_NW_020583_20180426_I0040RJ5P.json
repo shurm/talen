@@ -1,0 +1,2397 @@
+{
+ "corpusId": "",
+ "id": "IL9_NW_020583_20180426_I0040RJ5P",
+ "text": " CECAFA-17: Serengeti Boys ya Tanzania yatsinze Kenya 2-1   Uwufise ububasha kw\u2019isanamu Google Image caption Abakinyi ba Serengeti Boys ba Tanzania bariko barigina igitego Mu nkino za CECAFA z'abatarenza imyaka 17, Tanzania yatsindiye kuja mu gice ca nyuma c'ihiganwa inyuma yo gutsinda Kenya ibitego 2-1, mw'ihiganwa ry'igikombe c'ibihugu vya Afrika yo mu buseruko no hagati.  Muri urwo rukino, umugwi wa Serengeti Boys umenyerezwa na Oscar Milambo, ni wo watanguye kwinjizwa igitego ca mbere, hanyuma baragombora imbere yo gutsinda igitego c'intsinzi.  CECAFA-17: Umugwi wa Zanzibar wirukanywe mw'ihiganwa  CECAFA y'abatarenza 17 yatanguye mu Burundi  Ibitego vya Serengeti Boys vyinjijwe na Jaffar Juma ku munota wa 21 hamwe na Kelvin Paul ku munota wa 62 y'urukino.  Bazihura mu rukino rwa nyuma rw'ihiganwa n'uwuzoba yatsinze hatagi ya Uganda na Somalia.",
+ "tokens": [
+  "CECAFA-17",
+  ":",
+  "Serengeti",
+  "Boys",
+  "ya",
+  "Tanzania",
+  "yatsinze",
+  "Kenya",
+  "2-1",
+  "Uwufise",
+  "ububasha",
+  "kw\u2019isanamu",
+  "Google",
+  "Image",
+  "caption",
+  "Abakinyi",
+  "ba",
+  "Serengeti",
+  "Boys",
+  "ba",
+  "Tanzania",
+  "bariko",
+  "barigina",
+  "igitego",
+  "Mu",
+  "nkino",
+  "za",
+  "CECAFA",
+  "z'abatarenza",
+  "imyaka",
+  "17",
+  ",",
+  "Tanzania",
+  "yatsindiye",
+  "kuja",
+  "mu",
+  "gice",
+  "ca",
+  "nyuma",
+  "c'ihiganwa",
+  "inyuma",
+  "yo",
+  "gutsinda",
+  "Kenya",
+  "ibitego",
+  "2-1",
+  ",",
+  "mw'ihiganwa",
+  "ry'igikombe",
+  "c'ibihugu",
+  "vya",
+  "Afrika",
+  "yo",
+  "mu",
+  "buseruko",
+  "no",
+  "hagati",
+  ".",
+  "Muri",
+  "urwo",
+  "rukino",
+  ",",
+  "umugwi",
+  "wa",
+  "Serengeti",
+  "Boys",
+  "umenyerezwa",
+  "na",
+  "Oscar",
+  "Milambo",
+  ",",
+  "ni",
+  "wo",
+  "watanguye",
+  "kwinjizwa",
+  "igitego",
+  "ca",
+  "mbere",
+  ",",
+  "hanyuma",
+  "baragombora",
+  "imbere",
+  "yo",
+  "gutsinda",
+  "igitego",
+  "c'intsinzi",
+  ".",
+  "CECAFA-17",
+  ":",
+  "Umugwi",
+  "wa",
+  "Zanzibar",
+  "wirukanywe",
+  "mw'ihiganwa",
+  "CECAFA",
+  "y'abatarenza",
+  "17",
+  "yatanguye",
+  "mu",
+  "Burundi",
+  "Ibitego",
+  "vya",
+  "Serengeti",
+  "Boys",
+  "vyinjijwe",
+  "na",
+  "Jaffar",
+  "Juma",
+  "ku",
+  "munota",
+  "wa",
+  "21",
+  "hamwe",
+  "na",
+  "Kelvin",
+  "Paul",
+  "ku",
+  "munota",
+  "wa",
+  "62",
+  "y'urukino",
+  ".",
+  "Bazihura",
+  "mu",
+  "rukino",
+  "rwa",
+  "nyuma",
+  "rw'ihiganwa",
+  "n'uwuzoba",
+  "yatsinze",
+  "hatagi",
+  "ya",
+  "Uganda",
+  "na",
+  "Somalia",
+  "."
+ ],
+ "tokenOffsets": [
+  {
+   "form": "CECAFA-17",
+   "startCharOffset": 1,
+   "endCharOffset": 10
+  },
+  {
+   "form": ":",
+   "startCharOffset": 10,
+   "endCharOffset": 11
+  },
+  {
+   "form": "Serengeti",
+   "startCharOffset": 12,
+   "endCharOffset": 21
+  },
+  {
+   "form": "Boys",
+   "startCharOffset": 22,
+   "endCharOffset": 26
+  },
+  {
+   "form": "ya",
+   "startCharOffset": 27,
+   "endCharOffset": 29
+  },
+  {
+   "form": "Tanzania",
+   "startCharOffset": 30,
+   "endCharOffset": 38
+  },
+  {
+   "form": "yatsinze",
+   "startCharOffset": 39,
+   "endCharOffset": 47
+  },
+  {
+   "form": "Kenya",
+   "startCharOffset": 48,
+   "endCharOffset": 53
+  },
+  {
+   "form": "2-1",
+   "startCharOffset": 54,
+   "endCharOffset": 57
+  },
+  {
+   "form": "Uwufise",
+   "startCharOffset": 60,
+   "endCharOffset": 67
+  },
+  {
+   "form": "ububasha",
+   "startCharOffset": 68,
+   "endCharOffset": 76
+  },
+  {
+   "form": "kw\u2019isanamu",
+   "startCharOffset": 77,
+   "endCharOffset": 87
+  },
+  {
+   "form": "Google",
+   "startCharOffset": 88,
+   "endCharOffset": 94
+  },
+  {
+   "form": "Image",
+   "startCharOffset": 95,
+   "endCharOffset": 100
+  },
+  {
+   "form": "caption",
+   "startCharOffset": 101,
+   "endCharOffset": 108
+  },
+  {
+   "form": "Abakinyi",
+   "startCharOffset": 109,
+   "endCharOffset": 117
+  },
+  {
+   "form": "ba",
+   "startCharOffset": 118,
+   "endCharOffset": 120
+  },
+  {
+   "form": "Serengeti",
+   "startCharOffset": 121,
+   "endCharOffset": 130
+  },
+  {
+   "form": "Boys",
+   "startCharOffset": 131,
+   "endCharOffset": 135
+  },
+  {
+   "form": "ba",
+   "startCharOffset": 136,
+   "endCharOffset": 138
+  },
+  {
+   "form": "Tanzania",
+   "startCharOffset": 139,
+   "endCharOffset": 147
+  },
+  {
+   "form": "bariko",
+   "startCharOffset": 148,
+   "endCharOffset": 154
+  },
+  {
+   "form": "barigina",
+   "startCharOffset": 155,
+   "endCharOffset": 163
+  },
+  {
+   "form": "igitego",
+   "startCharOffset": 164,
+   "endCharOffset": 171
+  },
+  {
+   "form": "Mu",
+   "startCharOffset": 172,
+   "endCharOffset": 174
+  },
+  {
+   "form": "nkino",
+   "startCharOffset": 175,
+   "endCharOffset": 180
+  },
+  {
+   "form": "za",
+   "startCharOffset": 181,
+   "endCharOffset": 183
+  },
+  {
+   "form": "CECAFA",
+   "startCharOffset": 184,
+   "endCharOffset": 190
+  },
+  {
+   "form": "z'abatarenza",
+   "startCharOffset": 191,
+   "endCharOffset": 203
+  },
+  {
+   "form": "imyaka",
+   "startCharOffset": 204,
+   "endCharOffset": 210
+  },
+  {
+   "form": "17",
+   "startCharOffset": 211,
+   "endCharOffset": 213
+  },
+  {
+   "form": ",",
+   "startCharOffset": 213,
+   "endCharOffset": 214
+  },
+  {
+   "form": "Tanzania",
+   "startCharOffset": 215,
+   "endCharOffset": 223
+  },
+  {
+   "form": "yatsindiye",
+   "startCharOffset": 224,
+   "endCharOffset": 234
+  },
+  {
+   "form": "kuja",
+   "startCharOffset": 235,
+   "endCharOffset": 239
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 240,
+   "endCharOffset": 242
+  },
+  {
+   "form": "gice",
+   "startCharOffset": 243,
+   "endCharOffset": 247
+  },
+  {
+   "form": "ca",
+   "startCharOffset": 248,
+   "endCharOffset": 250
+  },
+  {
+   "form": "nyuma",
+   "startCharOffset": 251,
+   "endCharOffset": 256
+  },
+  {
+   "form": "c'ihiganwa",
+   "startCharOffset": 257,
+   "endCharOffset": 267
+  },
+  {
+   "form": "inyuma",
+   "startCharOffset": 268,
+   "endCharOffset": 274
+  },
+  {
+   "form": "yo",
+   "startCharOffset": 275,
+   "endCharOffset": 277
+  },
+  {
+   "form": "gutsinda",
+   "startCharOffset": 278,
+   "endCharOffset": 286
+  },
+  {
+   "form": "Kenya",
+   "startCharOffset": 287,
+   "endCharOffset": 292
+  },
+  {
+   "form": "ibitego",
+   "startCharOffset": 293,
+   "endCharOffset": 300
+  },
+  {
+   "form": "2-1",
+   "startCharOffset": 301,
+   "endCharOffset": 304
+  },
+  {
+   "form": ",",
+   "startCharOffset": 304,
+   "endCharOffset": 305
+  },
+  {
+   "form": "mw'ihiganwa",
+   "startCharOffset": 306,
+   "endCharOffset": 317
+  },
+  {
+   "form": "ry'igikombe",
+   "startCharOffset": 318,
+   "endCharOffset": 329
+  },
+  {
+   "form": "c'ibihugu",
+   "startCharOffset": 330,
+   "endCharOffset": 339
+  },
+  {
+   "form": "vya",
+   "startCharOffset": 340,
+   "endCharOffset": 343
+  },
+  {
+   "form": "Afrika",
+   "startCharOffset": 344,
+   "endCharOffset": 350
+  },
+  {
+   "form": "yo",
+   "startCharOffset": 351,
+   "endCharOffset": 353
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 354,
+   "endCharOffset": 356
+  },
+  {
+   "form": "buseruko",
+   "startCharOffset": 357,
+   "endCharOffset": 365
+  },
+  {
+   "form": "no",
+   "startCharOffset": 366,
+   "endCharOffset": 368
+  },
+  {
+   "form": "hagati",
+   "startCharOffset": 369,
+   "endCharOffset": 375
+  },
+  {
+   "form": ".",
+   "startCharOffset": 375,
+   "endCharOffset": 376
+  },
+  {
+   "form": "Muri",
+   "startCharOffset": 378,
+   "endCharOffset": 382
+  },
+  {
+   "form": "urwo",
+   "startCharOffset": 383,
+   "endCharOffset": 387
+  },
+  {
+   "form": "rukino",
+   "startCharOffset": 388,
+   "endCharOffset": 394
+  },
+  {
+   "form": ",",
+   "startCharOffset": 394,
+   "endCharOffset": 395
+  },
+  {
+   "form": "umugwi",
+   "startCharOffset": 396,
+   "endCharOffset": 402
+  },
+  {
+   "form": "wa",
+   "startCharOffset": 403,
+   "endCharOffset": 405
+  },
+  {
+   "form": "Serengeti",
+   "startCharOffset": 406,
+   "endCharOffset": 415
+  },
+  {
+   "form": "Boys",
+   "startCharOffset": 416,
+   "endCharOffset": 420
+  },
+  {
+   "form": "umenyerezwa",
+   "startCharOffset": 421,
+   "endCharOffset": 432
+  },
+  {
+   "form": "na",
+   "startCharOffset": 433,
+   "endCharOffset": 435
+  },
+  {
+   "form": "Oscar",
+   "startCharOffset": 436,
+   "endCharOffset": 441
+  },
+  {
+   "form": "Milambo",
+   "startCharOffset": 442,
+   "endCharOffset": 449
+  },
+  {
+   "form": ",",
+   "startCharOffset": 449,
+   "endCharOffset": 450
+  },
+  {
+   "form": "ni",
+   "startCharOffset": 451,
+   "endCharOffset": 453
+  },
+  {
+   "form": "wo",
+   "startCharOffset": 454,
+   "endCharOffset": 456
+  },
+  {
+   "form": "watanguye",
+   "startCharOffset": 457,
+   "endCharOffset": 466
+  },
+  {
+   "form": "kwinjizwa",
+   "startCharOffset": 467,
+   "endCharOffset": 476
+  },
+  {
+   "form": "igitego",
+   "startCharOffset": 477,
+   "endCharOffset": 484
+  },
+  {
+   "form": "ca",
+   "startCharOffset": 485,
+   "endCharOffset": 487
+  },
+  {
+   "form": "mbere",
+   "startCharOffset": 488,
+   "endCharOffset": 493
+  },
+  {
+   "form": ",",
+   "startCharOffset": 493,
+   "endCharOffset": 494
+  },
+  {
+   "form": "hanyuma",
+   "startCharOffset": 495,
+   "endCharOffset": 502
+  },
+  {
+   "form": "baragombora",
+   "startCharOffset": 503,
+   "endCharOffset": 514
+  },
+  {
+   "form": "imbere",
+   "startCharOffset": 515,
+   "endCharOffset": 521
+  },
+  {
+   "form": "yo",
+   "startCharOffset": 522,
+   "endCharOffset": 524
+  },
+  {
+   "form": "gutsinda",
+   "startCharOffset": 525,
+   "endCharOffset": 533
+  },
+  {
+   "form": "igitego",
+   "startCharOffset": 534,
+   "endCharOffset": 541
+  },
+  {
+   "form": "c'intsinzi",
+   "startCharOffset": 542,
+   "endCharOffset": 552
+  },
+  {
+   "form": ".",
+   "startCharOffset": 552,
+   "endCharOffset": 553
+  },
+  {
+   "form": "CECAFA-17",
+   "startCharOffset": 555,
+   "endCharOffset": 564
+  },
+  {
+   "form": ":",
+   "startCharOffset": 564,
+   "endCharOffset": 565
+  },
+  {
+   "form": "Umugwi",
+   "startCharOffset": 566,
+   "endCharOffset": 572
+  },
+  {
+   "form": "wa",
+   "startCharOffset": 573,
+   "endCharOffset": 575
+  },
+  {
+   "form": "Zanzibar",
+   "startCharOffset": 576,
+   "endCharOffset": 584
+  },
+  {
+   "form": "wirukanywe",
+   "startCharOffset": 585,
+   "endCharOffset": 595
+  },
+  {
+   "form": "mw'ihiganwa",
+   "startCharOffset": 596,
+   "endCharOffset": 607
+  },
+  {
+   "form": "CECAFA",
+   "startCharOffset": 609,
+   "endCharOffset": 615
+  },
+  {
+   "form": "y'abatarenza",
+   "startCharOffset": 616,
+   "endCharOffset": 628
+  },
+  {
+   "form": "17",
+   "startCharOffset": 629,
+   "endCharOffset": 631
+  },
+  {
+   "form": "yatanguye",
+   "startCharOffset": 632,
+   "endCharOffset": 641
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 642,
+   "endCharOffset": 644
+  },
+  {
+   "form": "Burundi",
+   "startCharOffset": 645,
+   "endCharOffset": 652
+  },
+  {
+   "form": "Ibitego",
+   "startCharOffset": 654,
+   "endCharOffset": 661
+  },
+  {
+   "form": "vya",
+   "startCharOffset": 662,
+   "endCharOffset": 665
+  },
+  {
+   "form": "Serengeti",
+   "startCharOffset": 666,
+   "endCharOffset": 675
+  },
+  {
+   "form": "Boys",
+   "startCharOffset": 676,
+   "endCharOffset": 680
+  },
+  {
+   "form": "vyinjijwe",
+   "startCharOffset": 681,
+   "endCharOffset": 690
+  },
+  {
+   "form": "na",
+   "startCharOffset": 691,
+   "endCharOffset": 693
+  },
+  {
+   "form": "Jaffar",
+   "startCharOffset": 694,
+   "endCharOffset": 700
+  },
+  {
+   "form": "Juma",
+   "startCharOffset": 701,
+   "endCharOffset": 705
+  },
+  {
+   "form": "ku",
+   "startCharOffset": 706,
+   "endCharOffset": 708
+  },
+  {
+   "form": "munota",
+   "startCharOffset": 709,
+   "endCharOffset": 715
+  },
+  {
+   "form": "wa",
+   "startCharOffset": 716,
+   "endCharOffset": 718
+  },
+  {
+   "form": "21",
+   "startCharOffset": 719,
+   "endCharOffset": 721
+  },
+  {
+   "form": "hamwe",
+   "startCharOffset": 722,
+   "endCharOffset": 727
+  },
+  {
+   "form": "na",
+   "startCharOffset": 728,
+   "endCharOffset": 730
+  },
+  {
+   "form": "Kelvin",
+   "startCharOffset": 731,
+   "endCharOffset": 737
+  },
+  {
+   "form": "Paul",
+   "startCharOffset": 738,
+   "endCharOffset": 742
+  },
+  {
+   "form": "ku",
+   "startCharOffset": 743,
+   "endCharOffset": 745
+  },
+  {
+   "form": "munota",
+   "startCharOffset": 746,
+   "endCharOffset": 752
+  },
+  {
+   "form": "wa",
+   "startCharOffset": 753,
+   "endCharOffset": 755
+  },
+  {
+   "form": "62",
+   "startCharOffset": 756,
+   "endCharOffset": 758
+  },
+  {
+   "form": "y'urukino",
+   "startCharOffset": 759,
+   "endCharOffset": 768
+  },
+  {
+   "form": ".",
+   "startCharOffset": 768,
+   "endCharOffset": 769
+  },
+  {
+   "form": "Bazihura",
+   "startCharOffset": 771,
+   "endCharOffset": 779
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 780,
+   "endCharOffset": 782
+  },
+  {
+   "form": "rukino",
+   "startCharOffset": 783,
+   "endCharOffset": 789
+  },
+  {
+   "form": "rwa",
+   "startCharOffset": 790,
+   "endCharOffset": 793
+  },
+  {
+   "form": "nyuma",
+   "startCharOffset": 794,
+   "endCharOffset": 799
+  },
+  {
+   "form": "rw'ihiganwa",
+   "startCharOffset": 800,
+   "endCharOffset": 811
+  },
+  {
+   "form": "n'uwuzoba",
+   "startCharOffset": 812,
+   "endCharOffset": 821
+  },
+  {
+   "form": "yatsinze",
+   "startCharOffset": 822,
+   "endCharOffset": 830
+  },
+  {
+   "form": "hatagi",
+   "startCharOffset": 831,
+   "endCharOffset": 837
+  },
+  {
+   "form": "ya",
+   "startCharOffset": 838,
+   "endCharOffset": 840
+  },
+  {
+   "form": "Uganda",
+   "startCharOffset": 841,
+   "endCharOffset": 847
+  },
+  {
+   "form": "na",
+   "startCharOffset": 848,
+   "endCharOffset": 850
+  },
+  {
+   "form": "Somalia",
+   "startCharOffset": 851,
+   "endCharOffset": 858
+  },
+  {
+   "form": ".",
+   "startCharOffset": 858,
+   "endCharOffset": 859
+  }
+ ],
+ "sentences": {
+  "generator": "UserSpecified",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   9,
+   58,
+   87,
+   94,
+   100,
+   122,
+   136
+  ]
+ },
+ "views": [
+  {
+   "viewName": "NER_CONLL",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+     "viewName": "NER_CONLL",
+     "generator": "Ltf2TextAnnotation",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Burundi"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "Somalia"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Tanzania"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Tanzania"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Tanzania"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Uganda"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "Zanzibar"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "Afrika"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "CECAFA-17"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "CECAFA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "CECAFA-17"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "CECAFA"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Google"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 106,
+       "end": 108,
+       "tokens": "Jaffar Juma"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 114,
+       "end": 116,
+       "tokens": "Kelvin Paul"
+      },
+      {
+       "label": "PER",
+       "score": 1.0,
+       "start": 68,
+       "end": 70,
+       "tokens": "Oscar Milambo"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 2,
+       "end": 4,
+       "tokens": "Serengeti Boys"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 17,
+       "end": 19,
+       "tokens": "Serengeti Boys"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 64,
+       "end": 66,
+       "tokens": "Serengeti Boys"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 102,
+       "end": 104,
+       "tokens": "Serengeti Boys"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "CECAFA-17",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "CECAFA-17"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": ":"
+      },
+      {
+       "label": "Serengeti",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Serengeti"
+      },
+      {
+       "label": "Boys",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "Boys"
+      },
+      {
+       "label": "ya",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "ya"
+      },
+      {
+       "label": "Tanzania",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Tanzania"
+      },
+      {
+       "label": "yatsinze",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "yatsinze"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "2-1",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "2-1"
+      },
+      {
+       "label": "Uwufise",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Uwufise"
+      },
+      {
+       "label": "ububasha",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "ububasha"
+      },
+      {
+       "label": "kw\u2019isanamu",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "kw\u2019isanamu"
+      },
+      {
+       "label": "Google",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Google"
+      },
+      {
+       "label": "Image",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "Image"
+      },
+      {
+       "label": "caption",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "caption"
+      },
+      {
+       "label": "Abakinyi",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "Abakinyi"
+      },
+      {
+       "label": "ba",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "ba"
+      },
+      {
+       "label": "Serengeti",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "Serengeti"
+      },
+      {
+       "label": "Boys",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "Boys"
+      },
+      {
+       "label": "ba",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "ba"
+      },
+      {
+       "label": "Tanzania",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Tanzania"
+      },
+      {
+       "label": "bariko",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "bariko"
+      },
+      {
+       "label": "barigina",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "barigina"
+      },
+      {
+       "label": "igitego",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "igitego"
+      },
+      {
+       "label": "Mu",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": "Mu"
+      },
+      {
+       "label": "nkino",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "nkino"
+      },
+      {
+       "label": "za",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "za"
+      },
+      {
+       "label": "CECAFA",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "CECAFA"
+      },
+      {
+       "label": "z'abatarenza",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "z'abatarenza"
+      },
+      {
+       "label": "imyaka",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "imyaka"
+      },
+      {
+       "label": "17",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "17"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": ","
+      },
+      {
+       "label": "Tanzania",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Tanzania"
+      },
+      {
+       "label": "yatsindiye",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "yatsindiye"
+      },
+      {
+       "label": "kuja",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "kuja"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "mu"
+      },
+      {
+       "label": "gice",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "gice"
+      },
+      {
+       "label": "ca",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "ca"
+      },
+      {
+       "label": "nyuma",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "nyuma"
+      },
+      {
+       "label": "c'ihiganwa",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "c'ihiganwa"
+      },
+      {
+       "label": "inyuma",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "inyuma"
+      },
+      {
+       "label": "yo",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "yo"
+      },
+      {
+       "label": "gutsinda",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "gutsinda"
+      },
+      {
+       "label": "Kenya",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "ibitego",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "ibitego"
+      },
+      {
+       "label": "2-1",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": "2-1"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": ","
+      },
+      {
+       "label": "mw'ihiganwa",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "mw'ihiganwa"
+      },
+      {
+       "label": "ry'igikombe",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "ry'igikombe"
+      },
+      {
+       "label": "c'ibihugu",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "c'ibihugu"
+      },
+      {
+       "label": "vya",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": "vya"
+      },
+      {
+       "label": "Afrika",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "Afrika"
+      },
+      {
+       "label": "yo",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "yo"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "mu"
+      },
+      {
+       "label": "buseruko",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "buseruko"
+      },
+      {
+       "label": "no",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "no"
+      },
+      {
+       "label": "hagati",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "hagati"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "."
+      },
+      {
+       "label": "Muri",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "Muri"
+      },
+      {
+       "label": "urwo",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "urwo"
+      },
+      {
+       "label": "rukino",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "rukino"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": ","
+      },
+      {
+       "label": "umugwi",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "umugwi"
+      },
+      {
+       "label": "wa",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "wa"
+      },
+      {
+       "label": "Serengeti",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "Serengeti"
+      },
+      {
+       "label": "Boys",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "Boys"
+      },
+      {
+       "label": "umenyerezwa",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "umenyerezwa"
+      },
+      {
+       "label": "na",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "na"
+      },
+      {
+       "label": "Oscar",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "Oscar"
+      },
+      {
+       "label": "Milambo",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "Milambo"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": ","
+      },
+      {
+       "label": "ni",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "ni"
+      },
+      {
+       "label": "wo",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "wo"
+      },
+      {
+       "label": "watanguye",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "watanguye"
+      },
+      {
+       "label": "kwinjizwa",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "kwinjizwa"
+      },
+      {
+       "label": "igitego",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "igitego"
+      },
+      {
+       "label": "ca",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "ca"
+      },
+      {
+       "label": "mbere",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "mbere"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": ","
+      },
+      {
+       "label": "hanyuma",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "hanyuma"
+      },
+      {
+       "label": "baragombora",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "baragombora"
+      },
+      {
+       "label": "imbere",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "imbere"
+      },
+      {
+       "label": "yo",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "yo"
+      },
+      {
+       "label": "gutsinda",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "gutsinda"
+      },
+      {
+       "label": "igitego",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": "igitego"
+      },
+      {
+       "label": "c'intsinzi",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "c'intsinzi"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "."
+      },
+      {
+       "label": "CECAFA-17",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "CECAFA-17"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": ":"
+      },
+      {
+       "label": "Umugwi",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "Umugwi"
+      },
+      {
+       "label": "wa",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "wa"
+      },
+      {
+       "label": "Zanzibar",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "Zanzibar"
+      },
+      {
+       "label": "wirukanywe",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "wirukanywe"
+      },
+      {
+       "label": "mw'ihiganwa",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "mw'ihiganwa"
+      },
+      {
+       "label": "CECAFA",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "CECAFA"
+      },
+      {
+       "label": "y'abatarenza",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "y'abatarenza"
+      },
+      {
+       "label": "17",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "17"
+      },
+      {
+       "label": "yatanguye",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "yatanguye"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "mu"
+      },
+      {
+       "label": "Burundi",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Burundi"
+      },
+      {
+       "label": "Ibitego",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "Ibitego"
+      },
+      {
+       "label": "vya",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "vya"
+      },
+      {
+       "label": "Serengeti",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Serengeti"
+      },
+      {
+       "label": "Boys",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "Boys"
+      },
+      {
+       "label": "vyinjijwe",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "vyinjijwe"
+      },
+      {
+       "label": "na",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "na"
+      },
+      {
+       "label": "Jaffar",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "Jaffar"
+      },
+      {
+       "label": "Juma",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "Juma"
+      },
+      {
+       "label": "ku",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "ku"
+      },
+      {
+       "label": "munota",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "munota"
+      },
+      {
+       "label": "wa",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "wa"
+      },
+      {
+       "label": "21",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "21"
+      },
+      {
+       "label": "hamwe",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "hamwe"
+      },
+      {
+       "label": "na",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "na"
+      },
+      {
+       "label": "Kelvin",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "Kelvin"
+      },
+      {
+       "label": "Paul",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "Paul"
+      },
+      {
+       "label": "ku",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "ku"
+      },
+      {
+       "label": "munota",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "munota"
+      },
+      {
+       "label": "wa",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "wa"
+      },
+      {
+       "label": "62",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "62"
+      },
+      {
+       "label": "y'urukino",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "y'urukino"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "."
+      },
+      {
+       "label": "Bazihura",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "Bazihura"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "mu"
+      },
+      {
+       "label": "rukino",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "rukino"
+      },
+      {
+       "label": "rwa",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "rwa"
+      },
+      {
+       "label": "nyuma",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "nyuma"
+      },
+      {
+       "label": "rw'ihiganwa",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "rw'ihiganwa"
+      },
+      {
+       "label": "n'uwuzoba",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "n'uwuzoba"
+      },
+      {
+       "label": "yatsinze",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "yatsinze"
+      },
+      {
+       "label": "hatagi",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "hatagi"
+      },
+      {
+       "label": "ya",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "ya"
+      },
+      {
+       "label": "Uganda",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Uganda"
+      },
+      {
+       "label": "na",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "na"
+      },
+      {
+       "label": "Somalia",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "Somalia"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "WIKIFIER",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+     "viewName": "WIKIFIER",
+     "generator": "Ltf2TextAnnotation",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "433561",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "Burundi"
+      },
+      {
+       "label": "192950",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "192950",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "Kenya"
+      },
+      {
+       "label": "51537",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "Somalia"
+      },
+      {
+       "label": "149590",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Tanzania"
+      },
+      {
+       "label": "149590",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Tanzania"
+      },
+      {
+       "label": "149590",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "Tanzania"
+      },
+      {
+       "label": "226074",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "Uganda"
+      },
+      {
+       "label": "148724|148725|148728",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "Zanzibar"
+      },
+      {
+       "label": "6255146",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "Afrika"
+      },
+      {
+       "label": "NILC90437",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "CECAFA-17"
+      },
+      {
+       "label": "NILC90437",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "CECAFA"
+      },
+      {
+       "label": "NILC90437",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "CECAFA-17"
+      },
+      {
+       "label": "NILC90437",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "CECAFA"
+      },
+      {
+       "label": "NILI90056",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "Google"
+      },
+      {
+       "label": "NILI90057",
+       "score": 1.0,
+       "start": 106,
+       "end": 108,
+       "tokens": "Jaffar Juma"
+      },
+      {
+       "label": "NILI90058",
+       "score": 1.0,
+       "start": 114,
+       "end": 116,
+       "tokens": "Kelvin Paul"
+      },
+      {
+       "label": "NILI90059",
+       "score": 1.0,
+       "start": 68,
+       "end": 70,
+       "tokens": "Oscar Milambo"
+      },
+      {
+       "label": "NILC90438",
+       "score": 1.0,
+       "start": 2,
+       "end": 4,
+       "tokens": "Serengeti Boys"
+      },
+      {
+       "label": "NILC90438",
+       "score": 1.0,
+       "start": 17,
+       "end": 19,
+       "tokens": "Serengeti Boys"
+      },
+      {
+       "label": "NILC90438",
+       "score": 1.0,
+       "start": 64,
+       "end": 66,
+       "tokens": "Serengeti Boys"
+      },
+      {
+       "label": "NILC90438",
+       "score": 1.0,
+       "start": 102,
+       "end": 104,
+       "tokens": "Serengeti Boys"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+     "viewName": "CANDGEN",
+     "generator": "Ltf2TextAnnotation",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "433561|Burundi|http://en.wikipedia.org/wiki/Burundi|http://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D1%83%D0%BD%D0%B4%D0%B8",
+       "score": 0.004000000000000001,
+       "start": 99,
+       "end": 100,
+       "tokens": "Burundi",
+       "labelScoreMap": {
+        "433561|Burundi|http://en.wikipedia.org/wiki/Burundi|http://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D1%83%D0%BD%D0%B4%D0%B8": 0.004000000000000001
+       }
+      },
+      {
+       "label": "192950|Kenya|http://en.wikipedia.org/wiki/Kenya|http://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%B8%D1%8F|http://id.loc.gov/authorities/names/n80061011",
+       "score": 0.00028535182448562017,
+       "start": 7,
+       "end": 8,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "192950|Kenya|http://en.wikipedia.org/wiki/Kenya|http://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%B8%D1%8F|http://id.loc.gov/authorities/names/n80061011": 0.00028535182448562017,
+        "191421|Mount_Kenya|http://en.wikipedia.org/wiki/Mount_Kenya": 2.00795725815619e-06,
+        "6217099|Kenya": 1.7121109469137206e-05,
+        "8251416|Kenya": 4.2802773672843016e-05,
+        "8052375|K\u012bny\u0101": 0.0,
+        "2299657|Kenya": 4.2802773672843016e-05,
+        "11280392|Kenya|http://gadm.org": 8.560554734568603e-05,
+        "231651|Kena": 3.2738433556894402e-09,
+        "8792629|Kenya": 1.7121109469137206e-05,
+        "10794196|Kenya": 4.2802773672843016e-05,
+        "10861316|Kenya": 4.2802773672843016e-05,
+        "922877|Kenya": 4.2802773672843016e-05,
+        "2161595|Kenya": 1.7121109469137206e-05,
+        "991343|Kenya": 1.7121109469137206e-05,
+        "10974186|Kenya": 1.7121109469137206e-05,
+        "888991|Kenya": 1.7121109469137206e-05,
+        "8144210|Kenya": 1.7121109469137206e-05,
+        "2455382|K\u00e9nya": 0.0
+       }
+      },
+      {
+       "label": "192950|Kenya|http://en.wikipedia.org/wiki/Kenya|http://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%B8%D1%8F|http://id.loc.gov/authorities/names/n80061011",
+       "score": 0.00028535182448562017,
+       "start": 43,
+       "end": 44,
+       "tokens": "Kenya",
+       "labelScoreMap": {
+        "192950|Kenya|http://en.wikipedia.org/wiki/Kenya|http://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%B8%D1%8F|http://id.loc.gov/authorities/names/n80061011": 0.00028535182448562017,
+        "191421|Mount_Kenya|http://en.wikipedia.org/wiki/Mount_Kenya": 2.00795725815619e-06,
+        "6217099|Kenya": 1.7121109469137206e-05,
+        "8251416|Kenya": 4.2802773672843016e-05,
+        "8052375|K\u012bny\u0101": 0.0,
+        "2299657|Kenya": 4.2802773672843016e-05,
+        "11280392|Kenya|http://gadm.org": 8.560554734568603e-05,
+        "231651|Kena": 3.2738433556894402e-09,
+        "8792629|Kenya": 1.7121109469137206e-05,
+        "10794196|Kenya": 4.2802773672843016e-05,
+        "10861316|Kenya": 4.2802773672843016e-05,
+        "922877|Kenya": 4.2802773672843016e-05,
+        "2161595|Kenya": 1.7121109469137206e-05,
+        "991343|Kenya": 1.7121109469137206e-05,
+        "10974186|Kenya": 1.7121109469137206e-05,
+        "888991|Kenya": 1.7121109469137206e-05,
+        "8144210|Kenya": 1.7121109469137206e-05,
+        "2455382|K\u00e9nya": 0.0
+       }
+      },
+      {
+       "label": "51537|Somalia|http://en.wikipedia.org/wiki/Somalia",
+       "score": 0.0008000000000000004,
+       "start": 134,
+       "end": 135,
+       "tokens": "Somalia",
+       "labelScoreMap": {
+        "51537|Somalia|http://en.wikipedia.org/wiki/Somalia": 0.0008000000000000004,
+        "51536|Somalia|http://en.wikipedia.org/wiki/Somalia": 0.00032000000000000013,
+        "8052413|Somalia": 4.8000000000000015e-05,
+        "3371482|Somalia": 0.00012000000000000003,
+        "8201372|A\u015f \u015eawm\u0101l": 0.0,
+        "8373468|Somalia": 4.8000000000000015e-05
+       }
+      },
+      {
+       "label": "149590|Tanzania|http://en.wikipedia.org/wiki/Tanzania|http://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F",
+       "score": 0.004000000000000001,
+       "start": 5,
+       "end": 6,
+       "tokens": "Tanzania",
+       "labelScoreMap": {
+        "149590|Tanzania|http://en.wikipedia.org/wiki/Tanzania|http://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F": 0.004000000000000001
+       }
+      },
+      {
+       "label": "149590|Tanzania|http://en.wikipedia.org/wiki/Tanzania|http://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F",
+       "score": 0.004000000000000001,
+       "start": 20,
+       "end": 21,
+       "tokens": "Tanzania",
+       "labelScoreMap": {
+        "149590|Tanzania|http://en.wikipedia.org/wiki/Tanzania|http://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F": 0.004000000000000001
+       }
+      },
+      {
+       "label": "149590|Tanzania|http://en.wikipedia.org/wiki/Tanzania|http://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F",
+       "score": 0.004000000000000001,
+       "start": 32,
+       "end": 33,
+       "tokens": "Tanzania",
+       "labelScoreMap": {
+        "149590|Tanzania|http://en.wikipedia.org/wiki/Tanzania|http://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F": 0.004000000000000001
+       }
+      },
+      {
+       "label": "226074|Uganda|http://en.wikipedia.org/wiki/Uganda|http://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0|http://id.loc.gov/authorities/names/n80126332",
+       "score": 0.0008000000000000004,
+       "start": 132,
+       "end": 133,
+       "tokens": "Uganda",
+       "labelScoreMap": {
+        "226074|Uganda|http://en.wikipedia.org/wiki/Uganda|http://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0|http://id.loc.gov/authorities/names/n80126332": 0.0008000000000000004,
+        "7020591|Uganda": 0.00012000000000000003,
+        "2320910|Uganda": 0.00012000000000000003,
+        "149330|Uganda": 0.00012000000000000003,
+        "149329|Uganda": 0.00012000000000000003
+       }
+      },
+      {
+       "label": "148729|Zanzibar|http://en.wikipedia.org/wiki/Zanzibar|http://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BD%D0%B7%D0%B8%D0%B1%D0%B0%D1%80_%28%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29|http://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BD%D0%B7%D0%B8%D0%B1%D0%B0%D1%80",
+       "score": 0.00016852838933951336,
+       "start": 91,
+       "end": 92,
+       "tokens": "Zanzibar",
+       "labelScoreMap": {
+        "148729|Zanzibar|http://en.wikipedia.org/wiki/Zanzibar|http://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BD%D0%B7%D0%B8%D0%B1%D0%B0%D1%80_%28%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29|http://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BD%D0%B7%D0%B8%D0%B1%D0%B0%D1%80": 0.00016852838933951336,
+        "148726|Unguja|http://en.wikipedia.org/wiki/Unguja": 1.6268829663962922e-05,
+        "148730|Zanzibar_City|http://en.wikipedia.org/wiki/Zanzibar_City": 1.6129779837775205e-06,
+        "937252|Zanzibar": 8.426419466975668e-05,
+        "3791279|Zanzibar": 8.426419466975668e-05,
+        "937253|Zanzibar": 8.426419466975668e-05,
+        "7847869|Zanzibar": 8.426419466975668e-05,
+        "8805682|Zanzibar": 8.426419466975668e-05,
+        "9781019|Zanzibar": 3.3705677867902676e-05
+       }
+      },
+      {
+       "label": "6255146|Africa|http://en.wikipedia.org/wiki/Africa|http://id.loc.gov/authorities/subjects/sh85001531",
+       "score": 0.020000000000000004,
+       "start": 51,
+       "end": 52,
+       "tokens": "Afrika",
+       "labelScoreMap": {
+        "6255146|Africa|http://en.wikipedia.org/wiki/Africa|http://id.loc.gov/authorities/subjects/sh85001531": 0.020000000000000004,
+        "7590820|Afrika": 0.0,
+        "10952527|Afrika": 0.0
+       }
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "CECAFA-17"
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "CECAFA"
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "CECAFA-17"
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "CECAFA"
+      },
+      {
+       "label": "4280517|Topeka,_Kansas|http://en.wikipedia.org/wiki/Topeka%2C_Kansas",
+       "score": 0.00048000000000000007,
+       "start": 12,
+       "end": 13,
+       "tokens": "Google",
+       "labelScoreMap": {
+        "4280517|Topeka,_Kansas|http://en.wikipedia.org/wiki/Topeka%2C_Kansas": 0.00048000000000000007,
+        "5028271|Google Lake": 0.0,
+        "11128334|The Reserve at Orange Lake 8505 W Irlo Bronson Memorial Hwy Kissimmee, FL 34747 Visualizza su Google Maps": 0.0
+       }
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 106,
+       "end": 108,
+       "tokens": "Jaffar Juma"
+      },
+      {
+       "label": "30003882|Paul_Kagame|http://en.wikipedia.org/wiki/Paul_Kagame",
+       "score": 0.05,
+       "start": 114,
+       "end": 116,
+       "tokens": "Kelvin Paul",
+       "labelScoreMap": {
+        "30003882|Paul_Kagame|http://en.wikipedia.org/wiki/Paul_Kagame": 0.05
+       }
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 68,
+       "end": 70,
+       "tokens": "Oscar Milambo"
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 2,
+       "end": 4,
+       "tokens": "Serengeti Boys"
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 17,
+       "end": 19,
+       "tokens": "Serengeti Boys"
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 64,
+       "end": 66,
+       "tokens": "Serengeti Boys"
+      },
+      {
+       "label": "NIL",
+       "score": 1.0,
+       "start": 102,
+       "end": 104,
+       "tokens": "Serengeti Boys"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

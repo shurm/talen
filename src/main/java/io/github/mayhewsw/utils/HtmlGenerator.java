@@ -315,12 +315,12 @@ public class HtmlGenerator {
 		String htmltemplate;
 		if(allowcopy){
 			htmltemplate = "<div class=\"card\">" +
-					"<div class=\"card-header\">%s</div>" +
-					"<div class=\"card-body text\" dir=\"auto\" id=%s>%s</div></div>";
+					"<div class=\"card-header\">"+id+"</div>" +
+					"<div class=\"card-body text\" dir=\"auto\" id="+id+">";
 		}else{
 			htmltemplate = "<div class=\"card\">" +
-					"<div class=\"card-header\">%s</div>" +
-					"<div class=\"card-body text nocopy\" dir=\"auto\" id=%s>%s</div></div>";
+					"<div class=\"card-header\">"+id+"</div>" +
+					"<div class=\"card-body text nocopy\" dir=\"auto\" id="+id+">";
 		}
 
 		if(ta.hasView("CANDGEN"))
@@ -330,30 +330,48 @@ public class HtmlGenerator {
 			Map<String,CandgenValue> candgenMap = Utils.buildCandgenMap(sentner);
 
 			StringBuilder sb = new StringBuilder();
+			int a =0;
 			for(Map.Entry<String, CandgenValue> entry:candgenMap.entrySet())
 			{
+				//if(a==1)
+				//	break;
 				sb.append("[ \'"+entry.getKey()+"\', [");
 
+				System.out.println("entry.getKey()");
+				System.out.println(entry.getKey());
 				CandgenValue v = entry.getValue();
 
 				sb.append(v);
 
 
 				sb.append("] ],");
+				System.out.println("entry.getValue()");
+				System.out.println(entry.getValue());
+				a++;
 			}
-			//delete last comma
-			sb.deleteCharAt(sb.length()-1);
+			if(sb.length()>0)
+				//delete last comma
+				sb.deleteCharAt(sb.length()-1);
 
+			System.out.println("sb.toString()");
+			System.out.println(sb.length());
+			System.out.println(sb.toString());
+			
 			String mikeHTMLTemp = "<script>"
 					+ " var candgenMap = new Map(["+sb.toString()+"]);"
 					+ "console.log(\"testing\");</script>";
-
+			System.out.println("mikes html");
+			System.out.println(mikeHTMLTemp);
 			htmltemplate+=mikeHTMLTemp;
 
 		}
-		String out = String.format(htmltemplate, id, id, html) + "\n";
+		System.out.println(html);
+		System.out.println("test");
+		System.out.println(htmltemplate);
+		String out = htmltemplate;
 
-		//System.out.println(out);
+		out+=(html+"</div></div>"+ "\n");
+		System.out.println(out);
 
 		return out;
 	}

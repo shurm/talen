@@ -1,0 +1,2890 @@
+{
+ "corpusId": "",
+ "id": "IL9_NW_020591_20151120_I0040QJX4",
+ "text": " Mali: Igitero cy'Itrabwoba kuri Hoteli Radisson   Abategetsi ba Mali batangaza ko nta bantu bagifashweho ingwate n\u2019intagondwa za kiyisilamu muri Hotel Radisson.  Cyokora, ntibyasobanutse neza niba ingabo za Mali zishe abantu bantu bose bari bagabye igitero kuri iyo hoteli mu murwa mukuru Bamako, ihoteli icumbikwamo cyane abanyamahanga, biganjemo abo mu bihugu byo mu burengerazuba bw'isi.  Amakuru yari yatangajwe mbere yavugaga ko abarwanyi bagize ingwate abantu 170. Ayo makuru kandi yavugaga ko hafi 80 muri abo bari bareuwe mbere, mu gihe byavugwagwa ko abagabye igitero kuri iyo hoteli bishe abantu batatu.  Ubuyobozi bw\u2019ingabo z\u2019Amerika muri Afurika buvuga ko imfungwa zabohojwe zari zirimo abanyamerika batandatu. Ubwo buyobozi buvuga kandi ko abasilikari b\u2019Amerika bafashije mu gutabara iyo hoteli.  Umunyamakuru w\u2019Ijwi ry\u2019Amerika wageze kuri io hoteli yavuze ko ingabo za Mali, zafunze imihanda yose igana kuri iyo hoteli. Ibibombe n\u2019imirwano y\u2019amasasu yari yumvikanye mu masaha ya mu gitondo yari yarahagaze nyuma ya saa sita.",
+ "tokens": [
+  "Mali",
+  ":",
+  "Igitero",
+  "cy'Itrabwoba",
+  "kuri",
+  "Hoteli",
+  "Radisson",
+  "Abategetsi",
+  "ba",
+  "Mali",
+  "batangaza",
+  "ko",
+  "nta",
+  "bantu",
+  "bagifashweho",
+  "ingwate",
+  "n\u2019intagondwa",
+  "za",
+  "kiyisilamu",
+  "muri",
+  "Hotel",
+  "Radisson",
+  ".",
+  "Cyokora",
+  ",",
+  "ntibyasobanutse",
+  "neza",
+  "niba",
+  "ingabo",
+  "za",
+  "Mali",
+  "zishe",
+  "abantu",
+  "bantu",
+  "bose",
+  "bari",
+  "bagabye",
+  "igitero",
+  "kuri",
+  "iyo",
+  "hoteli",
+  "mu",
+  "murwa",
+  "mukuru",
+  "Bamako",
+  ",",
+  "ihoteli",
+  "icumbikwamo",
+  "cyane",
+  "abanyamahanga",
+  ",",
+  "biganjemo",
+  "abo",
+  "mu",
+  "bihugu",
+  "byo",
+  "mu",
+  "burengerazuba",
+  "bw'isi",
+  ".",
+  "Amakuru",
+  "yari",
+  "yatangajwe",
+  "mbere",
+  "yavugaga",
+  "ko",
+  "abarwanyi",
+  "bagize",
+  "ingwate",
+  "abantu",
+  "170",
+  ".",
+  "Ayo",
+  "makuru",
+  "kandi",
+  "yavugaga",
+  "ko",
+  "hafi",
+  "80",
+  "muri",
+  "abo",
+  "bari",
+  "bareuwe",
+  "mbere",
+  ",",
+  "mu",
+  "gihe",
+  "byavugwagwa",
+  "ko",
+  "abagabye",
+  "igitero",
+  "kuri",
+  "iyo",
+  "hoteli",
+  "bishe",
+  "abantu",
+  "batatu",
+  ".",
+  "Ubuyobozi",
+  "bw\u2019ingabo",
+  "z\u2019Amerika",
+  "muri",
+  "Afurika",
+  "buvuga",
+  "ko",
+  "imfungwa",
+  "zabohojwe",
+  "zari",
+  "zirimo",
+  "abanyamerika",
+  "batandatu",
+  ".",
+  "Ubwo",
+  "buyobozi",
+  "buvuga",
+  "kandi",
+  "ko",
+  "abasilikari",
+  "b\u2019Amerika",
+  "bafashije",
+  "mu",
+  "gutabara",
+  "iyo",
+  "hoteli",
+  ".",
+  "Umunyamakuru",
+  "w\u2019Ijwi",
+  "ry\u2019Amerika",
+  "wageze",
+  "kuri",
+  "io",
+  "hoteli",
+  "yavuze",
+  "ko",
+  "ingabo",
+  "za",
+  "Mali",
+  ",",
+  "zafunze",
+  "imihanda",
+  "yose",
+  "igana",
+  "kuri",
+  "iyo",
+  "hoteli",
+  ".",
+  "Ibibombe",
+  "n\u2019imirwano",
+  "y\u2019amasasu",
+  "yari",
+  "yumvikanye",
+  "mu",
+  "masaha",
+  "ya",
+  "mu",
+  "gitondo",
+  "yari",
+  "yarahagaze",
+  "nyuma",
+  "ya",
+  "saa",
+  "sita",
+  "."
+ ],
+ "tokenOffsets": [
+  {
+   "form": "Mali",
+   "startCharOffset": 1,
+   "endCharOffset": 5
+  },
+  {
+   "form": ":",
+   "startCharOffset": 5,
+   "endCharOffset": 6
+  },
+  {
+   "form": "Igitero",
+   "startCharOffset": 7,
+   "endCharOffset": 14
+  },
+  {
+   "form": "cy'Itrabwoba",
+   "startCharOffset": 15,
+   "endCharOffset": 27
+  },
+  {
+   "form": "kuri",
+   "startCharOffset": 28,
+   "endCharOffset": 32
+  },
+  {
+   "form": "Hoteli",
+   "startCharOffset": 33,
+   "endCharOffset": 39
+  },
+  {
+   "form": "Radisson",
+   "startCharOffset": 40,
+   "endCharOffset": 48
+  },
+  {
+   "form": "Abategetsi",
+   "startCharOffset": 51,
+   "endCharOffset": 61
+  },
+  {
+   "form": "ba",
+   "startCharOffset": 62,
+   "endCharOffset": 64
+  },
+  {
+   "form": "Mali",
+   "startCharOffset": 65,
+   "endCharOffset": 69
+  },
+  {
+   "form": "batangaza",
+   "startCharOffset": 70,
+   "endCharOffset": 79
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 80,
+   "endCharOffset": 82
+  },
+  {
+   "form": "nta",
+   "startCharOffset": 83,
+   "endCharOffset": 86
+  },
+  {
+   "form": "bantu",
+   "startCharOffset": 87,
+   "endCharOffset": 92
+  },
+  {
+   "form": "bagifashweho",
+   "startCharOffset": 93,
+   "endCharOffset": 105
+  },
+  {
+   "form": "ingwate",
+   "startCharOffset": 106,
+   "endCharOffset": 113
+  },
+  {
+   "form": "n\u2019intagondwa",
+   "startCharOffset": 114,
+   "endCharOffset": 126
+  },
+  {
+   "form": "za",
+   "startCharOffset": 127,
+   "endCharOffset": 129
+  },
+  {
+   "form": "kiyisilamu",
+   "startCharOffset": 130,
+   "endCharOffset": 140
+  },
+  {
+   "form": "muri",
+   "startCharOffset": 141,
+   "endCharOffset": 145
+  },
+  {
+   "form": "Hotel",
+   "startCharOffset": 146,
+   "endCharOffset": 151
+  },
+  {
+   "form": "Radisson",
+   "startCharOffset": 152,
+   "endCharOffset": 160
+  },
+  {
+   "form": ".",
+   "startCharOffset": 160,
+   "endCharOffset": 161
+  },
+  {
+   "form": "Cyokora",
+   "startCharOffset": 163,
+   "endCharOffset": 170
+  },
+  {
+   "form": ",",
+   "startCharOffset": 170,
+   "endCharOffset": 171
+  },
+  {
+   "form": "ntibyasobanutse",
+   "startCharOffset": 172,
+   "endCharOffset": 187
+  },
+  {
+   "form": "neza",
+   "startCharOffset": 188,
+   "endCharOffset": 192
+  },
+  {
+   "form": "niba",
+   "startCharOffset": 193,
+   "endCharOffset": 197
+  },
+  {
+   "form": "ingabo",
+   "startCharOffset": 198,
+   "endCharOffset": 204
+  },
+  {
+   "form": "za",
+   "startCharOffset": 205,
+   "endCharOffset": 207
+  },
+  {
+   "form": "Mali",
+   "startCharOffset": 208,
+   "endCharOffset": 212
+  },
+  {
+   "form": "zishe",
+   "startCharOffset": 213,
+   "endCharOffset": 218
+  },
+  {
+   "form": "abantu",
+   "startCharOffset": 219,
+   "endCharOffset": 225
+  },
+  {
+   "form": "bantu",
+   "startCharOffset": 226,
+   "endCharOffset": 231
+  },
+  {
+   "form": "bose",
+   "startCharOffset": 232,
+   "endCharOffset": 236
+  },
+  {
+   "form": "bari",
+   "startCharOffset": 237,
+   "endCharOffset": 241
+  },
+  {
+   "form": "bagabye",
+   "startCharOffset": 242,
+   "endCharOffset": 249
+  },
+  {
+   "form": "igitero",
+   "startCharOffset": 250,
+   "endCharOffset": 257
+  },
+  {
+   "form": "kuri",
+   "startCharOffset": 258,
+   "endCharOffset": 262
+  },
+  {
+   "form": "iyo",
+   "startCharOffset": 263,
+   "endCharOffset": 266
+  },
+  {
+   "form": "hoteli",
+   "startCharOffset": 267,
+   "endCharOffset": 273
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 274,
+   "endCharOffset": 276
+  },
+  {
+   "form": "murwa",
+   "startCharOffset": 277,
+   "endCharOffset": 282
+  },
+  {
+   "form": "mukuru",
+   "startCharOffset": 283,
+   "endCharOffset": 289
+  },
+  {
+   "form": "Bamako",
+   "startCharOffset": 290,
+   "endCharOffset": 296
+  },
+  {
+   "form": ",",
+   "startCharOffset": 296,
+   "endCharOffset": 297
+  },
+  {
+   "form": "ihoteli",
+   "startCharOffset": 298,
+   "endCharOffset": 305
+  },
+  {
+   "form": "icumbikwamo",
+   "startCharOffset": 306,
+   "endCharOffset": 317
+  },
+  {
+   "form": "cyane",
+   "startCharOffset": 318,
+   "endCharOffset": 323
+  },
+  {
+   "form": "abanyamahanga",
+   "startCharOffset": 324,
+   "endCharOffset": 337
+  },
+  {
+   "form": ",",
+   "startCharOffset": 337,
+   "endCharOffset": 338
+  },
+  {
+   "form": "biganjemo",
+   "startCharOffset": 339,
+   "endCharOffset": 348
+  },
+  {
+   "form": "abo",
+   "startCharOffset": 349,
+   "endCharOffset": 352
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 353,
+   "endCharOffset": 355
+  },
+  {
+   "form": "bihugu",
+   "startCharOffset": 356,
+   "endCharOffset": 362
+  },
+  {
+   "form": "byo",
+   "startCharOffset": 363,
+   "endCharOffset": 366
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 367,
+   "endCharOffset": 369
+  },
+  {
+   "form": "burengerazuba",
+   "startCharOffset": 370,
+   "endCharOffset": 383
+  },
+  {
+   "form": "bw'isi",
+   "startCharOffset": 384,
+   "endCharOffset": 390
+  },
+  {
+   "form": ".",
+   "startCharOffset": 390,
+   "endCharOffset": 391
+  },
+  {
+   "form": "Amakuru",
+   "startCharOffset": 393,
+   "endCharOffset": 400
+  },
+  {
+   "form": "yari",
+   "startCharOffset": 401,
+   "endCharOffset": 405
+  },
+  {
+   "form": "yatangajwe",
+   "startCharOffset": 406,
+   "endCharOffset": 416
+  },
+  {
+   "form": "mbere",
+   "startCharOffset": 417,
+   "endCharOffset": 422
+  },
+  {
+   "form": "yavugaga",
+   "startCharOffset": 423,
+   "endCharOffset": 431
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 432,
+   "endCharOffset": 434
+  },
+  {
+   "form": "abarwanyi",
+   "startCharOffset": 435,
+   "endCharOffset": 444
+  },
+  {
+   "form": "bagize",
+   "startCharOffset": 445,
+   "endCharOffset": 451
+  },
+  {
+   "form": "ingwate",
+   "startCharOffset": 452,
+   "endCharOffset": 459
+  },
+  {
+   "form": "abantu",
+   "startCharOffset": 460,
+   "endCharOffset": 466
+  },
+  {
+   "form": "170",
+   "startCharOffset": 467,
+   "endCharOffset": 470
+  },
+  {
+   "form": ".",
+   "startCharOffset": 470,
+   "endCharOffset": 471
+  },
+  {
+   "form": "Ayo",
+   "startCharOffset": 472,
+   "endCharOffset": 475
+  },
+  {
+   "form": "makuru",
+   "startCharOffset": 476,
+   "endCharOffset": 482
+  },
+  {
+   "form": "kandi",
+   "startCharOffset": 483,
+   "endCharOffset": 488
+  },
+  {
+   "form": "yavugaga",
+   "startCharOffset": 489,
+   "endCharOffset": 497
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 498,
+   "endCharOffset": 500
+  },
+  {
+   "form": "hafi",
+   "startCharOffset": 501,
+   "endCharOffset": 505
+  },
+  {
+   "form": "80",
+   "startCharOffset": 506,
+   "endCharOffset": 508
+  },
+  {
+   "form": "muri",
+   "startCharOffset": 509,
+   "endCharOffset": 513
+  },
+  {
+   "form": "abo",
+   "startCharOffset": 514,
+   "endCharOffset": 517
+  },
+  {
+   "form": "bari",
+   "startCharOffset": 518,
+   "endCharOffset": 522
+  },
+  {
+   "form": "bareuwe",
+   "startCharOffset": 523,
+   "endCharOffset": 530
+  },
+  {
+   "form": "mbere",
+   "startCharOffset": 531,
+   "endCharOffset": 536
+  },
+  {
+   "form": ",",
+   "startCharOffset": 536,
+   "endCharOffset": 537
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 538,
+   "endCharOffset": 540
+  },
+  {
+   "form": "gihe",
+   "startCharOffset": 541,
+   "endCharOffset": 545
+  },
+  {
+   "form": "byavugwagwa",
+   "startCharOffset": 546,
+   "endCharOffset": 557
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 558,
+   "endCharOffset": 560
+  },
+  {
+   "form": "abagabye",
+   "startCharOffset": 561,
+   "endCharOffset": 569
+  },
+  {
+   "form": "igitero",
+   "startCharOffset": 570,
+   "endCharOffset": 577
+  },
+  {
+   "form": "kuri",
+   "startCharOffset": 578,
+   "endCharOffset": 582
+  },
+  {
+   "form": "iyo",
+   "startCharOffset": 583,
+   "endCharOffset": 586
+  },
+  {
+   "form": "hoteli",
+   "startCharOffset": 587,
+   "endCharOffset": 593
+  },
+  {
+   "form": "bishe",
+   "startCharOffset": 594,
+   "endCharOffset": 599
+  },
+  {
+   "form": "abantu",
+   "startCharOffset": 600,
+   "endCharOffset": 606
+  },
+  {
+   "form": "batatu",
+   "startCharOffset": 607,
+   "endCharOffset": 613
+  },
+  {
+   "form": ".",
+   "startCharOffset": 613,
+   "endCharOffset": 614
+  },
+  {
+   "form": "Ubuyobozi",
+   "startCharOffset": 616,
+   "endCharOffset": 625
+  },
+  {
+   "form": "bw\u2019ingabo",
+   "startCharOffset": 626,
+   "endCharOffset": 635
+  },
+  {
+   "form": "z\u2019Amerika",
+   "startCharOffset": 636,
+   "endCharOffset": 645
+  },
+  {
+   "form": "muri",
+   "startCharOffset": 646,
+   "endCharOffset": 650
+  },
+  {
+   "form": "Afurika",
+   "startCharOffset": 651,
+   "endCharOffset": 658
+  },
+  {
+   "form": "buvuga",
+   "startCharOffset": 659,
+   "endCharOffset": 665
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 666,
+   "endCharOffset": 668
+  },
+  {
+   "form": "imfungwa",
+   "startCharOffset": 669,
+   "endCharOffset": 677
+  },
+  {
+   "form": "zabohojwe",
+   "startCharOffset": 678,
+   "endCharOffset": 687
+  },
+  {
+   "form": "zari",
+   "startCharOffset": 688,
+   "endCharOffset": 692
+  },
+  {
+   "form": "zirimo",
+   "startCharOffset": 693,
+   "endCharOffset": 699
+  },
+  {
+   "form": "abanyamerika",
+   "startCharOffset": 700,
+   "endCharOffset": 712
+  },
+  {
+   "form": "batandatu",
+   "startCharOffset": 713,
+   "endCharOffset": 722
+  },
+  {
+   "form": ".",
+   "startCharOffset": 722,
+   "endCharOffset": 723
+  },
+  {
+   "form": "Ubwo",
+   "startCharOffset": 724,
+   "endCharOffset": 728
+  },
+  {
+   "form": "buyobozi",
+   "startCharOffset": 729,
+   "endCharOffset": 737
+  },
+  {
+   "form": "buvuga",
+   "startCharOffset": 738,
+   "endCharOffset": 744
+  },
+  {
+   "form": "kandi",
+   "startCharOffset": 745,
+   "endCharOffset": 750
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 751,
+   "endCharOffset": 753
+  },
+  {
+   "form": "abasilikari",
+   "startCharOffset": 754,
+   "endCharOffset": 765
+  },
+  {
+   "form": "b\u2019Amerika",
+   "startCharOffset": 766,
+   "endCharOffset": 775
+  },
+  {
+   "form": "bafashije",
+   "startCharOffset": 776,
+   "endCharOffset": 785
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 786,
+   "endCharOffset": 788
+  },
+  {
+   "form": "gutabara",
+   "startCharOffset": 789,
+   "endCharOffset": 797
+  },
+  {
+   "form": "iyo",
+   "startCharOffset": 798,
+   "endCharOffset": 801
+  },
+  {
+   "form": "hoteli",
+   "startCharOffset": 802,
+   "endCharOffset": 808
+  },
+  {
+   "form": ".",
+   "startCharOffset": 808,
+   "endCharOffset": 809
+  },
+  {
+   "form": "Umunyamakuru",
+   "startCharOffset": 811,
+   "endCharOffset": 823
+  },
+  {
+   "form": "w\u2019Ijwi",
+   "startCharOffset": 824,
+   "endCharOffset": 830
+  },
+  {
+   "form": "ry\u2019Amerika",
+   "startCharOffset": 831,
+   "endCharOffset": 841
+  },
+  {
+   "form": "wageze",
+   "startCharOffset": 842,
+   "endCharOffset": 848
+  },
+  {
+   "form": "kuri",
+   "startCharOffset": 849,
+   "endCharOffset": 853
+  },
+  {
+   "form": "io",
+   "startCharOffset": 854,
+   "endCharOffset": 856
+  },
+  {
+   "form": "hoteli",
+   "startCharOffset": 857,
+   "endCharOffset": 863
+  },
+  {
+   "form": "yavuze",
+   "startCharOffset": 864,
+   "endCharOffset": 870
+  },
+  {
+   "form": "ko",
+   "startCharOffset": 871,
+   "endCharOffset": 873
+  },
+  {
+   "form": "ingabo",
+   "startCharOffset": 874,
+   "endCharOffset": 880
+  },
+  {
+   "form": "za",
+   "startCharOffset": 881,
+   "endCharOffset": 883
+  },
+  {
+   "form": "Mali",
+   "startCharOffset": 884,
+   "endCharOffset": 888
+  },
+  {
+   "form": ",",
+   "startCharOffset": 888,
+   "endCharOffset": 889
+  },
+  {
+   "form": "zafunze",
+   "startCharOffset": 890,
+   "endCharOffset": 897
+  },
+  {
+   "form": "imihanda",
+   "startCharOffset": 898,
+   "endCharOffset": 906
+  },
+  {
+   "form": "yose",
+   "startCharOffset": 907,
+   "endCharOffset": 911
+  },
+  {
+   "form": "igana",
+   "startCharOffset": 912,
+   "endCharOffset": 917
+  },
+  {
+   "form": "kuri",
+   "startCharOffset": 918,
+   "endCharOffset": 922
+  },
+  {
+   "form": "iyo",
+   "startCharOffset": 923,
+   "endCharOffset": 926
+  },
+  {
+   "form": "hoteli",
+   "startCharOffset": 927,
+   "endCharOffset": 933
+  },
+  {
+   "form": ".",
+   "startCharOffset": 933,
+   "endCharOffset": 934
+  },
+  {
+   "form": "Ibibombe",
+   "startCharOffset": 935,
+   "endCharOffset": 943
+  },
+  {
+   "form": "n\u2019imirwano",
+   "startCharOffset": 944,
+   "endCharOffset": 954
+  },
+  {
+   "form": "y\u2019amasasu",
+   "startCharOffset": 955,
+   "endCharOffset": 964
+  },
+  {
+   "form": "yari",
+   "startCharOffset": 965,
+   "endCharOffset": 969
+  },
+  {
+   "form": "yumvikanye",
+   "startCharOffset": 970,
+   "endCharOffset": 980
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 981,
+   "endCharOffset": 983
+  },
+  {
+   "form": "masaha",
+   "startCharOffset": 984,
+   "endCharOffset": 990
+  },
+  {
+   "form": "ya",
+   "startCharOffset": 991,
+   "endCharOffset": 993
+  },
+  {
+   "form": "mu",
+   "startCharOffset": 994,
+   "endCharOffset": 996
+  },
+  {
+   "form": "gitondo",
+   "startCharOffset": 997,
+   "endCharOffset": 1004
+  },
+  {
+   "form": "yari",
+   "startCharOffset": 1005,
+   "endCharOffset": 1009
+  },
+  {
+   "form": "yarahagaze",
+   "startCharOffset": 1010,
+   "endCharOffset": 1020
+  },
+  {
+   "form": "nyuma",
+   "startCharOffset": 1021,
+   "endCharOffset": 1026
+  },
+  {
+   "form": "ya",
+   "startCharOffset": 1027,
+   "endCharOffset": 1029
+  },
+  {
+   "form": "saa",
+   "startCharOffset": 1030,
+   "endCharOffset": 1033
+  },
+  {
+   "form": "sita",
+   "startCharOffset": 1034,
+   "endCharOffset": 1038
+  },
+  {
+   "form": ".",
+   "startCharOffset": 1038,
+   "endCharOffset": 1039
+  }
+ ],
+ "sentences": {
+  "generator": "UserSpecified",
+  "score": 1.0,
+  "sentenceEndPositions": [
+   7,
+   23,
+   60,
+   98,
+   112,
+   125,
+   146,
+   163
+  ]
+ },
+ "views": [
+  {
+   "viewName": "NER_CONLL",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+     "viewName": "NER_CONLL",
+     "generator": "Ltf2TextAnnotation",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Bamako"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Mali"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Mali"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Mali"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Mali"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "z\u2019Amerika"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "b\u2019Amerika"
+      },
+      {
+       "label": "GPE",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "ry\u2019Amerika"
+      },
+      {
+       "label": "LOC",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Afurika"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Radisson"
+      },
+      {
+       "label": "ORG",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Radisson"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "TOKENS",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+     "viewName": "TOKENS",
+     "generator": "UserSpecified",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "Mali",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Mali"
+      },
+      {
+       "label": ":",
+       "score": 1.0,
+       "start": 1,
+       "end": 2,
+       "tokens": ":"
+      },
+      {
+       "label": "Igitero",
+       "score": 1.0,
+       "start": 2,
+       "end": 3,
+       "tokens": "Igitero"
+      },
+      {
+       "label": "cy'Itrabwoba",
+       "score": 1.0,
+       "start": 3,
+       "end": 4,
+       "tokens": "cy'Itrabwoba"
+      },
+      {
+       "label": "kuri",
+       "score": 1.0,
+       "start": 4,
+       "end": 5,
+       "tokens": "kuri"
+      },
+      {
+       "label": "Hoteli",
+       "score": 1.0,
+       "start": 5,
+       "end": 6,
+       "tokens": "Hoteli"
+      },
+      {
+       "label": "Radisson",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Radisson"
+      },
+      {
+       "label": "Abategetsi",
+       "score": 1.0,
+       "start": 7,
+       "end": 8,
+       "tokens": "Abategetsi"
+      },
+      {
+       "label": "ba",
+       "score": 1.0,
+       "start": 8,
+       "end": 9,
+       "tokens": "ba"
+      },
+      {
+       "label": "Mali",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Mali"
+      },
+      {
+       "label": "batangaza",
+       "score": 1.0,
+       "start": 10,
+       "end": 11,
+       "tokens": "batangaza"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 11,
+       "end": 12,
+       "tokens": "ko"
+      },
+      {
+       "label": "nta",
+       "score": 1.0,
+       "start": 12,
+       "end": 13,
+       "tokens": "nta"
+      },
+      {
+       "label": "bantu",
+       "score": 1.0,
+       "start": 13,
+       "end": 14,
+       "tokens": "bantu"
+      },
+      {
+       "label": "bagifashweho",
+       "score": 1.0,
+       "start": 14,
+       "end": 15,
+       "tokens": "bagifashweho"
+      },
+      {
+       "label": "ingwate",
+       "score": 1.0,
+       "start": 15,
+       "end": 16,
+       "tokens": "ingwate"
+      },
+      {
+       "label": "n\u2019intagondwa",
+       "score": 1.0,
+       "start": 16,
+       "end": 17,
+       "tokens": "n\u2019intagondwa"
+      },
+      {
+       "label": "za",
+       "score": 1.0,
+       "start": 17,
+       "end": 18,
+       "tokens": "za"
+      },
+      {
+       "label": "kiyisilamu",
+       "score": 1.0,
+       "start": 18,
+       "end": 19,
+       "tokens": "kiyisilamu"
+      },
+      {
+       "label": "muri",
+       "score": 1.0,
+       "start": 19,
+       "end": 20,
+       "tokens": "muri"
+      },
+      {
+       "label": "Hotel",
+       "score": 1.0,
+       "start": 20,
+       "end": 21,
+       "tokens": "Hotel"
+      },
+      {
+       "label": "Radisson",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Radisson"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 22,
+       "end": 23,
+       "tokens": "."
+      },
+      {
+       "label": "Cyokora",
+       "score": 1.0,
+       "start": 23,
+       "end": 24,
+       "tokens": "Cyokora"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 24,
+       "end": 25,
+       "tokens": ","
+      },
+      {
+       "label": "ntibyasobanutse",
+       "score": 1.0,
+       "start": 25,
+       "end": 26,
+       "tokens": "ntibyasobanutse"
+      },
+      {
+       "label": "neza",
+       "score": 1.0,
+       "start": 26,
+       "end": 27,
+       "tokens": "neza"
+      },
+      {
+       "label": "niba",
+       "score": 1.0,
+       "start": 27,
+       "end": 28,
+       "tokens": "niba"
+      },
+      {
+       "label": "ingabo",
+       "score": 1.0,
+       "start": 28,
+       "end": 29,
+       "tokens": "ingabo"
+      },
+      {
+       "label": "za",
+       "score": 1.0,
+       "start": 29,
+       "end": 30,
+       "tokens": "za"
+      },
+      {
+       "label": "Mali",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Mali"
+      },
+      {
+       "label": "zishe",
+       "score": 1.0,
+       "start": 31,
+       "end": 32,
+       "tokens": "zishe"
+      },
+      {
+       "label": "abantu",
+       "score": 1.0,
+       "start": 32,
+       "end": 33,
+       "tokens": "abantu"
+      },
+      {
+       "label": "bantu",
+       "score": 1.0,
+       "start": 33,
+       "end": 34,
+       "tokens": "bantu"
+      },
+      {
+       "label": "bose",
+       "score": 1.0,
+       "start": 34,
+       "end": 35,
+       "tokens": "bose"
+      },
+      {
+       "label": "bari",
+       "score": 1.0,
+       "start": 35,
+       "end": 36,
+       "tokens": "bari"
+      },
+      {
+       "label": "bagabye",
+       "score": 1.0,
+       "start": 36,
+       "end": 37,
+       "tokens": "bagabye"
+      },
+      {
+       "label": "igitero",
+       "score": 1.0,
+       "start": 37,
+       "end": 38,
+       "tokens": "igitero"
+      },
+      {
+       "label": "kuri",
+       "score": 1.0,
+       "start": 38,
+       "end": 39,
+       "tokens": "kuri"
+      },
+      {
+       "label": "iyo",
+       "score": 1.0,
+       "start": 39,
+       "end": 40,
+       "tokens": "iyo"
+      },
+      {
+       "label": "hoteli",
+       "score": 1.0,
+       "start": 40,
+       "end": 41,
+       "tokens": "hoteli"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 41,
+       "end": 42,
+       "tokens": "mu"
+      },
+      {
+       "label": "murwa",
+       "score": 1.0,
+       "start": 42,
+       "end": 43,
+       "tokens": "murwa"
+      },
+      {
+       "label": "mukuru",
+       "score": 1.0,
+       "start": 43,
+       "end": 44,
+       "tokens": "mukuru"
+      },
+      {
+       "label": "Bamako",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Bamako"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 45,
+       "end": 46,
+       "tokens": ","
+      },
+      {
+       "label": "ihoteli",
+       "score": 1.0,
+       "start": 46,
+       "end": 47,
+       "tokens": "ihoteli"
+      },
+      {
+       "label": "icumbikwamo",
+       "score": 1.0,
+       "start": 47,
+       "end": 48,
+       "tokens": "icumbikwamo"
+      },
+      {
+       "label": "cyane",
+       "score": 1.0,
+       "start": 48,
+       "end": 49,
+       "tokens": "cyane"
+      },
+      {
+       "label": "abanyamahanga",
+       "score": 1.0,
+       "start": 49,
+       "end": 50,
+       "tokens": "abanyamahanga"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 50,
+       "end": 51,
+       "tokens": ","
+      },
+      {
+       "label": "biganjemo",
+       "score": 1.0,
+       "start": 51,
+       "end": 52,
+       "tokens": "biganjemo"
+      },
+      {
+       "label": "abo",
+       "score": 1.0,
+       "start": 52,
+       "end": 53,
+       "tokens": "abo"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 53,
+       "end": 54,
+       "tokens": "mu"
+      },
+      {
+       "label": "bihugu",
+       "score": 1.0,
+       "start": 54,
+       "end": 55,
+       "tokens": "bihugu"
+      },
+      {
+       "label": "byo",
+       "score": 1.0,
+       "start": 55,
+       "end": 56,
+       "tokens": "byo"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 56,
+       "end": 57,
+       "tokens": "mu"
+      },
+      {
+       "label": "burengerazuba",
+       "score": 1.0,
+       "start": 57,
+       "end": 58,
+       "tokens": "burengerazuba"
+      },
+      {
+       "label": "bw'isi",
+       "score": 1.0,
+       "start": 58,
+       "end": 59,
+       "tokens": "bw'isi"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 59,
+       "end": 60,
+       "tokens": "."
+      },
+      {
+       "label": "Amakuru",
+       "score": 1.0,
+       "start": 60,
+       "end": 61,
+       "tokens": "Amakuru"
+      },
+      {
+       "label": "yari",
+       "score": 1.0,
+       "start": 61,
+       "end": 62,
+       "tokens": "yari"
+      },
+      {
+       "label": "yatangajwe",
+       "score": 1.0,
+       "start": 62,
+       "end": 63,
+       "tokens": "yatangajwe"
+      },
+      {
+       "label": "mbere",
+       "score": 1.0,
+       "start": 63,
+       "end": 64,
+       "tokens": "mbere"
+      },
+      {
+       "label": "yavugaga",
+       "score": 1.0,
+       "start": 64,
+       "end": 65,
+       "tokens": "yavugaga"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 65,
+       "end": 66,
+       "tokens": "ko"
+      },
+      {
+       "label": "abarwanyi",
+       "score": 1.0,
+       "start": 66,
+       "end": 67,
+       "tokens": "abarwanyi"
+      },
+      {
+       "label": "bagize",
+       "score": 1.0,
+       "start": 67,
+       "end": 68,
+       "tokens": "bagize"
+      },
+      {
+       "label": "ingwate",
+       "score": 1.0,
+       "start": 68,
+       "end": 69,
+       "tokens": "ingwate"
+      },
+      {
+       "label": "abantu",
+       "score": 1.0,
+       "start": 69,
+       "end": 70,
+       "tokens": "abantu"
+      },
+      {
+       "label": "170",
+       "score": 1.0,
+       "start": 70,
+       "end": 71,
+       "tokens": "170"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 71,
+       "end": 72,
+       "tokens": "."
+      },
+      {
+       "label": "Ayo",
+       "score": 1.0,
+       "start": 72,
+       "end": 73,
+       "tokens": "Ayo"
+      },
+      {
+       "label": "makuru",
+       "score": 1.0,
+       "start": 73,
+       "end": 74,
+       "tokens": "makuru"
+      },
+      {
+       "label": "kandi",
+       "score": 1.0,
+       "start": 74,
+       "end": 75,
+       "tokens": "kandi"
+      },
+      {
+       "label": "yavugaga",
+       "score": 1.0,
+       "start": 75,
+       "end": 76,
+       "tokens": "yavugaga"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 76,
+       "end": 77,
+       "tokens": "ko"
+      },
+      {
+       "label": "hafi",
+       "score": 1.0,
+       "start": 77,
+       "end": 78,
+       "tokens": "hafi"
+      },
+      {
+       "label": "80",
+       "score": 1.0,
+       "start": 78,
+       "end": 79,
+       "tokens": "80"
+      },
+      {
+       "label": "muri",
+       "score": 1.0,
+       "start": 79,
+       "end": 80,
+       "tokens": "muri"
+      },
+      {
+       "label": "abo",
+       "score": 1.0,
+       "start": 80,
+       "end": 81,
+       "tokens": "abo"
+      },
+      {
+       "label": "bari",
+       "score": 1.0,
+       "start": 81,
+       "end": 82,
+       "tokens": "bari"
+      },
+      {
+       "label": "bareuwe",
+       "score": 1.0,
+       "start": 82,
+       "end": 83,
+       "tokens": "bareuwe"
+      },
+      {
+       "label": "mbere",
+       "score": 1.0,
+       "start": 83,
+       "end": 84,
+       "tokens": "mbere"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 84,
+       "end": 85,
+       "tokens": ","
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 85,
+       "end": 86,
+       "tokens": "mu"
+      },
+      {
+       "label": "gihe",
+       "score": 1.0,
+       "start": 86,
+       "end": 87,
+       "tokens": "gihe"
+      },
+      {
+       "label": "byavugwagwa",
+       "score": 1.0,
+       "start": 87,
+       "end": 88,
+       "tokens": "byavugwagwa"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 88,
+       "end": 89,
+       "tokens": "ko"
+      },
+      {
+       "label": "abagabye",
+       "score": 1.0,
+       "start": 89,
+       "end": 90,
+       "tokens": "abagabye"
+      },
+      {
+       "label": "igitero",
+       "score": 1.0,
+       "start": 90,
+       "end": 91,
+       "tokens": "igitero"
+      },
+      {
+       "label": "kuri",
+       "score": 1.0,
+       "start": 91,
+       "end": 92,
+       "tokens": "kuri"
+      },
+      {
+       "label": "iyo",
+       "score": 1.0,
+       "start": 92,
+       "end": 93,
+       "tokens": "iyo"
+      },
+      {
+       "label": "hoteli",
+       "score": 1.0,
+       "start": 93,
+       "end": 94,
+       "tokens": "hoteli"
+      },
+      {
+       "label": "bishe",
+       "score": 1.0,
+       "start": 94,
+       "end": 95,
+       "tokens": "bishe"
+      },
+      {
+       "label": "abantu",
+       "score": 1.0,
+       "start": 95,
+       "end": 96,
+       "tokens": "abantu"
+      },
+      {
+       "label": "batatu",
+       "score": 1.0,
+       "start": 96,
+       "end": 97,
+       "tokens": "batatu"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 97,
+       "end": 98,
+       "tokens": "."
+      },
+      {
+       "label": "Ubuyobozi",
+       "score": 1.0,
+       "start": 98,
+       "end": 99,
+       "tokens": "Ubuyobozi"
+      },
+      {
+       "label": "bw\u2019ingabo",
+       "score": 1.0,
+       "start": 99,
+       "end": 100,
+       "tokens": "bw\u2019ingabo"
+      },
+      {
+       "label": "z\u2019Amerika",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "z\u2019Amerika"
+      },
+      {
+       "label": "muri",
+       "score": 1.0,
+       "start": 101,
+       "end": 102,
+       "tokens": "muri"
+      },
+      {
+       "label": "Afurika",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Afurika"
+      },
+      {
+       "label": "buvuga",
+       "score": 1.0,
+       "start": 103,
+       "end": 104,
+       "tokens": "buvuga"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 104,
+       "end": 105,
+       "tokens": "ko"
+      },
+      {
+       "label": "imfungwa",
+       "score": 1.0,
+       "start": 105,
+       "end": 106,
+       "tokens": "imfungwa"
+      },
+      {
+       "label": "zabohojwe",
+       "score": 1.0,
+       "start": 106,
+       "end": 107,
+       "tokens": "zabohojwe"
+      },
+      {
+       "label": "zari",
+       "score": 1.0,
+       "start": 107,
+       "end": 108,
+       "tokens": "zari"
+      },
+      {
+       "label": "zirimo",
+       "score": 1.0,
+       "start": 108,
+       "end": 109,
+       "tokens": "zirimo"
+      },
+      {
+       "label": "abanyamerika",
+       "score": 1.0,
+       "start": 109,
+       "end": 110,
+       "tokens": "abanyamerika"
+      },
+      {
+       "label": "batandatu",
+       "score": 1.0,
+       "start": 110,
+       "end": 111,
+       "tokens": "batandatu"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 111,
+       "end": 112,
+       "tokens": "."
+      },
+      {
+       "label": "Ubwo",
+       "score": 1.0,
+       "start": 112,
+       "end": 113,
+       "tokens": "Ubwo"
+      },
+      {
+       "label": "buyobozi",
+       "score": 1.0,
+       "start": 113,
+       "end": 114,
+       "tokens": "buyobozi"
+      },
+      {
+       "label": "buvuga",
+       "score": 1.0,
+       "start": 114,
+       "end": 115,
+       "tokens": "buvuga"
+      },
+      {
+       "label": "kandi",
+       "score": 1.0,
+       "start": 115,
+       "end": 116,
+       "tokens": "kandi"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 116,
+       "end": 117,
+       "tokens": "ko"
+      },
+      {
+       "label": "abasilikari",
+       "score": 1.0,
+       "start": 117,
+       "end": 118,
+       "tokens": "abasilikari"
+      },
+      {
+       "label": "b\u2019Amerika",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "b\u2019Amerika"
+      },
+      {
+       "label": "bafashije",
+       "score": 1.0,
+       "start": 119,
+       "end": 120,
+       "tokens": "bafashije"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 120,
+       "end": 121,
+       "tokens": "mu"
+      },
+      {
+       "label": "gutabara",
+       "score": 1.0,
+       "start": 121,
+       "end": 122,
+       "tokens": "gutabara"
+      },
+      {
+       "label": "iyo",
+       "score": 1.0,
+       "start": 122,
+       "end": 123,
+       "tokens": "iyo"
+      },
+      {
+       "label": "hoteli",
+       "score": 1.0,
+       "start": 123,
+       "end": 124,
+       "tokens": "hoteli"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 124,
+       "end": 125,
+       "tokens": "."
+      },
+      {
+       "label": "Umunyamakuru",
+       "score": 1.0,
+       "start": 125,
+       "end": 126,
+       "tokens": "Umunyamakuru"
+      },
+      {
+       "label": "w\u2019Ijwi",
+       "score": 1.0,
+       "start": 126,
+       "end": 127,
+       "tokens": "w\u2019Ijwi"
+      },
+      {
+       "label": "ry\u2019Amerika",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "ry\u2019Amerika"
+      },
+      {
+       "label": "wageze",
+       "score": 1.0,
+       "start": 128,
+       "end": 129,
+       "tokens": "wageze"
+      },
+      {
+       "label": "kuri",
+       "score": 1.0,
+       "start": 129,
+       "end": 130,
+       "tokens": "kuri"
+      },
+      {
+       "label": "io",
+       "score": 1.0,
+       "start": 130,
+       "end": 131,
+       "tokens": "io"
+      },
+      {
+       "label": "hoteli",
+       "score": 1.0,
+       "start": 131,
+       "end": 132,
+       "tokens": "hoteli"
+      },
+      {
+       "label": "yavuze",
+       "score": 1.0,
+       "start": 132,
+       "end": 133,
+       "tokens": "yavuze"
+      },
+      {
+       "label": "ko",
+       "score": 1.0,
+       "start": 133,
+       "end": 134,
+       "tokens": "ko"
+      },
+      {
+       "label": "ingabo",
+       "score": 1.0,
+       "start": 134,
+       "end": 135,
+       "tokens": "ingabo"
+      },
+      {
+       "label": "za",
+       "score": 1.0,
+       "start": 135,
+       "end": 136,
+       "tokens": "za"
+      },
+      {
+       "label": "Mali",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Mali"
+      },
+      {
+       "label": ",",
+       "score": 1.0,
+       "start": 137,
+       "end": 138,
+       "tokens": ","
+      },
+      {
+       "label": "zafunze",
+       "score": 1.0,
+       "start": 138,
+       "end": 139,
+       "tokens": "zafunze"
+      },
+      {
+       "label": "imihanda",
+       "score": 1.0,
+       "start": 139,
+       "end": 140,
+       "tokens": "imihanda"
+      },
+      {
+       "label": "yose",
+       "score": 1.0,
+       "start": 140,
+       "end": 141,
+       "tokens": "yose"
+      },
+      {
+       "label": "igana",
+       "score": 1.0,
+       "start": 141,
+       "end": 142,
+       "tokens": "igana"
+      },
+      {
+       "label": "kuri",
+       "score": 1.0,
+       "start": 142,
+       "end": 143,
+       "tokens": "kuri"
+      },
+      {
+       "label": "iyo",
+       "score": 1.0,
+       "start": 143,
+       "end": 144,
+       "tokens": "iyo"
+      },
+      {
+       "label": "hoteli",
+       "score": 1.0,
+       "start": 144,
+       "end": 145,
+       "tokens": "hoteli"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 145,
+       "end": 146,
+       "tokens": "."
+      },
+      {
+       "label": "Ibibombe",
+       "score": 1.0,
+       "start": 146,
+       "end": 147,
+       "tokens": "Ibibombe"
+      },
+      {
+       "label": "n\u2019imirwano",
+       "score": 1.0,
+       "start": 147,
+       "end": 148,
+       "tokens": "n\u2019imirwano"
+      },
+      {
+       "label": "y\u2019amasasu",
+       "score": 1.0,
+       "start": 148,
+       "end": 149,
+       "tokens": "y\u2019amasasu"
+      },
+      {
+       "label": "yari",
+       "score": 1.0,
+       "start": 149,
+       "end": 150,
+       "tokens": "yari"
+      },
+      {
+       "label": "yumvikanye",
+       "score": 1.0,
+       "start": 150,
+       "end": 151,
+       "tokens": "yumvikanye"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 151,
+       "end": 152,
+       "tokens": "mu"
+      },
+      {
+       "label": "masaha",
+       "score": 1.0,
+       "start": 152,
+       "end": 153,
+       "tokens": "masaha"
+      },
+      {
+       "label": "ya",
+       "score": 1.0,
+       "start": 153,
+       "end": 154,
+       "tokens": "ya"
+      },
+      {
+       "label": "mu",
+       "score": 1.0,
+       "start": 154,
+       "end": 155,
+       "tokens": "mu"
+      },
+      {
+       "label": "gitondo",
+       "score": 1.0,
+       "start": 155,
+       "end": 156,
+       "tokens": "gitondo"
+      },
+      {
+       "label": "yari",
+       "score": 1.0,
+       "start": 156,
+       "end": 157,
+       "tokens": "yari"
+      },
+      {
+       "label": "yarahagaze",
+       "score": 1.0,
+       "start": 157,
+       "end": 158,
+       "tokens": "yarahagaze"
+      },
+      {
+       "label": "nyuma",
+       "score": 1.0,
+       "start": 158,
+       "end": 159,
+       "tokens": "nyuma"
+      },
+      {
+       "label": "ya",
+       "score": 1.0,
+       "start": 159,
+       "end": 160,
+       "tokens": "ya"
+      },
+      {
+       "label": "saa",
+       "score": 1.0,
+       "start": 160,
+       "end": 161,
+       "tokens": "saa"
+      },
+      {
+       "label": "sita",
+       "score": 1.0,
+       "start": 161,
+       "end": 162,
+       "tokens": "sita"
+      },
+      {
+       "label": ".",
+       "score": 1.0,
+       "start": 162,
+       "end": 163,
+       "tokens": "."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "WIKIFIER",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+     "viewName": "WIKIFIER",
+     "generator": "Ltf2TextAnnotation",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2460594|2460596",
+       "score": 1.0,
+       "start": 44,
+       "end": 45,
+       "tokens": "Bamako"
+      },
+      {
+       "label": "2453866",
+       "score": 1.0,
+       "start": 0,
+       "end": 1,
+       "tokens": "Mali"
+      },
+      {
+       "label": "2453866",
+       "score": 1.0,
+       "start": 9,
+       "end": 10,
+       "tokens": "Mali"
+      },
+      {
+       "label": "2453866",
+       "score": 1.0,
+       "start": 30,
+       "end": 31,
+       "tokens": "Mali"
+      },
+      {
+       "label": "2453866",
+       "score": 1.0,
+       "start": 136,
+       "end": 137,
+       "tokens": "Mali"
+      },
+      {
+       "label": "6252001",
+       "score": 1.0,
+       "start": 100,
+       "end": 101,
+       "tokens": "z\u2019Amerika"
+      },
+      {
+       "label": "6252001",
+       "score": 1.0,
+       "start": 118,
+       "end": 119,
+       "tokens": "b\u2019Amerika"
+      },
+      {
+       "label": "6252001",
+       "score": 1.0,
+       "start": 127,
+       "end": 128,
+       "tokens": "ry\u2019Amerika"
+      },
+      {
+       "label": "NILC90141",
+       "score": 1.0,
+       "start": 102,
+       "end": 103,
+       "tokens": "Afurika"
+      },
+      {
+       "label": "NILC90439",
+       "score": 1.0,
+       "start": 6,
+       "end": 7,
+       "tokens": "Radisson"
+      },
+      {
+       "label": "NILC90439",
+       "score": 1.0,
+       "start": 21,
+       "end": 22,
+       "tokens": "Radisson"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "viewName": "CANDGEN",
+   "viewData": [
+    {
+     "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+     "viewName": "CANDGEN",
+     "generator": "Ltf2TextAnnotation",
+     "score": 1,
+     "constituents": [
+      {
+       "label": "2460596|Bamako|http://en.wikipedia.org/wiki/Bamako",
+       "score": 0.00015000000000000001,
+       "start": 44,
+       "end": 45,
+       "tokens": "Bamako",
+       "labelScoreMap": {
+        "2460595|Bamako|http://en.wikipedia.org/wiki/Bamako": 6.000000000000001e-05,
+        "2460596|Bamako|http://en.wikipedia.org/wiki/Bamako": 0.00015000000000000001,
+        "6875961|Bamako|http://en.wikipedia.org/wiki/Bamako": 6.000000000000001e-05,
+        "6912406|Bamako|http://en.wikipedia.org/wiki/Bamako": 6.000000000000001e-05,
+        "2460594|Bamako|http://en.wikipedia.org/wiki/Bamako": 0.00015000000000000001,
+        "2362968|Bamako": 7.500000000000001e-05,
+        "2254338|Bamako": 7.500000000000001e-05,
+        "2362969|Bamako": 7.500000000000001e-05
+       }
+      },
+      {
+       "label": "2453866|Mali|http://en.wikipedia.org/wiki/Mali|http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8|http://id.loc.gov/authorities/names/n79007504",
+       "score": 7.999883411949306e-05,
+       "start": 0,
+       "end": 1,
+       "tokens": "Mali",
+       "labelScoreMap": {
+        "2453866|Mali|http://en.wikipedia.org/wiki/Mali|http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8|http://id.loc.gov/authorities/names/n79007504": 7.999883411949306e-05,
+        "2417886|Mali,_Guinea|http://en.wikipedia.org/wiki/Mali%2C_Guinea": 3.886268356545691e-08,
+        "2417885|Mali_Prefecture|http://en.wikipedia.org/wiki/Mali_Prefecture": 5.8294025348185356e-09,
+        "457683|M\u0101lmui\u017ea": 0.0,
+        "237791|Mali": 4.799930047169583e-06,
+        "1311988|Mali": 4.799930047169583e-06,
+        "1171334|M\u0101li Menga": 0.0,
+        "7523802|Mali": 4.799930047169583e-06,
+        "8421208|Mali": 1.1999825117923956e-05,
+        "1801373|Mali": 1.1999825117923956e-05,
+        "7944993|Mali": 1.1999825117923956e-05,
+        "1134126|Mal\u012b": 0.0,
+        "1395297|Mall": 0.0,
+        "209836|Mali": 1.1999825117923956e-05,
+        "2417888|Mali": 1.1999825117923956e-05,
+        "922595|Mali": 1.1999825117923956e-05,
+        "1280600|Marri,_Tibet|http://en.wikipedia.org/wiki/Marri%2C_Tibet": 0.0,
+        "11015904|M\u0101li": 0.0,
+        "10676404|M\u0101li": 0.0,
+        "1171241|M\u0101li": 0.0,
+        "10810380|M\u0101li": 0.0,
+        "10613960|M\u0101li": 0.0,
+        "2098944|Bugamute": 0.0,
+        "10669487|M\u0101l\u012b": 0.0,
+        "2199165|Numbuiloa": 0.0,
+        "1672218|Mali": 4.799930047169583e-06,
+        "10347342|Mal\u00ed": 0.0,
+        "6413229|M\u0101li": 0.0,
+        "625564|Mali": 1.1999825117923956e-05,
+        "2248903|Mali Keur Koumba": 0.0,
+        "13212|Mali,_Ardabil|http://en.wikipedia.org/wiki/Mali%2C_Ardabil": 0.0,
+        "6905549|Mali": 1.1999825117923956e-05,
+        "8407732|Mali": 1.1999825117923956e-05,
+        "8727705|Mali": 1.1999825117923956e-05,
+        "2417887|Mali": 1.1999825117923956e-05,
+        "8045651|Mali": 1.1999825117923956e-05,
+        "1411541|M\u0101li": 0.0,
+        "10522307|M\u0101li": 0.0,
+        "1801374|Mali": 1.1999825117923956e-05,
+        "10210179|Mali": 1.1999825117923956e-05,
+        "1311987|Mali": 1.1999825117923956e-05,
+        "8746147|Mali": 1.1999825117923956e-05,
+        "6842384|Mali": 1.1999825117923956e-05,
+        "9914780|Mali": 1.1999825117923956e-05,
+        "7801808|Mali": 1.1999825117923956e-05,
+        "2406207|Mali": 4.799930047169583e-06,
+        "10990308|M\u0101li": 0.0,
+        "10903284|M\u0101li": 0.0,
+        "257861|M\u00e1li": 0.0,
+        "8016836|Mali": 1.1999825117923956e-05,
+        "2406208|Mali": 1.1999825117923956e-05,
+        "1801372|Mali": 1.1999825117923956e-05,
+        "10478318|M\u0101li": 0.0,
+        "1406387|M\u0101li": 0.0,
+        "10633650|Mali": 1.1999825117923956e-05,
+        "1041450|Mali": 1.1999825117923956e-05,
+        "2257852|Mali": 1.1999825117923956e-05,
+        "604423|Mali": 4.799930047169583e-06,
+        "11003579|Mali": 1.1999825117923956e-05,
+        "7040174|Mali": 1.1999825117923956e-05,
+        "457696|M\u0101\u013ci": 0.0,
+        "187987|Mali": 4.799930047169583e-06,
+        "187986|Mali": 4.799930047169583e-06,
+        "1311985|Mali-u": 0.0,
+        "6708451|Mali": 1.1999825117923956e-05,
+        "10835208|M\u0101l\u012b": 0.0,
+        "155028|Mali": 1.1999825117923956e-05,
+        "1041448|Rio Mali": 0.0,
+        "887569|Mali": 4.799930047169583e-06,
+        "10897630|M\u0101li": 0.0,
+        "10308959|Mali": 1.1999825117923956e-05,
+        "2275193|Mali": 1.1999825117923956e-05,
+        "1041449|Mali": 1.1999825117923956e-05,
+        "2405410|Meli": 0.0,
+        "1311967|Mali W\u0101ng": 0.0,
+        "1385531|Mali": 4.799930047169583e-06,
+        "1998576|Mali": 1.1999825117923956e-05,
+        "1550889|Mali": 1.1999825117923956e-05,
+        "7319599|Mali": 1.1999825117923956e-05,
+        "370701|M\u0101l\u012b": 0.0,
+        "1311986|Mali": 1.1999825117923956e-05,
+        "8356211|M\u0101l\u012b": 0.0,
+        "2228770|Mali": 1.1999825117923956e-05,
+        "7543745|Mali": 1.1999825117923956e-05,
+        "10893946|M\u0101li": 0.0,
+        "9020907|Mali": 4.799930047169583e-06,
+        "10827424|M\u0101li": 0.0
+       }
+      },
+      {
+       "label": "2453866|Mali|http://en.wikipedia.org/wiki/Mali|http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8|http://id.loc.gov/authorities/names/n79007504",
+       "score": 7.999883411949306e-05,
+       "start": 9,
+       "end": 10,
+       "tokens": "Mali",
+       "labelScoreMap": {
+        "2453866|Mali|http://en.wikipedia.org/wiki/Mali|http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8|http://id.loc.gov/authorities/names/n79007504": 7.999883411949306e-05,
+        "2417886|Mali,_Guinea|http://en.wikipedia.org/wiki/Mali%2C_Guinea": 3.886268356545691e-08,
+        "2417885|Mali_Prefecture|http://en.wikipedia.org/wiki/Mali_Prefecture": 5.8294025348185356e-09,
+        "457683|M\u0101lmui\u017ea": 0.0,
+        "237791|Mali": 4.799930047169583e-06,
+        "1311988|Mali": 4.799930047169583e-06,
+        "1171334|M\u0101li Menga": 0.0,
+        "7523802|Mali": 4.799930047169583e-06,
+        "8421208|Mali": 1.1999825117923956e-05,
+        "1801373|Mali": 1.1999825117923956e-05,
+        "7944993|Mali": 1.1999825117923956e-05,
+        "1134126|Mal\u012b": 0.0,
+        "1395297|Mall": 0.0,
+        "209836|Mali": 1.1999825117923956e-05,
+        "2417888|Mali": 1.1999825117923956e-05,
+        "922595|Mali": 1.1999825117923956e-05,
+        "1280600|Marri,_Tibet|http://en.wikipedia.org/wiki/Marri%2C_Tibet": 0.0,
+        "11015904|M\u0101li": 0.0,
+        "10676404|M\u0101li": 0.0,
+        "1171241|M\u0101li": 0.0,
+        "10810380|M\u0101li": 0.0,
+        "10613960|M\u0101li": 0.0,
+        "2098944|Bugamute": 0.0,
+        "10669487|M\u0101l\u012b": 0.0,
+        "2199165|Numbuiloa": 0.0,
+        "1672218|Mali": 4.799930047169583e-06,
+        "10347342|Mal\u00ed": 0.0,
+        "6413229|M\u0101li": 0.0,
+        "625564|Mali": 1.1999825117923956e-05,
+        "2248903|Mali Keur Koumba": 0.0,
+        "13212|Mali,_Ardabil|http://en.wikipedia.org/wiki/Mali%2C_Ardabil": 0.0,
+        "6905549|Mali": 1.1999825117923956e-05,
+        "8407732|Mali": 1.1999825117923956e-05,
+        "8727705|Mali": 1.1999825117923956e-05,
+        "2417887|Mali": 1.1999825117923956e-05,
+        "8045651|Mali": 1.1999825117923956e-05,
+        "1411541|M\u0101li": 0.0,
+        "10522307|M\u0101li": 0.0,
+        "1801374|Mali": 1.1999825117923956e-05,
+        "10210179|Mali": 1.1999825117923956e-05,
+        "1311987|Mali": 1.1999825117923956e-05,
+        "8746147|Mali": 1.1999825117923956e-05,
+        "6842384|Mali": 1.1999825117923956e-05,
+        "9914780|Mali": 1.1999825117923956e-05,
+        "7801808|Mali": 1.1999825117923956e-05,
+        "2406207|Mali": 4.799930047169583e-06,
+        "10990308|M\u0101li": 0.0,
+        "10903284|M\u0101li": 0.0,
+        "257861|M\u00e1li": 0.0,
+        "8016836|Mali": 1.1999825117923956e-05,
+        "2406208|Mali": 1.1999825117923956e-05,
+        "1801372|Mali": 1.1999825117923956e-05,
+        "10478318|M\u0101li": 0.0,
+        "1406387|M\u0101li": 0.0,
+        "10633650|Mali": 1.1999825117923956e-05,
+        "1041450|Mali": 1.1999825117923956e-05,
+        "2257852|Mali": 1.1999825117923956e-05,
+        "604423|Mali": 4.799930047169583e-06,
+        "11003579|Mali": 1.1999825117923956e-05,
+        "7040174|Mali": 1.1999825117923956e-05,
+        "457696|M\u0101\u013ci": 0.0,
+        "187987|Mali": 4.799930047169583e-06,
+        "187986|Mali": 4.799930047169583e-06,
+        "1311985|Mali-u": 0.0,
+        "6708451|Mali": 1.1999825117923956e-05,
+        "10835208|M\u0101l\u012b": 0.0,
+        "155028|Mali": 1.1999825117923956e-05,
+        "1041448|Rio Mali": 0.0,
+        "887569|Mali": 4.799930047169583e-06,
+        "10897630|M\u0101li": 0.0,
+        "10308959|Mali": 1.1999825117923956e-05,
+        "2275193|Mali": 1.1999825117923956e-05,
+        "1041449|Mali": 1.1999825117923956e-05,
+        "2405410|Meli": 0.0,
+        "1311967|Mali W\u0101ng": 0.0,
+        "1385531|Mali": 4.799930047169583e-06,
+        "1998576|Mali": 1.1999825117923956e-05,
+        "1550889|Mali": 1.1999825117923956e-05,
+        "7319599|Mali": 1.1999825117923956e-05,
+        "370701|M\u0101l\u012b": 0.0,
+        "1311986|Mali": 1.1999825117923956e-05,
+        "8356211|M\u0101l\u012b": 0.0,
+        "2228770|Mali": 1.1999825117923956e-05,
+        "7543745|Mali": 1.1999825117923956e-05,
+        "10893946|M\u0101li": 0.0,
+        "9020907|Mali": 4.799930047169583e-06,
+        "10827424|M\u0101li": 0.0
+       }
+      },
+      {
+       "label": "2453866|Mali|http://en.wikipedia.org/wiki/Mali|http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8|http://id.loc.gov/authorities/names/n79007504",
+       "score": 7.999883411949306e-05,
+       "start": 30,
+       "end": 31,
+       "tokens": "Mali",
+       "labelScoreMap": {
+        "2453866|Mali|http://en.wikipedia.org/wiki/Mali|http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8|http://id.loc.gov/authorities/names/n79007504": 7.999883411949306e-05,
+        "2417886|Mali,_Guinea|http://en.wikipedia.org/wiki/Mali%2C_Guinea": 3.886268356545691e-08,
+        "2417885|Mali_Prefecture|http://en.wikipedia.org/wiki/Mali_Prefecture": 5.8294025348185356e-09,
+        "457683|M\u0101lmui\u017ea": 0.0,
+        "237791|Mali": 4.799930047169583e-06,
+        "1311988|Mali": 4.799930047169583e-06,
+        "1171334|M\u0101li Menga": 0.0,
+        "7523802|Mali": 4.799930047169583e-06,
+        "8421208|Mali": 1.1999825117923956e-05,
+        "1801373|Mali": 1.1999825117923956e-05,
+        "7944993|Mali": 1.1999825117923956e-05,
+        "1134126|Mal\u012b": 0.0,
+        "1395297|Mall": 0.0,
+        "209836|Mali": 1.1999825117923956e-05,
+        "2417888|Mali": 1.1999825117923956e-05,
+        "922595|Mali": 1.1999825117923956e-05,
+        "1280600|Marri,_Tibet|http://en.wikipedia.org/wiki/Marri%2C_Tibet": 0.0,
+        "11015904|M\u0101li": 0.0,
+        "10676404|M\u0101li": 0.0,
+        "1171241|M\u0101li": 0.0,
+        "10810380|M\u0101li": 0.0,
+        "10613960|M\u0101li": 0.0,
+        "2098944|Bugamute": 0.0,
+        "10669487|M\u0101l\u012b": 0.0,
+        "2199165|Numbuiloa": 0.0,
+        "1672218|Mali": 4.799930047169583e-06,
+        "10347342|Mal\u00ed": 0.0,
+        "6413229|M\u0101li": 0.0,
+        "625564|Mali": 1.1999825117923956e-05,
+        "2248903|Mali Keur Koumba": 0.0,
+        "13212|Mali,_Ardabil|http://en.wikipedia.org/wiki/Mali%2C_Ardabil": 0.0,
+        "6905549|Mali": 1.1999825117923956e-05,
+        "8407732|Mali": 1.1999825117923956e-05,
+        "8727705|Mali": 1.1999825117923956e-05,
+        "2417887|Mali": 1.1999825117923956e-05,
+        "8045651|Mali": 1.1999825117923956e-05,
+        "1411541|M\u0101li": 0.0,
+        "10522307|M\u0101li": 0.0,
+        "1801374|Mali": 1.1999825117923956e-05,
+        "10210179|Mali": 1.1999825117923956e-05,
+        "1311987|Mali": 1.1999825117923956e-05,
+        "8746147|Mali": 1.1999825117923956e-05,
+        "6842384|Mali": 1.1999825117923956e-05,
+        "9914780|Mali": 1.1999825117923956e-05,
+        "7801808|Mali": 1.1999825117923956e-05,
+        "2406207|Mali": 4.799930047169583e-06,
+        "10990308|M\u0101li": 0.0,
+        "10903284|M\u0101li": 0.0,
+        "257861|M\u00e1li": 0.0,
+        "8016836|Mali": 1.1999825117923956e-05,
+        "2406208|Mali": 1.1999825117923956e-05,
+        "1801372|Mali": 1.1999825117923956e-05,
+        "10478318|M\u0101li": 0.0,
+        "1406387|M\u0101li": 0.0,
+        "10633650|Mali": 1.1999825117923956e-05,
+        "1041450|Mali": 1.1999825117923956e-05,
+        "2257852|Mali": 1.1999825117923956e-05,
+        "604423|Mali": 4.799930047169583e-06,
+        "11003579|Mali": 1.1999825117923956e-05,
+        "7040174|Mali": 1.1999825117923956e-05,
+        "457696|M\u0101\u013ci": 0.0,
+        "187987|Mali": 4.799930047169583e-06,
+        "187986|Mali": 4.799930047169583e-06,
+        "1311985|Mali-u": 0.0,
+        "6708451|Mali": 1.1999825117923956e-05,
+        "10835208|M\u0101l\u012b": 0.0,
+        "155028|Mali": 1.1999825117923956e-05,
+        "1041448|Rio Mali": 0.0,
+        "887569|Mali": 4.799930047169583e-06,
+        "10897630|M\u0101li": 0.0,
+        "10308959|Mali": 1.1999825117923956e-05,
+        "2275193|Mali": 1.1999825117923956e-05,
+        "1041449|Mali": 1.1999825117923956e-05,
+        "2405410|Meli": 0.0,
+        "1311967|Mali W\u0101ng": 0.0,
+        "1385531|Mali": 4.799930047169583e-06,
+        "1998576|Mali": 1.1999825117923956e-05,
+        "1550889|Mali": 1.1999825117923956e-05,
+        "7319599|Mali": 1.1999825117923956e-05,
+        "370701|M\u0101l\u012b": 0.0,
+        "1311986|Mali": 1.1999825117923956e-05,
+        "8356211|M\u0101l\u012b": 0.0,
+        "2228770|Mali": 1.1999825117923956e-05,
+        "7543745|Mali": 1.1999825117923956e-05,
+        "10893946|M\u0101li": 0.0,
+        "9020907|Mali": 4.799930047169583e-06,
+        "10827424|M\u0101li": 0.0
+       }
+      },
+      {
+       "label": "2453866|Mali|http://en.wikipedia.org/wiki/Mali|http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8|http://id.loc.gov/authorities/names/n79007504",
+       "score": 7.999883411949306e-05,
+       "start": 136,
+       "end": 137,
+       "tokens": "Mali",
+       "labelScoreMap": {
+        "2453866|Mali|http://en.wikipedia.org/wiki/Mali|http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8|http://id.loc.gov/authorities/names/n79007504": 7.999883411949306e-05,
+        "2417886|Mali,_Guinea|http://en.wikipedia.org/wiki/Mali%2C_Guinea": 3.886268356545691e-08,
+        "2417885|Mali_Prefecture|http://en.wikipedia.org/wiki/Mali_Prefecture": 5.8294025348185356e-09,
+        "457683|M\u0101lmui\u017ea": 0.0,
+        "237791|Mali": 4.799930047169583e-06,
+        "1311988|Mali": 4.799930047169583e-06,
+        "1171334|M\u0101li Menga": 0.0,
+        "7523802|Mali": 4.799930047169583e-06,
+        "8421208|Mali": 1.1999825117923956e-05,
+        "1801373|Mali": 1.1999825117923956e-05,
+        "7944993|Mali": 1.1999825117923956e-05,
+        "1134126|Mal\u012b": 0.0,
+        "1395297|Mall": 0.0,
+        "209836|Mali": 1.1999825117923956e-05,
+        "2417888|Mali": 1.1999825117923956e-05,
+        "922595|Mali": 1.1999825117923956e-05,
+        "1280600|Marri,_Tibet|http://en.wikipedia.org/wiki/Marri%2C_Tibet": 0.0,
+        "11015904|M\u0101li": 0.0,
+        "10676404|M\u0101li": 0.0,
+        "1171241|M\u0101li": 0.0,
+        "10810380|M\u0101li": 0.0,
+        "10613960|M\u0101li": 0.0,
+        "2098944|Bugamute": 0.0,
+        "10669487|M\u0101l\u012b": 0.0,
+        "2199165|Numbuiloa": 0.0,
+        "1672218|Mali": 4.799930047169583e-06,
+        "10347342|Mal\u00ed": 0.0,
+        "6413229|M\u0101li": 0.0,
+        "625564|Mali": 1.1999825117923956e-05,
+        "2248903|Mali Keur Koumba": 0.0,
+        "13212|Mali,_Ardabil|http://en.wikipedia.org/wiki/Mali%2C_Ardabil": 0.0,
+        "6905549|Mali": 1.1999825117923956e-05,
+        "8407732|Mali": 1.1999825117923956e-05,
+        "8727705|Mali": 1.1999825117923956e-05,
+        "2417887|Mali": 1.1999825117923956e-05,
+        "8045651|Mali": 1.1999825117923956e-05,
+        "1411541|M\u0101li": 0.0,
+        "10522307|M\u0101li": 0.0,
+        "1801374|Mali": 1.1999825117923956e-05,
+        "10210179|Mali": 1.1999825117923956e-05,
+        "1311987|Mali": 1.1999825117923956e-05,
+        "8746147|Mali": 1.1999825117923956e-05,
+        "6842384|Mali": 1.1999825117923956e-05,
+        "9914780|Mali": 1.1999825117923956e-05,
+        "7801808|Mali": 1.1999825117923956e-05,
+        "2406207|Mali": 4.799930047169583e-06,
+        "10990308|M\u0101li": 0.0,
+        "10903284|M\u0101li": 0.0,
+        "257861|M\u00e1li": 0.0,
+        "8016836|Mali": 1.1999825117923956e-05,
+        "2406208|Mali": 1.1999825117923956e-05,
+        "1801372|Mali": 1.1999825117923956e-05,
+        "10478318|M\u0101li": 0.0,
+        "1406387|M\u0101li": 0.0,
+        "10633650|Mali": 1.1999825117923956e-05,
+        "1041450|Mali": 1.1999825117923956e-05,
+        "2257852|Mali": 1.1999825117923956e-05,
+        "604423|Mali": 4.799930047169583e-06,
+        "11003579|Mali": 1.1999825117923956e-05,
+        "7040174|Mali": 1.1999825117923956e-05,
+        "457696|M\u0101\u013ci": 0.0,
+        "187987|Mali": 4.799930047169583e-06,
+        "187986|Mali": 4.799930047169583e-06,
+        "1311985|Mali-u": 0.0,
+        "6708451|Mali": 1.1999825117923956e-05,
+        "10835208|M\u0101l\u012b": 0.0,
+        "155028|Mali": 1.1999825117923956e-05,
+        "1041448|Rio Mali": 0.0,
+        "887569|Mali": 4.799930047169583e-06,
+        "10897630|M\u0101li": 0.0,
+        "10308959|Mali": 1.1999825117923956e-05,
+        "2275193|Mali": 1.1999825117923956e-05,
+        "1041449|Mali": 1.1999825117923956e-05,
+        "2405410|Meli": 0.0,
+        "1311967|Mali W\u0101ng": 0.0,
+        "1385531|Mali": 4.799930047169583e-06,
+        "1998576|Mali": 1.1999825117923956e-05,
+        "1550889|Mali": 1.1999825117923956e-05,
+        "7319599|Mali": 1.1999825117923956e-05,
+        "370701|M\u0101l\u012b": 0.0,
+        "1311986|Mali": 1.1999825117923956e-05,
+        "8356211|M\u0101l\u012b": 0.0,
+        "2228770|Mali": 1.1999825117923956e-05,
+        "7543745|Mali": 1.1999825117923956e-05,
+        "10893946|M\u0101li": 0.0,
+        "9020907|Mali": 4.799930047169583e-06,
+        "10827424|M\u0101li": 0.0
+       }
+      },
+      {
+       "label": "6252001|United_States|http://en.wikipedia.org/wiki/United_States|http://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8|http://no.wikipedia.org/wiki/USA|http://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri|http://de.wikipedia.org/wiki/Vereinigte_Staaten|http://www.usa.gov/|http://www.whitehouse.gov/|http://it.wikipedia.org/wiki/Stati_Uniti_d%27America|http://id.loc.gov/authorities/names/n78095330",
+       "score": 0.0012000000000000001,
+       "start": 100,
+       "end": 101,
+       "tokens": "z\u2019Amerika",
+       "labelScoreMap": {
+        "6252001|United_States|http://en.wikipedia.org/wiki/United_States|http://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8|http://no.wikipedia.org/wiki/USA|http://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri|http://de.wikipedia.org/wiki/Vereinigte_Staaten|http://www.usa.gov/|http://www.whitehouse.gov/|http://it.wikipedia.org/wiki/Stati_Uniti_d%27America|http://id.loc.gov/authorities/names/n78095330": 0.0012000000000000001
+       }
+      },
+      {
+       "label": "6252001|United_States|http://en.wikipedia.org/wiki/United_States|http://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8|http://no.wikipedia.org/wiki/USA|http://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri|http://de.wikipedia.org/wiki/Vereinigte_Staaten|http://www.usa.gov/|http://www.whitehouse.gov/|http://it.wikipedia.org/wiki/Stati_Uniti_d%27America|http://id.loc.gov/authorities/names/n78095330",
+       "score": 0.0011997873170040056,
+       "start": 118,
+       "end": 119,
+       "tokens": "b\u2019Amerika",
+       "labelScoreMap": {
+        "6252001|United_States|http://en.wikipedia.org/wiki/United_States|http://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8|http://no.wikipedia.org/wiki/USA|http://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri|http://de.wikipedia.org/wiki/Vereinigte_Staaten|http://www.usa.gov/|http://www.whitehouse.gov/|http://it.wikipedia.org/wiki/Stati_Uniti_d%27America|http://id.loc.gov/authorities/names/n78095330": 0.0011997873170040056,
+        "2759831|America,_Limburg|http://en.wikipedia.org/wiki/America%2C_Limburg": 2.9775619439225837e-08,
+        "2759830|Amerika,_Drenthe|http://en.wikipedia.org/wiki/Amerika%2C_Drenthe": 4.253659919889405e-09,
+        "2956563|Amerika": 1.7014639679557622e-09,
+        "9731136|Amerika": 1.7014639679557622e-09,
+        "9333225|Amerika": 1.7014639679557622e-09,
+        "582281|Amerika": 4.253659919889405e-09,
+        "9447662|Amerika": 1.7014639679557622e-09,
+        "1022916|Amerika": 1.7014639679557622e-09,
+        "9223870|Amerika": 1.7014639679557622e-09,
+        "11310989|Amerika": 4.253659919889405e-09,
+        "2956560|Amerika": 4.253659919889405e-09,
+        "8330789|Amerika": 4.253659919889405e-09,
+        "1022915|Amerika": 1.7014639679557622e-09,
+        "3079798|Amerika": 4.253659919889405e-09,
+        "2803230|Amerika": 4.253659919889405e-09,
+        "9571135|Amerika": 1.7014639679557622e-09,
+        "11190127|Amerika": 1.7014639679557622e-09,
+        "2956561|Amerika": 4.253659919889405e-09,
+        "9150446|Amerika": 1.7014639679557622e-09,
+        "582280|Amerika": 4.253659919889405e-09,
+        "2956562|Amerika": 1.7014639679557622e-09,
+        "1022918|America": 0.0,
+        "9655347|Amerika": 4.253659919889405e-09,
+        "9652862|Amerika": 1.7014639679557622e-09
+       }
+      },
+      {
+       "label": "6252001|United_States|http://en.wikipedia.org/wiki/United_States|http://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8|http://no.wikipedia.org/wiki/USA|http://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri|http://de.wikipedia.org/wiki/Vereinigte_Staaten|http://www.usa.gov/|http://www.whitehouse.gov/|http://it.wikipedia.org/wiki/Stati_Uniti_d%27America|http://id.loc.gov/authorities/names/n78095330",
+       "score": 0.0011997873170040056,
+       "start": 127,
+       "end": 128,
+       "tokens": "ry\u2019Amerika",
+       "labelScoreMap": {
+        "6252001|United_States|http://en.wikipedia.org/wiki/United_States|http://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8|http://no.wikipedia.org/wiki/USA|http://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri|http://de.wikipedia.org/wiki/Vereinigte_Staaten|http://www.usa.gov/|http://www.whitehouse.gov/|http://it.wikipedia.org/wiki/Stati_Uniti_d%27America|http://id.loc.gov/authorities/names/n78095330": 0.0011997873170040056,
+        "2759831|America,_Limburg|http://en.wikipedia.org/wiki/America%2C_Limburg": 2.9775619439225837e-08,
+        "2759830|Amerika,_Drenthe|http://en.wikipedia.org/wiki/Amerika%2C_Drenthe": 4.253659919889405e-09,
+        "2956563|Amerika": 1.7014639679557622e-09,
+        "9731136|Amerika": 1.7014639679557622e-09,
+        "9333225|Amerika": 1.7014639679557622e-09,
+        "582281|Amerika": 4.253659919889405e-09,
+        "9447662|Amerika": 1.7014639679557622e-09,
+        "1022916|Amerika": 1.7014639679557622e-09,
+        "9223870|Amerika": 1.7014639679557622e-09,
+        "11310989|Amerika": 4.253659919889405e-09,
+        "2956560|Amerika": 4.253659919889405e-09,
+        "8330789|Amerika": 4.253659919889405e-09,
+        "1022915|Amerika": 1.7014639679557622e-09,
+        "3079798|Amerika": 4.253659919889405e-09,
+        "2803230|Amerika": 4.253659919889405e-09,
+        "9571135|Amerika": 1.7014639679557622e-09,
+        "11190127|Amerika": 1.7014639679557622e-09,
+        "2956561|Amerika": 4.253659919889405e-09,
+        "9150446|Amerika": 1.7014639679557622e-09,
+        "582280|Amerika": 4.253659919889405e-09,
+        "2956562|Amerika": 1.7014639679557622e-09,
+        "1022918|America": 0.0,
+        "9655347|Amerika": 4.253659919889405e-09,
+        "9652862|Amerika": 1.7014639679557622e-09
+       }
+      },
+      {
+       "label": "6255146|Africa|http://en.wikipedia.org/wiki/Africa|http://id.loc.gov/authorities/subjects/sh85001531",
+       "score": 0.005904584773568685,
+       "start": 102,
+       "end": 103,
+       "tokens": "Afurika",
+       "labelScoreMap": {
+        "953987|South_Africa|http://en.wikipedia.org/wiki/South_Africa|http://ru.wikipedia.org/wiki/%D0%AE%D0%B6%D0%BD%D0%BE-%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0|http://id.loc.gov/authorities/names/n79023005": 0.00030999175337322136,
+        "6255146|Africa|http://en.wikipedia.org/wiki/Africa|http://id.loc.gov/authorities/subjects/sh85001531": 0.005904584773568685,
+        "239880|Central_African_Republic|http://en.wikipedia.org/wiki/Central_African_Republic": 2.549365711578615e-05,
+        "9199768|University_of_South_Africa|http://en.wikipedia.org/wiki/University_of_South_Africa": 7.011387363360413e-06
+       }
+      },
+      {
+       "label": "6115701|Radisson,_Quebec|http://en.wikipedia.org/wiki/Radisson%2C_Quebec",
+       "score": 0.00027200000000000005,
+       "start": 6,
+       "end": 7,
+       "tokens": "Radisson",
+       "labelScoreMap": {
+        "6115701|Radisson,_Quebec|http://en.wikipedia.org/wiki/Radisson%2C_Quebec": 0.00027200000000000005,
+        "6115705|Radisson,_Saskatchewan|http://en.wikipedia.org/wiki/Radisson%2C_Saskatchewan": 0.00011200000000000001,
+        "5268272|Radisson,_Wisconsin|http://en.wikipedia.org/wiki/Radisson%2C_Wisconsin": 9.600000000000003e-05,
+        "6115704|Radisson": 0.0,
+        "9952250|Radisson": 0.0,
+        "10290387|Radisson": 0.0,
+        "9952243|Radisson": 0.0,
+        "6115700|Radisson": 0.0,
+        "9957439|Radisson": 0.0,
+        "6115703|Radisson": 0.0,
+        "6473050|Radisson": 0.0,
+        "10063209|Radisson": 0.0,
+        "7188225|Radisson": 0.0,
+        "9848387|Radisson": 0.0,
+        "6115702|Radisson": 0.0
+       }
+      },
+      {
+       "label": "6115701|Radisson,_Quebec|http://en.wikipedia.org/wiki/Radisson%2C_Quebec",
+       "score": 0.00027200000000000005,
+       "start": 21,
+       "end": 22,
+       "tokens": "Radisson",
+       "labelScoreMap": {
+        "6115701|Radisson,_Quebec|http://en.wikipedia.org/wiki/Radisson%2C_Quebec": 0.00027200000000000005,
+        "6115705|Radisson,_Saskatchewan|http://en.wikipedia.org/wiki/Radisson%2C_Saskatchewan": 0.00011200000000000001,
+        "5268272|Radisson,_Wisconsin|http://en.wikipedia.org/wiki/Radisson%2C_Wisconsin": 9.600000000000003e-05,
+        "6115704|Radisson": 0.0,
+        "9952250|Radisson": 0.0,
+        "10290387|Radisson": 0.0,
+        "9952243|Radisson": 0.0,
+        "6115700|Radisson": 0.0,
+        "9957439|Radisson": 0.0,
+        "6115703|Radisson": 0.0,
+        "6473050|Radisson": 0.0,
+        "10063209|Radisson": 0.0,
+        "7188225|Radisson": 0.0,
+        "9848387|Radisson": 0.0,
+        "6115702|Radisson": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

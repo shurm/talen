@@ -1,0 +1,4 @@
+name	sinhalese
+folderpath	data/mikestajson/il10/
+format	tajson
+labels	PER ORG LOC GPE
