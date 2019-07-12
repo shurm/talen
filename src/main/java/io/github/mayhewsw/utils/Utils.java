@@ -7,14 +7,8 @@ import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation
 import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
 
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
-import java.util.Random;
+import java.util.*;
+
 
 /**
  * Created by mayhew2 on 6/7/17.
@@ -220,8 +214,10 @@ public class Utils {
 	} 
 	public static class CandgenValue
 	{
-		List<EdlCandidate> edlCandidates = new ArrayList<>();
-		String currentLabel;
+		private List<EdlCandidate> edlCandidates = new ArrayList<>();
+		private Set<String> urls = new HashSet<>();
+		
+		private String currentLabel;
 
 		public CandgenValue(String currentLabel) 
 		{
@@ -230,8 +226,11 @@ public class Utils {
 
 		public void addCandidate(String label, String url)
 		{
+			if(urls.contains(url))
+				return;
 			EdlCandidate e = new EdlCandidate(label,url);
 			edlCandidates.add(e);
+			urls.add(url);
 		} 
 
 		public String toString()
