@@ -250,9 +250,9 @@ $(document).ready(function() {
             $("[id^=tok]").popover('hide');
             showtopstats();
             event.preventDefault();
-            //var span = event.currentTarget;
+            var span = event.currentTarget;
 
-            //removelabel(span);
+            removelabel(span);
         });
 
     }

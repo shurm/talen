@@ -238,10 +238,11 @@ public class HtmlGenerator {
 			if(entities[t]!=null)
 			{
 				entityString = "entity='"+entities[t]+"'";
-				tokid = String.format("tok-%s-%s", id, t);
-				classList="class='token pointer";
+				//tokid = String.format("tok-%s-%s", id, t);
+				//classList="class='token pointer";
 			}
-
+			tokid = String.format("tok-%s-%s", id, t);
+			classList="class='token pointer";
 
 			// The orig attribute is used in the dictionary.
 			if (showdefs && def != null) {
