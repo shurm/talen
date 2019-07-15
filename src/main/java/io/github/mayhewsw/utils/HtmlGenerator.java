@@ -187,7 +187,6 @@ public class HtmlGenerator {
 
 		}
 
-		String[] text2 = Arrays.copyOf(text, text.length);
 
 		List<Constituent> sentner;
 		List<Constituent> sentnersugg;
@@ -217,9 +216,11 @@ public class HtmlGenerator {
 			}
 			entityString.deleteCharAt(entityString.length()-1);
 
+			
+			String entityString2 = entityString.toString();
 			for(int i = start;i<end;i++)
 			{
-				entities[i] = entityString.toString();
+				entities[i] = entityString2;
 			}
 		}
 
@@ -237,7 +238,7 @@ public class HtmlGenerator {
 			String classList = "class='token'";
 			if(entities[t]!=null)
 			{
-				entityString = "entity='"+entities[t]+"'";
+				entityString = "entity=\""+entities[t]+"\"";
 				//tokid = String.format("tok-%s-%s", id, t);
 				//classList="class='token pointer";
 			}
@@ -338,25 +339,25 @@ public class HtmlGenerator {
 				//	break;
 				sb.append("[ \'"+entry.getKey()+"\', [");
 
-				System.out.println("entry.getKey()");
-				System.out.println(entry.getKey());
+			//	System.out.println("entry.getKey()");
+			//	System.out.println(entry.getKey());
 				CandgenValue v = entry.getValue();
 
 				sb.append(v);
 
 
 				sb.append("] ],");
-				System.out.println("entry.getValue()");
-				System.out.println(entry.getValue());
+				//System.out.println("entry.getValue()");
+				//System.out.println(entry.getValue());
 				a++;
 			}
 			if(sb.length()>0)
 				//delete last comma
 				sb.deleteCharAt(sb.length()-1);
 
-			System.out.println("sb.toString()");
-			System.out.println(sb.length());
-			System.out.println(sb.toString());
+			//System.out.println("sb.toString()");
+			//System.out.println(sb.length());
+			//System.out.println(sb.toString());
 			
 			String mikeHTMLTemp = "<script>"
 					+ " var candgenMap = new Map(["+sb.toString()+"]);"
