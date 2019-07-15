@@ -134,6 +134,36 @@
 			<template id="buttons">
 				<div id = "popup-container" class="container-fluid">
 					
+					                   <div th:each="label,iterStat : ${labels}" th:if="${iterStat.index % 2 == 0}" class="form-group">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <button type="button" th:id="${labels[iterStat.index]}" class="btn pointer btn-light labelbutton" th:classappend="${labels[iterStat.index]}" th:field="${labels[iterStat.index]}" th:value="${labels[iterStat.index]}" th:text="${labels[iterStat.index]}"></button>
+                            </div>
+                            <div class="col-md-6" th:if="${iterStat.index+1} &lt; ${labels.size()}">
+                                <button type="button" th:id="${labels[iterStat.index+1]}" class="btn pointer btn-light labelbutton" th:classappend="${labels[iterStat.index+1]}" th:field="${labels[iterStat.index+1]}" th:value="${labels[iterStat.index+1]}" th:text="${labels[iterStat.index+1]}"></button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!--<div class="form-group">-->
+                        <!--<div class="row">-->
+                            <!--<div class="col-md-4">-->
+                                <!--<button type="button" id="O" class="btn pointer btn-outline-secondary" value="O">No label</button>-->
+                                <!--</div>-->
+                                <!--</div>-->
+                                <!--</div>-->
+                                
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="input-group mb-3">
+                                            <input type="text" id="definput" class="form-control labelbutton enter" placeholder="Definition" aria-label="Definition" aria-describedby="basic-addon2">
+                                            <div class="input-group-append">
+                                                <button class="btn btn-outline-secondary labelbutton" role="button" id="submitdict" type="button">Submit</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+								
 					<table class="table">
 						<tbody id = "edl-menu-table">
 							
