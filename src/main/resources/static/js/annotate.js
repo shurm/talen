@@ -158,6 +158,10 @@ $(document).ready(function() {
             },
             title: function () {
                 var text = getEntityString();
+				if(text == "")
+				{
+					text = gettextinrange(true);
+				}
                 var link = "<a id = 'google-search-link' class='search' highlighted-text='"+text+"' href=\"https://www.google.com/search?q=" + text + "\" target=\"_blank\">Google</a>"
                 return text + " (" + link + ")";
             },
