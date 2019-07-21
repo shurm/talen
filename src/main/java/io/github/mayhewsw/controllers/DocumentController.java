@@ -29,12 +29,16 @@ import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.*;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.store.RAMDirectory;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
+
 
 import javax.servlet.http.HttpSession;
 import java.io.*;
@@ -371,32 +375,19 @@ public class DocumentController {
             	View candgenView = taToSave.getView("CANDGEN");
 				List<Constituent> sentner = candgenView.getConstituents();
 				//System.out.println("candgenString is "+candgenString);
-				
-				Map<String, String> keysAndLabels = buildCandgenKeyAndLabelsMap(candgenString);
+
+				Map<String, Map<String,Double>> keysAndLabels = buildCandgenKeyAndLabelsMap(candgenString);
 				 for (Constituent c : sentner)
 				 {
 				
 				 	String key = c.getSurfaceForm();
 				 	
-				 	//replaces the original label with the one the user selected
-				 	String oldLabel = c.getLabel();
-				 	String newLabel = keysAndLabels.get(key);
-				 	Map<String,Double> labelScores = c.getLabelsToScores();
-				 	if(labelScores==null || oldLabel==null||newLabel==null)
-				 		continue;
-				 	
-				 	Double highestScore = labelScores.get(oldLabel);
-				 	
-				 	Double lowerScore = highestScore;
-				 	if(labelScores.containsKey(newLabel));
-				 		lowerScore = labelScores.get(newLabel);
-				 	
-				 	//increases the score slightly in case of ties
-				 	labelScores.put(newLabel, highestScore+1);
-				 	
-				 	labelScores.put(oldLabel, lowerScore);
-				 	
-				 	Constituent clone = new Constituent(labelScores, c.getViewName(), c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
+				 	Map<String,Double> newLabelScores = keysAndLabels.get(key);
+				 	Constituent clone;
+				 	if(!newLabelScores.isEmpty())
+				 		clone = new Constituent(newLabelScores, c.getViewName(), c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
+				 	else
+				 		clone = new Constituent(c.getLabel(), c.getViewName(),  c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
 				 	
 				 	candgenView.removeConstituent(c);
 				 	candgenView.addConstituent(clone);
@@ -1123,59 +1114,42 @@ public class DocumentController {
 
     }
 
-	public static Map<String,String> buildCandgenKeyAndLabelsMap(String candgenString)
+    public static Map<String, Map<String, Double>> buildCandgenKeyAndLabelsMap(String candgenString) throws Exception
 	{
-		Map<String,String> candgenMap = new HashMap<>(); 
-		int s = 0;
-		while(true)
+		Map<String,Map<String,Double>> candgenMap = new HashMap<>(); 
+		JSONParser parser = new JSONParser(); 
+		JSONArray jsonarray = (JSONArray) parser.parse(candgenString);
+		Iterator iterator= jsonarray.iterator();
+		while(iterator.hasNext())
 		{
-			int i1 = candgenString.indexOf('\"',s);
-			if(i1<0)
-				break;
-			int i2 = candgenString.indexOf('\"',i1+1);
+			JSONArray labelsAndScores = (JSONArray) iterator.next();
+			String surfaceForm = labelsAndScores.get(0).toString();
 			
-			int i3 = candgenString.indexOf('\"',i2+1);
-
-			int i4 = candgenString.indexOf('\"',i3+1);
-			String key = candgenString.substring(i1+1,i2);
-			String value = candgenString.substring(i3+1,i4);
-			int openingIndex = i2+2;
-			int closingIndex = getClosingIndex(candgenString, openingIndex);
 			
-
-			candgenMap.put(key, value);
+			Map<String,Double> map = new HashMap<>();
+			JSONArray candidates = (JSONArray) ((JSONArray) labelsAndScores.get(1)).get(0);
+			if(!candidates.isEmpty())
+			{
+				Object selectedLabel = candidates.get(0);
+				if(selectedLabel!=null)
+				{
+					String selectedLabelString = selectedLabel.toString();
+					candidates = (JSONArray) candidates.get(1);
+					for(int a=0;a<candidates.size();a++)
+					{
+						JSONArray candidate = (JSONArray) candidates.get(a);
+						String label = candidate.get(0).toString();
+						map.put(label,  0.0);
+					}
+					if(!map.isEmpty())
+						map.put(selectedLabelString,  1.0);
+				}
+			}
 			
-			s = closingIndex; 
+			candgenMap.put(surfaceForm, map);
+			System.out.println(candidates);
+			
 		}
-		
 		return candgenMap;
-	}
-	
-	private static int getClosingIndex(String s, int i)
-	{
-		int openingBraces = 0;
-		while(openingBraces==0)
-		{
-			if(s.charAt(i)=='[')
-			{
-				openingBraces++;
-			}
-			i++;
-		}
-		
-		
-		while(openingBraces>0)
-		{
-			if(s.charAt(i)==']')
-			{
-				openingBraces--;
-			}
-			else if(s.charAt(i)=='[')
-			{
-				openingBraces++;
-			}
-			i++;
-		}
-		return i;
 	}
 }
