@@ -37,6 +37,7 @@
 
 			.dropdown:hover .dropbtn {background-color: #3e8e41;}
 		</style>
+		   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
 	<body>
     
@@ -152,7 +153,18 @@
                                 <!--</div>-->
                                 <!--</div>-->
                                 <!--</div>-->
-                                
+                              <style>
+							   .add-new {
+       
+		height: 30px;
+		font-weight: bold;
+		font-size: 12px;
+		text-shadow: none;
+		min-width: 100px;
+		border-radius: 50px;
+		line-height: 13px;
+    }
+</style>							  
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="input-group mb-3">
@@ -163,47 +175,59 @@
                                         </div>
                                     </div>
                                 </div>
-								
+					<input type="button" class="btn btn-info labelbutton add-new" onclick="addTextFieldToTable()" value = "+Add New Link" />
 					<table class="table">
+						<thead>
+							<tr>
+								<th>Link</th>
+								<th>Actions</th>
+							</tr>
+						</thead>
 						<tbody id = "edl-menu-table">
-							
+
 						</tbody>
 					</table>
 
 						<script>
-								
-							var popup_container = document.getElementById("edl-menu-table");
-							var google_link = document.getElementById("google-search-link");
-							var header_text = google_link.getAttribute('highlighted-text'); //
+							function createEdlTable()
+							{
 							
-							var menu_links = '';
-							if(typeof(candgenMap)!='undefined' && candgenMap.has(header_text))
-							{														
-								var values = candgenMap.get(header_text);
-								var currentLabel = values[0][0];
-								var candidates = values[0][1];
-								console.log(candidates);
+								var popup_container = document.getElementById("edl-menu-table");
+								var google_link = document.getElementById("google-search-link");
+								var header_text = google_link.getAttribute('highlighted-text'); //
 								
-
-								candidates.forEach(function(element) 
-								{ 
-									var label = '"'+element[0]+'"';
+								var menu_links = '';
+								if(typeof(candgenMap)!='undefined' && candgenMap.has(header_text))
+								{														
+									var values = candgenMap.get(header_text);
+									var currentLabel = values[0][0];
+									var candidates = values[0][1];
+									console.log(candidates);
 									
-									var link = '"'+element[1]+'"';
-									var checked = "";
-									if(element[0] == currentLabel)
-										checked = "checked";
+									
+									for (var i = 0; i < candidates.length; i++) {
+										var element = candidates[i];
+										var label = '"'+element[0]+'"';
 										
-									menu_links+='<tr><td style="width:80%;"><a class='+'"edl-menu-link labelbutton" href='+link +' target="_blank">'+element[1]+'</a></td><td style="width:20%;text-align:right;"><input '+checked +' onclick="changeCurrentLabel(this)" '+' label='+label +' class= "labelbutton" type="radio" name="optradio"></td></tr>';
+										var link = '"'+element[1]+'"';
+										var checked = "";
+										if(element[0] == currentLabel)
+											checked = "checked";
+											var f = '<input '+checked +' onclick="changeCurrentLabel(this)" '+' label='+label +' class= "labelbutton" type="radio" name="optradio">';
+											var custom_radio_button_html ='<div class="labelbutton custom-control custom-radio custom-control-inline"><input type="radio" '+checked+' label='+label +' class="labelbutton custom-control-input" name="optradio" id="defaultInline'+i+'"><label class="labelbutton custom-control-label" for="defaultInline'+i+'"></label></div>'
+											var trash_button = '<a label='+label+' onclick="tt(this,'+i+')" style="background-color:#D3D3D3; padding:3px 7px;" class="labelbutton" data-toggle="tooltip" title="delete"><i class="fa fa-trash labelbutton"></i></a>';
+											menu_links+='<tr><td><a class='+'"edl-menu-link labelbutton" href='+link +' target="_blank">'+element[1]+'</a></td><td style="text-align:right;">'+custom_radio_button_html+trash_button+'</td></tr>';
 
-								});
+									}
+									
 
 
-								var edl_html= menu_links;
+									var edl_html= menu_links;
 
-								popup_container.innerHTML+=edl_html;
-								
-										
+									popup_container.innerHTML+=edl_html;
+									
+											
+								}
 							}
 							
 							function changeCurrentLabel(rb)
@@ -220,9 +244,102 @@
 									candgenMap[header_text] = values;
 								}								
 							}
+							function addTextFieldToTable()
+							{
+								var popup_container = document.getElementById("edl-menu-table");
+								//var custom_radio_button_html ='<div class="labelbutton custom-control custom-radio custom-control-inline"><input type="radio" '+checked+' label='+label +' class="labelbutton custom-control-input" name="optradio" id="defaultInline'+i+'"><label class="labelbutton custom-control-label" for="defaultInline'+i+'"></label></div>'
+								var trash_button = '<a onclick="deleteLastRow()" style="background-color:#D3D3D3; padding:3px 7px;" class="labelbutton" data-toggle="tooltip" title="delete"><i class="fa fa-trash labelbutton"></i></a>';
+								var add_button = '<a onclick="addNewLink()" style="background-color:#D3D3D3; padding:3px 7px;" class="labelbutton" data-toggle="tooltip" title="add"><i class="fa fa-plus labelbutton"></i></a>';
+								add_button ='<div class="labelbutton custom-control custom-control-inline">'+add_button+'</div>'
+											
+								var textfield = '<input id ="new-link" class="labelbutton" type="text">';			
+								popup_container.innerHTML+='<tr><td>'+textfield+'</td><td style="text-align:right;">'+add_button+trash_button+'</td></tr>';
+							}
+							function deleteLastRow()
+							{
+								var popup_container = document.getElementById("edl-menu-table");
+								popup_container.removeChild(popup_container.lastChild);
+							}
+							function addNewLink()
+							{
+								var popup_container = document.getElementById("edl-menu-table");
 								
+								var google_link = document.getElementById("google-search-link");
+								var header_text = google_link.getAttribute('highlighted-text'); //
+								
+								var textfield = document.getElementById('new-link'); //
+								
+								if(!textfield.value.startsWith("https://"))
+								{
+									alert("Error, link must start with https://")
+									return;
+								}
+								var values = [];
+								if(candgenMap.has(header_text))
+								{	
+									values = candgenMap.get(header_text);
+								}
+								var url = textfield.value;
+								
+								var newLabel = "dummy_id|"+header_text+"|"+url;
+								values[0][0] = newLabel;
+								var newCandidate = [newLabel,url]
+								values[0][1].push(newCandidate);
+								candgenMap[header_text] = values;
+								
+								console.log(candgenMap);
+								popup_container.innerHTML = '';
+								createEdlTable();
+								
+							}
 						</script>
-						
+						<script>
+						$(document).ready(function(){
+						  $('[data-toggle="tooltip"]').tooltip(); 
+							createEdlTable();						  
+						});
+						function tt(rb, tableRow)
+						{
+							//alert(tableRow);
+							var google_link = document.getElementById("google-search-link");
+							var header_text = google_link.getAttribute('highlighted-text'); //
+							var popup_container = document.getElementById("edl-menu-table");
+								
+							
+							if(typeof(candgenMap)!='undefined' && candgenMap.has(header_text))
+							{	
+								console.log(candgenMap);
+								var values = candgenMap.get(header_text);
+								var chosenLabel = rb.getAttribute("label");
+								var candidates = values[0][1];
+								console.log(candidates)
+								console.log(chosenLabel)
+								for(var i =0;i<candidates.length;i++)
+								{
+									if(candidates[i][0] == chosenLabel)
+									{
+									console.log(candidates[i][0])
+										candidates.splice(i, 1);
+										break;
+									}
+								}
+								if(candidates.length>0)
+								{
+									values[0][0] = candidates[0][0];
+								}
+								else
+								{
+									values[0][0] = null;
+								}
+								candgenMap[header_text] = values;
+								console.log(candgenMap);
+								
+								popup_container.innerHTML = '';
+								createEdlTable();
+							}	
+							
+						}
+						</script>
 					</div>
 					
 				</template>

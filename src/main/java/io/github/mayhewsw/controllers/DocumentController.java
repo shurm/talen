@@ -384,10 +384,16 @@ public class DocumentController {
 				 	Map<String,Double> labelScores = c.getLabelsToScores();
 				 	if(labelScores==null || oldLabel==null||newLabel==null)
 				 		continue;
+				 	
 				 	Double highestScore = labelScores.get(oldLabel);
-				 	Double lowerScore = labelScores.get(newLabel);
+				 	
+				 	Double lowerScore = highestScore;
+				 	if(labelScores.containsKey(newLabel));
+				 		lowerScore = labelScores.get(newLabel);
+				 	
 				 	//increases the score slightly in case of ties
 				 	labelScores.put(newLabel, highestScore+1);
+				 	
 				 	labelScores.put(oldLabel, lowerScore);
 				 	
 				 	Constituent clone = new Constituent(labelScores, c.getViewName(), c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
