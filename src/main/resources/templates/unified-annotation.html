@@ -216,7 +216,7 @@
 											checked = "checked";
 											var f = '<input '+checked +' onclick="changeCurrentLabel(this)" '+' label='+label +' class= "labelbutton" type="radio" name="optradio">';
 											var custom_radio_button_html ='<div class="labelbutton custom-control custom-radio custom-control-inline"><input type="radio" '+checked+' label='+label +' class="labelbutton custom-control-input" name="optradio" id="defaultInline'+i+'"><label class="labelbutton custom-control-label" for="defaultInline'+i+'"></label></div>'
-											var trash_button = '<a label='+label+' onclick="tt(this,'+i+')" style="background-color:#D3D3D3; padding:3px 7px;" class="labelbutton" data-toggle="tooltip" title="delete"><i class="fa fa-trash labelbutton"></i></a>';
+											var trash_button = '<a label='+label+' onclick="removeLinkFromMap(this,'+i+')" style="background-color:#D3D3D3; padding:3px 7px;" class="labelbutton" data-toggle="tooltip" title="delete"><i class="fa fa-trash labelbutton"></i></a>';
 											menu_links+='<tr><td><a class='+'"edl-menu-link labelbutton" href='+link +' target="_blank">'+element[1]+'</a></td><td style="text-align:right;">'+custom_radio_button_html+trash_button+'</td></tr>';
 
 									}
@@ -282,13 +282,13 @@
 									values = candgenMap.get(header_text);
 								}
 								var url = textfield.value;
-								console.log("url is "+url);
-								console.log("url is "+values);
+								//console.log("url is "+url);
+								//console.log("values is "+values);
 								var newLabel = "dummy_id|"+header_text+"|"+url;
 								values[0][0] = newLabel;
 								var newCandidate = [newLabel,url]
 								values[0][1].push(newCandidate);
-								console.log("header_text is "+header_text);
+								//console.log("header_text is "+header_text);
 
 								candgenMap.set(header_text, values);
 								console.log(candgenMap);
@@ -305,7 +305,7 @@
 						  $('[data-toggle="tooltip"]').tooltip(); 
 							createEdlTable();						  
 						});
-						function tt(rb, tableRow)
+						function removeLinkFromMap(rb, tableRow)
 						{
 							//alert(tableRow);
 							var google_link = document.getElementById("google-search-link");
@@ -319,13 +319,13 @@
 								var values = candgenMap.get(header_text);
 								var chosenLabel = rb.getAttribute("label");
 								var candidates = values[0][1];
-								console.log(candidates)
-								console.log(chosenLabel)
+								//console.log(candidates)
+								//console.log(chosenLabel)
 								for(var i =0;i<candidates.length;i++)
 								{
 									if(candidates[i][0] == chosenLabel)
 									{
-									console.log(candidates[i][0])
+									//console.log(candidates[i][0])
 										candidates.splice(i, 1);
 										break;
 									}
@@ -339,15 +339,15 @@
 									values[0][0] = null;
 								}
 								candgenMap[header_text] = values;
-								console.log(candgenMap);
+								//console.log(candgenMap);
 								
-								console.log(JSON.stringify(candgenMap));
+								//console.log(JSON.stringify(candgenMap));
 								
 								popup_container.innerHTML = '';
 								createEdlTable();
 								
 								
-								console.log(JSON.stringify(candgenMap));
+								//console.log(JSON.stringify(candgenMap));
 								
 							}	
 							
