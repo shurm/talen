@@ -366,31 +366,37 @@ public class DocumentController {
             System.out.println("tas is "+tas);
            
             TextAnnotation taToSave = tas.get(taid);
-            System.out.println("taToSave is "+taToSave);
+           
+           
+            //System.out.println("taToSave is "+taToSave);
             //System.out.println("foldertype is "+foldertype);
             //System.out.println("outpath is "+outpath);
             
             if(taToSave.hasView("CANDGEN"))
     		{
             	View candgenView = taToSave.getView("CANDGEN");
-				List<Constituent> sentner = candgenView.getConstituents();
+            	View nerView = taToSave.getView("NER_CONLL");
+            	List<Constituent> sentner = nerView.getConstituents();
 				//System.out.println("candgenString is "+candgenString);
 
 				Map<String, Map<String,Double>> keysAndLabels = buildCandgenKeyAndLabelsMap(candgenString);
+				candgenView.removeAllConsituents();
 				 for (Constituent c : sentner)
 				 {
 				
 				 	String key = c.getSurfaceForm();
-				 	
-				 	Map<String,Double> newLabelScores = keysAndLabels.get(key);
-				 	Constituent clone;
-				 	if(!newLabelScores.isEmpty())
-				 		clone = new Constituent(newLabelScores, c.getViewName(), c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
-				 	else
-				 		clone = new Constituent(c.getLabel(), c.getViewName(),  c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
-				 	
-				 	candgenView.removeConstituent(c);
-				 	candgenView.addConstituent(clone);
+				 	if(keysAndLabels.containsKey(key))
+				 	{
+					 	Map<String,Double> newLabelScores = keysAndLabels.get(key);
+					 	Constituent clone;
+					 	if(!newLabelScores.isEmpty())
+					 		clone = new Constituent(newLabelScores, c.getViewName(), c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
+					 	else
+					 		clone = new Constituent("NIL", c.getViewName(),  c.getTextAnnotation(),c.getStartSpan(), c.getEndSpan());
+					 	
+					
+					 	candgenView.addConstituent(clone);
+				 	}
 				}
     		}
            // taToSave.

@@ -197,6 +197,7 @@
 								var header_text = google_link.getAttribute('highlighted-text'); //
 								
 								var menu_links = '';
+								console.log(candgenMap.has(header_text));
 								if(typeof(candgenMap)!='undefined' && candgenMap.has(header_text))
 								{														
 									var values = candgenMap.get(header_text);
@@ -274,19 +275,22 @@
 									alert("Error, link must start with https://")
 									return;
 								}
-								var values = [];
+								var values = [null,[]];
+								values = [values];
 								if(candgenMap.has(header_text))
 								{	
 									values = candgenMap.get(header_text);
 								}
 								var url = textfield.value;
-								
+								console.log("url is "+url);
+								console.log("url is "+values);
 								var newLabel = "dummy_id|"+header_text+"|"+url;
 								values[0][0] = newLabel;
 								var newCandidate = [newLabel,url]
 								values[0][1].push(newCandidate);
-								candgenMap[header_text] = values;
-								
+								console.log("header_text is "+header_text);
+
+								candgenMap.set(header_text, values);
 								console.log(candgenMap);
 								popup_container.innerHTML = '';
 								createEdlTable();
@@ -337,13 +341,13 @@
 								candgenMap[header_text] = values;
 								console.log(candgenMap);
 								
-								//console.log(JSON.stringify(candgenMap));
+								console.log(JSON.stringify(candgenMap));
 								
 								popup_container.innerHTML = '';
 								createEdlTable();
 								
 								
-								//console.log(JSON.stringify(candgenMap));
+								console.log(JSON.stringify(candgenMap));
 								
 							}	
 							
